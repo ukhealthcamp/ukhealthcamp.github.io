@@ -6,7 +6,7 @@ This Repository contains the source code to the http://ukhealthcamp.com/ website
 
 ## Jekyll
 
-This is a re-imagining of the UKHealthCamp website, now entierly built by Jekyll and 98% less full of unused vestigial Bootstrap css and boiler-plate. 
+This is a re-imagining of the UKHealthCamp website, now entirely built by Jekyll and 98% less full of unused vestigial Bootstrap css and boiler-plate. 
 Previously the site was built from the https://github.com/ukhealthcamp/ukhealthcamp_website repository using Node and Bower.
 
 Everything is now built from [Kramdown](https://kramdown.gettalong.org/) source files into html using the template in `_layouts` by Jekyll. CSS is compiled from stylesheets and SCSS file in `_sass` to a single compressed file.
