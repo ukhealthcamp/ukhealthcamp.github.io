@@ -95,7 +95,7 @@ There are several ways to help us put on UK Health Camp:
 - Donate money or resources.
 - Attend UK Health Camp and participate (sign up at the top of this page).
 - Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)
-- Print off a poster to put in your office/surgery/ward/toilet ([one colour](posters/poster_mono.pdf), [two colours](posters/poster_twocolours.pdf))
+- Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/poster_mono.pdf), [two colours](branding/posters/poster_twocolours.pdf))
 
 **If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com).**
 
