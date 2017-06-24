@@ -3,6 +3,7 @@ layout: default
 title: "UKHealthCamp is the free ‘unconference’ for everyone interested in digital, design and data for health and care"
 ---
 {::options parse_block_html="true" /}
+
 <div class="jumbotron">
 
 ![UKHealthCamp Logo](images/ukhealthcamp_logo.png){:width="300"}

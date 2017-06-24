@@ -1,10 +1,10 @@
 .btn {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 10px 16px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: normal;
-  line-height: 1.42857143;
+  line-height: 1.5;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
@@ -15,7 +15,7 @@
           user-select: none;
   background-image: none;
   border: 1px solid transparent;
-  /*border-radius: 4px;*/
+  /*border-radius: 6px;*/
 }
 .btn:focus,
 .btn:active:focus,
@@ -146,13 +146,6 @@ fieldset[disabled] .btn-primary.active {
 
 a.btn {
   text-decoration: none;
-}
-
-.btn-lg {
-  padding: 10px 16px;
-  font-size: 18px;
-  line-height: 1.5;
-  /*border-radius: 6px;*/
 }
 
 .btn-white {

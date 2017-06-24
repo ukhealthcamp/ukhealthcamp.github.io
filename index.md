@@ -3,11 +3,17 @@ layout: default
 title: "UKHealthCamp is the free ‘unconference’ for everyone interested in digital, design and data for health and care"
 ---
 {::options parse_block_html="true" /}
+
 <div class="alert-bar">
-<span class="left">[Sponsor Us &raquo;](https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13#:h2=%F0%9F%92%A1UKHealthCamp-sponsorship){:class="btn btn-white btn-lg"}</span>
-Tickets will be available from June 30 - watch this space! &nbsp;&nbsp; [Register &raquo;](){:class="btn btn-primary btn-lg disabled"}
+
+<span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
+Tickets will be available from June 30 - watch this space! &nbsp;&nbsp; [Register &raquo;](){:class="btn btn-primary disabled"}
 <span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)</span>
+
+[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
+
 </div>
+
 
 <div class="jumbotron">
 
@@ -17,7 +23,7 @@ Tickets will be available from June 30 - watch this space! &nbsp;&nbsp; [Registe
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
 {::comment}
-<a href="https://www.eventbrite.co.uk/e/ukhealthcamp-2015-tickets-18711686157" class="btn btn-success btn-lg">Get tickets</a>
+[Get tickets](https://www.eventbrite.co.uk/e/ukhealthcamp-2015-tickets-18711686157){class="btn btn-success"}
 {:/comment}
 
 **September 30 2017  
@@ -31,15 +37,17 @@ We'll announce tickets to our mailing list first: sign up now so you don't miss 
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
 <label class="sr-only" for="mce-EMAIL">Email address</label>
 <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Your email address">
-<button type="submit" class="btn btn-info btn-lg" name="subscribe" id="mc-embedded-subscribe">Join mailing list</button>
+<button type="submit" class="btn btn-info" name="subscribe" id="mc-embedded-subscribe">Join mailing list</button>
 </form>
 
 [![Twitter](images/twitter_logo.png){:width="50" class="logo"}](https://twitter.com/UKHealthCamp)
 [![GitHub](images/github_logo.png){:width="50" class="logo"}](https://github.com/UKHealthCamp)
 
-[Sponsor Us &raquo;](https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13#:h2=%F0%9F%92%A1UKHealthCamp-sponsorship){:class="btn btn-white btn-lg btn-sponsor"}
+[Sponsor Us &raquo;][1]{:class="btn btn-white btn-sponsor"}
 
 </div>
+
+
 <div class="section">
 
 ## What is UK Health Camp?
@@ -59,9 +67,11 @@ Our events are multidisciplinary - we aim to bring together health and care prof
 
 Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
-[Sponsor Us &raquo;](https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13#:h2=%F0%9F%92%A1UKHealthCamp-sponsorship){:class="btn btn-danger btn-lg btn-sponsor"}
+[Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
 
 </div>
+
+
 <div class="section blue">
 
 ## How does it work?
@@ -73,6 +83,8 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 - Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/) 
 
 </div>
+
+
 <div class="section orange">
 
 ## How can I get involved?
@@ -87,6 +99,6 @@ There are several ways to help us put on UK Health Camp:
 
 **If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com).**
 
-[Sponsor Us &raquo;](https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13#:h2=%F0%9F%92%A1UKHealthCamp-sponsorship){:class="btn btn-success btn-lg btn-sponsor"}
+[Sponsor Us &raquo;][1]{:class="btn btn-success btn-sponsor"}
 
 </div>
