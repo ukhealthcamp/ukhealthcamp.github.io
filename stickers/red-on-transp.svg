@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 500 500"
+   enable-background="new 0 0 841.9 659.7"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="red-on-transp-2svg.svg"
+   inkscape:export-filename="/Users/helen/Desktop/white-on-red.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2280"
+     inkscape:window-height="1403"
+     id="namedview20"
+     showgrid="false"
+     inkscape:snap-grids="false"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:zoom="1.888"
+     inkscape:cx="206.3777"
+     inkscape:cy="227.18769"
+     inkscape:window-x="59"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1"
+     inkscape:snap-page="true" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient4176"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4178" />
+    </linearGradient>
+    <style
+       id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic);</style>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter4156">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 1.76 0 "
+         result="color2"
+         id="feColorMatrix4158" />
+    </filter>
+  </defs>
+  <circle
+     style="fill:none;fill-opacity:1;stroke:none;stroke-opacity:1"
+     id="path4156"
+     cx="250"
+     cy="250.00002"
+     r="250" />
+  <circle
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.27176404;stroke-opacity:1"
+     id="path4282"
+     cx="-345.80823"
+     cy="-73.975433"
+     transform="matrix(-0.54359069,-0.83935044,-0.83935044,0.54359069,0,0)"
+     r="236.86412"
+     inkscape:transform-center-y="0.043645358"
+     inkscape:transform-center-x="-0.068949152" />
+  <circle
+     r="0.52632362"
+     cy="250"
+     cx="250"
+     id="circle4292"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.00282592;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="text4324"
+     sodipodi:linespacing="125%"
+     inkscape:transform-center-x="-1.0578849"
+     inkscape:transform-center-y="187.27185"
+     transform="matrix(-0.82770969,0.56115655,-0.56115655,-0.82770969,597.22264,316.58202)"><textPath
+       xlink:href="#circle4297"
+       id="textPath4328"></textPath></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="168"
+     y="305.5"
+     id="text4331"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4333"
+       x="168"
+       y="305.5" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e53321;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="text3343"
+     sodipodi:linespacing="125%"
+     inkscape:transform-center-x="-19.017211"
+     inkscape:transform-center-y="219.13676"
+     transform="matrix(-0.36303449,-0.93177571,0.93177571,-0.36303449,107.56505,571.30953)"><textPath
+       xlink:href="#path4282"
+       id="textPath3347"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e53321;fill-opacity:1;stroke:none;stroke-opacity:1;">ukhealthcamp.com</textPath></text>
+  <ellipse
+     inkscape:transform-center-x="0.012386639"
+     inkscape:transform-center-y="-0.0080592631"
+     transform="matrix(0.54359061,-0.83935049,0.83935039,0.54359076,0,0)"
+     cy="345.73526"
+     cx="-73.939911"
+     id="circle3376"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.00391221;stroke-opacity:1"
+     rx="186.97853"
+     ry="186.97852" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e53321;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="text3378"
+     sodipodi:linespacing="125%"
+     inkscape:transform-center-x="-4.2871334"
+     inkscape:transform-center-y="-167.40767"
+     transform="matrix(-0.15484936,-0.98793809,0.98793809,-0.15484936,41.399602,537.02734)"><textPath
+       xlink:href="#circle3376"
+       id="textPath3382"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e53321;fill-opacity:1;stroke:none;stroke-opacity:1;">UK Health Camp</textPath></text>
+  <ellipse
+     inkscape:transform-center-x="-0.012371615"
+     inkscape:transform-center-y="-0.0080385532"
+     transform="matrix(-0.54359059,-0.83935051,-0.83935038,0.54359078,0,0)"
+     cy="-73.939964"
+     cx="-345.73526"
+     id="circle3385"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.00391603;stroke-opacity:1"
+     rx="186.97853"
+     ry="186.97852" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e53321;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="text3387"
+     sodipodi:linespacing="125%"
+     inkscape:transform-center-x="201.95084"
+     inkscape:transform-center-y="81.866177"
+     transform="matrix(0.46343679,-0.88612998,0.88612998,0.46343679,-85.416315,352.92581)"><textPath
+       xlink:href="#path4282"
+       id="textPath3401"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e53321;fill-opacity:1;stroke:none;stroke-opacity:1;">#ukhc17</textPath></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e53321;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="text4253"
+     sodipodi:linespacing="125%"
+     inkscape:transform-center-x="-204.49246"
+     inkscape:transform-center-y="58.989097"
+     transform="matrix(-0.92411609,0.38211183,-0.38211183,-0.92411609,577.12587,384.91519)"><textPath
+       xlink:href="#path4282"
+       id="textPath4257"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e53321;fill-opacity:1;stroke:none;stroke-opacity:1;">#ukhc17</textPath></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="-313.55933"
+     y="6.8855934"
+     id="text4154"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4156"
+       x="-313.55933"
+       y="6.8855934" /></text>
+  <path
+     id="path4206"
+     d="m 220.44049,225.84343 c 17.94895,-7.55745 18.65746,-35.89789 10.62766,-50.54045 -10.62766,-19.83831 -37.55107,-16.53193 -55.73619,-11.33618 4.95958,-14.40639 14.17022,-34.24469 30.93831,-37.07874 16.53193,-2.83404 32.82768,7.32129 46.99789,14.17022 12.7532,5.90426 35.42555,13.46171 44.63619,-2.83404 2.83404,-6.84894 -5.43191,-12.51702 -12.98936,-17.24043 -7.32129,-4.72341 -15.11491,-9.21064 -23.1447,-12.04469 176.18306,-37.314909 180.90646,332.29164 -5.43191,279.62566 -13.46171,-3.77873 -26.45108,-9.21064 -38.9681,-15.58725 17.4766,1.41702 36.13405,-0.47233 50.0681,-11.80851 12.04469,-9.68298 18.18512,-29.75746 -1.41702,-34.48087 -17.71277,-4.25106 -36.84257,6.61277 -54.31917,8.02979 -21.96384,1.88936 -40.62129,2.36171 -53.13832,-14.87872 9.68298,-1.18086 17.24043,-3.77873 21.01916,-6.61278 6.61276,-4.7234 12.98936,-11.33618 13.4617,-19.83831 1.18086,-16.29575 -11.33618,-31.41064 -25.27022,-38.25958 -6.3766,-3.07022 -14.17022,-4.25107 -21.01916,-2.3617 -8.97447,2.59786 -11.57235,10.39148 -17.94894,16.29575 -6.14043,5.90426 -11.80852,10.15532 -20.31065,11.80851 -9.919151,1.65319 -19.365963,-3.07022 -27.159584,-8.97447 C 77.085111,268.59025 73.542556,264.81153 70,261.03281 c 15.823414,2.3617 37.07874,6.3766 46.28938,-11.57235 7.55745,-14.40639 -1.41702,-30.70214 6.61277,-45.10854 10.15533,-18.65745 35.89789,-4.01489 48.65108,3.3064 14.64256,8.50213 29.04895,26.45107 48.88726,18.18511 z m 82.42344,-27.15959 c -3.77873,0 -6.84894,3.07021 -6.84894,6.84894 l 0,26.92342 -26.92342,0 c -3.77872,0 -6.84893,3.07022 -6.84893,6.84894 l 0,20.31065 c 0,3.77872 3.07021,6.84894 6.84893,6.84894 l 26.92342,0 0,26.9234 c 0,3.77873 3.07021,6.84894 6.84894,6.84894 l 20.31064,0 c 3.77873,0 6.84894,-3.07021 6.84894,-6.84894 l 0,-27.39575 26.92342,0 c 3.77873,0 6.84894,-3.07021 6.84894,-6.84894 l 0,-20.31064 c 0,-3.77873 -3.07021,-6.84894 -6.84894,-6.84894 l -27.15959,0 0,-26.68725 c 0,-3.77872 -3.07021,-6.84894 -6.84894,-6.84894 l -20.07447,0 z"
+     inkscape:connector-curvature="0"
+     style="fill:#e53321;fill-opacity:1" />
+</svg>
