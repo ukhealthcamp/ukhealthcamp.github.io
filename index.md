@@ -109,7 +109,7 @@ There are several ways to help us put on UK Health Camp:
 
 **If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com).**
 
-[Sponsor Us &raquo;][1]{:class="btn btn-success btn-sponsor"}
+[Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
 
 </div>
 
