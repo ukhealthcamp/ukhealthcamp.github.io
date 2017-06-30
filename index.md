@@ -7,7 +7,7 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 <div class="alert-bar top">
 
 <span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
-Tickets are available now! &nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
+Batch 1 tickets are available now! &nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
 <span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)</span>
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
@@ -31,7 +31,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 London, venue TBC  
 [#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)**
 
-Tickets are available now!
+Batch 1 tickets are available now!
 
 We'll announce tickets to our mailing list first: sign up now so you don't miss out.
 
@@ -47,6 +47,8 @@ We'll announce tickets to our mailing list first: sign up now so you don't miss 
 </div>
 
 <div class="section cta">
+
+Batch 1 tickets are available now!
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
@@ -115,6 +117,8 @@ There are several ways to help us put on UK Health Camp:
 
 
 <div class="section cta">
+
+Batch 1 tickets are available now!
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
