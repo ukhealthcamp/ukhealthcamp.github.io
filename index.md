@@ -7,7 +7,7 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 <div class="alert-bar top">
 
 <span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
-Tickets will be available from June 30 - watch this space! &nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
+Tickets are available now! &nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
 <span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)</span>
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
@@ -31,7 +31,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 London, venue TBC  
 [#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)**
 
-Tickets will be available from June 30.
+Tickets are available now!
 
 We'll announce tickets to our mailing list first: sign up now so you don't miss out.
 
