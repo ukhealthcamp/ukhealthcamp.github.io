@@ -4,13 +4,14 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 ---
 {::options parse_block_html="true" /}
 
-<div class="alert-bar">
+<div class="alert-bar top">
 
 <span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
-Tickets will be available from June 30 - watch this space! &nbsp;&nbsp; [Register &raquo;](){:class="btn btn-primary disabled"}
+Tickets will be available from June 30 - watch this space! &nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
 <span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)</span>
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
+[2]: https://ti.to/ukhealthcamp/2017
 
 </div>
 
@@ -23,7 +24,7 @@ Tickets will be available from June 30 - watch this space! &nbsp;&nbsp; [Registe
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
 {::comment}
-[Get tickets](https://www.eventbrite.co.uk/e/ukhealthcamp-2015-tickets-18711686157){class="btn btn-success"}
+[Get tickets](https://ti.to/ukhealthcamp/2017){class="btn btn-success"}
 {:/comment}
 
 **September 30 2017  
@@ -43,7 +44,16 @@ We'll announce tickets to our mailing list first: sign up now so you don't miss 
 [![Twitter](images/twitter_logo.png){:width="50" class="logo"}](https://twitter.com/UKHealthCamp)
 [![GitHub](images/github_logo.png){:width="50" class="logo"}](https://github.com/UKHealthCamp)
 
-[Sponsor Us &raquo;][1]{:class="btn btn-white btn-sponsor"}
+</div>
+
+<div class="section cta">
+
+[Sponsor Us &raquo;][1]{:class="btn btn-white"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
+
+
+[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
+[2]: https://ti.to/ukhealthcamp/2017
 
 </div>
 
@@ -100,5 +110,17 @@ There are several ways to help us put on UK Health Camp:
 **If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com).**
 
 [Sponsor Us &raquo;][1]{:class="btn btn-success btn-sponsor"}
+
+</div>
+
+
+<div class="section cta">
+
+[Sponsor Us &raquo;][1]{:class="btn btn-white"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
+
+
+[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
+[2]: https://ti.to/ukhealthcamp/2017
 
 </div>
