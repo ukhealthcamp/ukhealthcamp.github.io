@@ -29,13 +29,19 @@ layout: compress
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="css/style.css">
 </head>
-    <body>
+    <body class="{{ layout.body-class | default: "default" }}{% if site.show_alert %} with-alert{% endif %}">
         <!--[if lt IE 10]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
+        {% if site.show_alert %}
+        {% capture alert_include %}{% include_relative alert-bar.md %}{% endcapture %}
+        <div class="alert-bar">
+        {{ alert_include | markdownify }}
+        </div>
+        {% endif %}
         {{ content }}
         <div class="footer">
-            <p>Website by <a href="http://twitter.com/sheldonline">@sheldonline</a> and <a href="http://twitter.com/@blu3id">@blu3id</a>.<br>
+            <p>Website by <a href="http://twitter.com/sheldonline">@sheldonline</a> and <a href="http://twitter.com/blu3id">@blu3id</a>.<br>
             <a href="https://github.com/ukhealthcamp/ukhealthcamp.github.io">View source code</a>. <br>
             Hosted by <a href="https://github.com/ukhealthcamp/ukhealthcamp.github.io">GitHub</a><br>
             All content is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>

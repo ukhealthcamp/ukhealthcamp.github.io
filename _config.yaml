@@ -3,6 +3,7 @@ markdown: kramdown
 highlighter: null
 sass:
     style: compressed
+show_alert: true
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]

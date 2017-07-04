@@ -85,7 +85,6 @@ input {
   background-color: #e5332a;
   color: #fff; 
   padding: 45px;
-  padding-top: 200px;
   a {
     color: #fff; 
   }
@@ -126,7 +125,7 @@ input {
 }
 
 .cta {
-  padding: 30px 0px 25px 0px !important;
+  padding: 30px 45px 25px 45px !important;
   font-weight: 500;
   vertical-align: middle;
   background-color: #56B334;
@@ -169,20 +168,43 @@ a.btn {
   color: #fff;
 }
 
+.header {
+  text-align: center;
+  background-color: #e5332a;
+  color: #fff;
+  padding: 25px;
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+  img {
+    vertical-align: middle;
+  }
+  h1 {
+    display: inline;
+    vertical-align: middle;
+    font-size: 38px;
+    margin-left: 20px;
+  }
+}
+
+.with-alert .jumbotron, .with-alert .header {
+  padding-top: 187px;
+}
+
 .footer {
   padding: 50px 45px;
   font-weight: 200;
 }
 
 @media screen and (min-width: 680px) {
-  .jumbotron {
+  .with-alert .jumbotron, .with-alert .header {
     padding-top: 158px;
   }
 }
 
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding-top: 158px;
     padding-bottom: 48px;
     p, ul {
       max-width: 520px;
@@ -200,6 +222,15 @@ a.btn {
       box-sizing: border-box;
     }
   }
+  .header {
+    padding: 45px;
+    h1 {
+      font-size: 58px;
+    }
+  }
+  .with-alert .jumbotron, .with-alert .header {
+    padding-top: 173px;
+  }
   .footer p {
     max-width: 700px;
     margin-left: auto;
@@ -216,8 +247,8 @@ a.btn {
 }
 
 @media screen and (min-width: 920px) {
-  .jumbotron {
-    padding-top: 100px;
+  .with-alert .jumbotron, .with-alert .header {
+    padding-top: 114px;
   }
   .alert-bar {
     .left {

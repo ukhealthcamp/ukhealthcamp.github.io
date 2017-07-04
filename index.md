@@ -4,18 +4,6 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 ---
 {::options parse_block_html="true" /}
 
-<div class="alert-bar top">
-
-<span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
-Next ticket release on Wed 12th July at 11am &nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
-<span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)</span>
-
-[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
-[2]: https://ti.to/ukhealthcamp/2017
-
-</div>
-
-
 <div class="jumbotron">
 
 ![UKHealthCamp Logo](images/ukhealthcamp_logo.png){:width="300"}
@@ -29,7 +17,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 
 **September 30 2017  
 London, venue TBC  
-[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)**
+[#ukhc17](https://twitter.com/search?q=%23ukhc17)**
 
 Next ticket release on Wed 12th July at 11am
 
@@ -53,7 +41,6 @@ Next ticket release on Wed 12th July at 11am
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
 
-
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
 [2]: https://ti.to/ukhealthcamp/2017
 
@@ -73,7 +60,7 @@ This isn't the first HealthCamp - [similar](http://healthca.mp) [events](https:/
 
 Our events are multidisciplinary - we aim to bring together health and care professionals, policy makers and service managers together with designers, digital specialists and technologists. Everyone is welcome.
 
-**We have a [Code of Conduct](/coc).**
+**We have a [Code of Conduct](/code-of-conduct).**
 
 ## Our supporters
 
@@ -124,9 +111,5 @@ Next ticket release on Wed 12th July at 11am
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
-
-
-[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
-[2]: https://ti.to/ukhealthcamp/2017
 
 </div>

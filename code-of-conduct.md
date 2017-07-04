@@ -1,21 +1,7 @@
 ---
-layout: default
+layout: generic
 title: "UKHealthCamp - Code of Conduct"
 ---
-{::options parse_block_html="true" /}
-
-<div class="alert-bar top">
-
-<span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
-Next ticket release on Wed 12th July at 11am &nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
-<span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)</span>
-
-[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
-[2]: https://ti.to/ukhealthcamp/2017
-
-</div>
-
-<div class="section">
 
 ## Code of Conduct
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Organisers and helpers can be identified by t-shirts.
@@ -30,22 +16,6 @@ We will be happy to help participants contact venue security or local law enforc
 
 We expect participants to follow these rules at conference and workshop venues and unconference-related social events.
 
-
 <br/>
 <br/>
-*Code of Conduct adopted from [codeofconduct.com](http://codeofconduct.com) and [UKGovCamp](https://www.ukgovcamp.com/code-of-conduct)*
-
-</div>
-
-<div class="section cta">
-
-Next ticket release on Wed 12th July at 11am
-
-[Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
-
-
-[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
-[2]: https://ti.to/ukhealthcamp/2017
-
-</div>
+_Code of Conduct adopted from [codeofconduct.com](http://codeofconduct.com) and [UKGovCamp](https://www.ukgovcamp.com/code-of-conduct)_
