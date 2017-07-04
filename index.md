@@ -73,6 +73,8 @@ This isn't the first HealthCamp - [similar](http://healthca.mp) [events](https:/
 
 Our events are multidisciplinary - we aim to bring together health and care professionals, policy makers and service managers together with designers, digital specialists and technologists. Everyone is welcome.
 
+**We have a [Code of Conduct](/coc).**
+
 ## Our supporters
 
 [![Open Health Care](images/openhealthcare.png){:width="180" class="sponsor"}](http://openhealthcare.org.uk/)
