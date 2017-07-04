@@ -33,7 +33,7 @@ We expect participants to follow these rules at conference and workshop venues a
 
 <br/>
 <br/>
-*Code of Conduct adopted from [codeofconduct.org](http://codeofconduct.com) and [UKGovCamp](https://www.ukgovcamp.com/code-of-conduct)*
+*Code of Conduct adopted from [codeofconduct.com](http://codeofconduct.com) and [UKGovCamp](https://www.ukgovcamp.com/code-of-conduct)*
 
 </div>
 
