@@ -15,6 +15,12 @@ Everything is now built from [Kramdown](https://kramdown.gettalong.org/) source 
 
 To display the "Alert Bar" on all pages set `show_alert: true` in `_config.yaml` and it will appear, to hide it set `show_alert: false`. To edit the contents of the bar simply edit `alert-bar.md` the file is (Mark)Kramdown.
 
+### Page types
+
+There are two templates `default.html` and `generic.html`. Default is a minimal template that simply adds appropriate html `<head>` content and the global "Alert Bar" (if enabled) and site footer. Generic is more prescriptive and adds a simple header bar and provides for simple "plain text" pages (of course (Mark)Kramdown is supported).
+
+To select the appropriate template simply chose either `layout: default` of `layout: generic` in the file frontmatter.
+
 ## Getting Started
 
 Simply edit (Mark)Kramdown files in your editor of choice and push, GitHub pages will do the rest of the magic.

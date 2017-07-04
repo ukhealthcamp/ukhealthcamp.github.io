@@ -2,7 +2,6 @@
 layout: generic
 title: "UKHealthCamp - Code of Conduct"
 ---
-{::options parse_block_html="true" /}
 
 ## Code of Conduct
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Organisers and helpers can be identified by t-shirts.
