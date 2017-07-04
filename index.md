@@ -54,7 +54,7 @@ There’s lots of brilliant things happening to make health and care services be
 
 **Our aim is to provide a space to connect, share ideas and make things happen.**
 
-This isn't the first HealthCamp - [similar](http://healthca.mp) [events](https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK two years ago.
+This isn't the first HealthCamp - [similar events](https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK two years ago.
 
 **We are open to all**, whether you work for the NHS or not.
 
