@@ -4,11 +4,11 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 ---
 {::options parse_block_html="true" /}
 
-<div class="alert-bar top">
+<div class="alert-bar">
 
 <span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
 Next ticket release on Wed 12th July at 11am &nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
-<span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)</span>
+<span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17)</span>
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
 [2]: https://ti.to/ukhealthcamp/2017
@@ -29,7 +29,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 
 **September 30 2017  
 London, venue TBC  
-[#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)**
+[#ukhc17](https://twitter.com/search?q=%23ukhc17)**
 
 Next ticket release on Wed 12th July at 11am
 
@@ -52,10 +52,6 @@ Next ticket release on Wed 12th July at 11am
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
-
-
-[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
-[2]: https://ti.to/ukhealthcamp/2017
 
 </div>
 
@@ -124,9 +120,5 @@ Next ticket release on Wed 12th July at 11am
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
-
-
-[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
-[2]: https://ti.to/ukhealthcamp/2017
 
 </div>
