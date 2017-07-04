@@ -18,4 +18,4 @@ We expect participants to follow these rules at conference and workshop venues a
 
 <br/>
 <br/>
-_Code of Conduct adopted from [http://confcodeofconduct.com/](http://codeofconduct.com) and [UKGovCamp](https://www.ukgovcamp.com/code-of-conduct)_
+_Code of Conduct adopted from [confcodeofconduct.com](http://confcodeofconduct.com/) and [UKGovCamp](https://www.ukgovcamp.com/code-of-conduct)_
