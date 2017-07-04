@@ -11,6 +11,10 @@ Previously the site was built from the https://github.com/ukhealthcamp/ukhealthc
 
 Everything is now built from [Kramdown](https://kramdown.gettalong.org/) source files into html using the template in `_layouts` by Jekyll. CSS is compiled from stylesheets and SCSS file in `_sass` to a single compressed file.
 
+### Controlling global "Alert Bar"
+
+To display the "Alert Bar" on all pages set `show_alert: true` in `_config.yaml` and it will appear, to hide it set `show_alert: false`. To edit the contents of the bar simply edit `alert-bar.md` the file is (Mark)Kramdown.
+
 ## Getting Started
 
 Simply edit (Mark)Kramdown files in your editor of choice and push, GitHub pages will do the rest of the magic.
