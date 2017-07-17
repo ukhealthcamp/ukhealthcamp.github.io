@@ -37,7 +37,7 @@ We'll announce tickets to our mailing list first: sign up now so you don't miss 
 <div class="section cta">
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Tickets &raquo;][2]{:class="btn btn-primary"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Get Tickets &raquo;][2]{:class="btn btn-primary"}
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
 [2]: https://ti.to/ukhealthcamp/2017
@@ -105,9 +105,9 @@ There are several ways to help us put on UK Health Camp:
 
 <div class="section cta">
 
-Check 
+Tickets are released in batches - next batches are available on 20th July and 1st August
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Tickets &raquo;][2]{:class="btn btn-primary"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Get Tickets &raquo;][2]{:class="btn btn-primary"}
 
 </div>
