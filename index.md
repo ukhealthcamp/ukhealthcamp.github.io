@@ -19,7 +19,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 London, venue TBC  
 [#ukhc17](https://twitter.com/search?q=%23ukhc17)**
 
-Next ticket release on Wed 12th July at 11am
+[Get tickets here](https://ti.to/ukhealthcamp/2017){class="btn btn-success"}
 
 We'll announce tickets to our mailing list first: sign up now so you don't miss out.
 
@@ -36,10 +36,10 @@ We'll announce tickets to our mailing list first: sign up now so you don't miss 
 
 <div class="section cta">
 
-Next ticket release on Wed 12th July at 11am
+Check here for [Tickets &raquo;][2]{:class="btn btn-primary"}
 
-[Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Register &raquo;][2]{:class="btn btn-primary"}
+Why not [Sponsor Us &raquo;][1]{:class="btn btn-white"}
+&nbsp;&nbsp;&nbsp;&nbsp; 
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
 [2]: https://ti.to/ukhealthcamp/2017
