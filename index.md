@@ -19,7 +19,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 London, venue TBC  
 [#ukhc17](https://twitter.com/search?q=%23ukhc17)**
 
-[Get tickets here](https://ti.to/ukhealthcamp/2017){class="btn btn-success"}
+[Get tickets here](https://ti.to/ukhealthcamp/2017)
 
 We'll announce tickets to our mailing list first: sign up now so you don't miss out.
 
