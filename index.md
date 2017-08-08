@@ -16,7 +16,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 {:/comment}
 
 **September 30 2017  
-Kings College London, The Strand, London
+Kings College London, The Strand, London  
 [#ukhc17](https://twitter.com/search?q=%23ukhc17)**
 
 [Get tickets here](https://ti.to/ukhealthcamp/2017)
