@@ -21,8 +21,6 @@ Kings College London, The Strand, London
 
 [Get tickets here](https://ti.to/ukhealthcamp/2017)
 
-We'll announce tickets to our mailing list first: sign up now so you don't miss out.
-
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
 <label class="sr-only" for="mce-EMAIL">Email address</label>
 <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Your email address">
@@ -105,7 +103,7 @@ There are several ways to help us put on UK Health Camp:
 
 <div class="section cta">
 
-Tickets are available!
+Get your tickets now!  
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Get Tickets &raquo;][2]{:class="btn btn-primary"}
