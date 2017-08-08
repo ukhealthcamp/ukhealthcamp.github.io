@@ -105,7 +105,7 @@ There are several ways to help us put on UK Health Camp:
 
 <div class="section cta">
 
-Tickets are released in batches - next batches are available on 20th July and 1st August
+Tickets are available!
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Get Tickets &raquo;][2]{:class="btn btn-primary"}
