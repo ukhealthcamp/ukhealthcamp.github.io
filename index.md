@@ -81,8 +81,8 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 
 </div>
 
-<div class="section green">
-## Schedule
+<div class="section orange">
+## Schedule - Saturday 30th September
 
 09:30 - Check in / Refreshments  
 10:30 - Pitching and Planning  
@@ -96,7 +96,7 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 
 </div>
 
-<div class="section orange">
+<div class="section blue">
 
 ## How can I get involved?
 UK Health Camp is run entirely by volunteers. This year's event is being organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@VeeWilliams_](http://twitter.com/VeeWilliams_), and [@mattstibbs](http://twitter.com/mattstibbs).
