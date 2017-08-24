@@ -60,7 +60,11 @@ Our events are multidisciplinary - we aim to bring together health and care prof
 
 ## Our supporters
 
-[![Open Health Care](images/openhealthcare.png){:width="180" class="sponsor"}](http://openhealthcare.org.uk/)
+[![Open Health Care](images/openhealthcare.png){:width="180" class="sponsor"}](https://openhealthcare.org.uk/)
+[![dxw](images/sponsors-17/dxw_black_and_white.jpg){:width="180" class="sponsor"}](https://www.dxw.com/)
+[![FutureGov](images/sponsors-17/FG_LOGO_BLACK.png){:width="180" class="sponsor"}](https://www.wearefuturegov.com/)  
+[![MongoDB](images/sponsors-17/mongodb-logo-rgb.jpg){:width="180" class="sponsor"}](https://www.mongodb.com/)
+[![Answer Digital](images/sponsors-17/answer_digital_health.jpg){:width="180" class="sponsor"}](https://www.answerdigital.com/)
 
 Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
