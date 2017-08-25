@@ -12,14 +12,14 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
 {::comment}
-[Get tickets](https://ti.to/ukhealthcamp/2017){class="btn btn-success"}
+[Tickets SOLD OUT](https://ti.to/ukhealthcamp/2017){class="btn btn-success"}
 {:/comment}
 
 **September 30 2017  
 Kings College London, The Strand, London  
 [#ukhc17](https://twitter.com/search?q=%23ukhc17)**
 
-[Get tickets here](https://ti.to/ukhealthcamp/2017)
+[Tickets SOLD OUT](https://ti.to/ukhealthcamp/2017)
 
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
 <label class="sr-only" for="mce-EMAIL">Email address</label>
@@ -35,7 +35,7 @@ Kings College London, The Strand, London
 <div class="section cta">
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Get Tickets &raquo;][2]{:class="btn btn-primary"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Tickets SOLD OUT &raquo;][2]{:class="btn btn-primary"}
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
 [2]: https://ti.to/ukhealthcamp/2017
@@ -121,9 +121,9 @@ There are several ways to help us put on UK Health Camp:
 
 <div class="section cta">
 
-Get your tickets now!  
+Tickets now SOLD OUT!
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Get Tickets &raquo;][2]{:class="btn btn-primary"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Tickets SOLD OUT &raquo;][2]{:class="btn btn-primary"}
 
 </div>
