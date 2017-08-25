@@ -1,5 +1,5 @@
 <span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
-Check here for ticket releases &nbsp;&nbsp; [Tickets &raquo;][2]{:class="btn btn-primary"}
+Tickets now SOLD OUT &nbsp;&nbsp; [Tickets &raquo;][2]{:class="btn btn-primary"}
 <span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17)</span>
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
