@@ -35,7 +35,7 @@ Kings College London, The Strand, London
 <div class="section cta">
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Tickets SOLD OUT &raquo;][2]{:class="btn btn-primary"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Waiting List &raquo;][2]{:class="btn btn-primary"}
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
 [2]: https://ti.to/ukhealthcamp/2017
@@ -132,6 +132,6 @@ There are several ways to help us put on UK Health Camp:
 Tickets now SOLD OUT!
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Tickets SOLD OUT &raquo;][2]{:class="btn btn-primary"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Waiting List &raquo;][2]{:class="btn btn-primary"}
 
 </div>
