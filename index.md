@@ -85,7 +85,7 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 [![FutureGov](images/sponsors-17/FG_LOGO_BLACK.png){:width="150" class="sponsor"}](https://www.wearefuturegov.com/)
 [![Answer Digital](images/sponsors-17/answer_digital_health.jpg){:width="150" class="sponsor"}](https://www.answerdigital.com/)
 [![Neontribe](images/sponsors-17/neontribe_logo_black.png){:width="150" class="sponsor"}](https://www.neontribe.co.uk/)
-[![NHS Digital](images/sponsors-17/NHSDigital_logo.png){:width="150" class="sponsor"}](https://www.digital.nhs.uk/)
+[![NHS Digital](images/sponsors-17/NHS Digital logo_NHS Blue_RGB-01.svg){:width="150" class="sponsor"}](https://www.digital.nhs.uk/)
 
 Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
