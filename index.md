@@ -58,6 +58,22 @@ Our events are multidisciplinary - we aim to bring together health and care prof
 
 **We have a [Code of Conduct](/code-of-conduct).**
 
+</div>
+
+
+<div class="section blue">
+
+## How does it work?
+UK Health Camp isn’t a healthcare IT conference. It is:
+
+- Free to attend
+- Free from keynotes and sponsor pitches
+- Designed by its participants: everyone attending can pitch a topic or actively take part in sessions
+- Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/) 
+
+</div>
+
+<div class="section">
 ## Our supporters
 
 ### Gold
@@ -73,19 +89,6 @@ Our events are multidisciplinary - we aim to bring together health and care prof
 Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
 [Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
-
-</div>
-
-
-<div class="section blue">
-
-## How does it work?
-UK Health Camp isn’t a healthcare IT conference. It is:
-
-- Free to attend
-- Free from keynotes and sponsor pitches
-- Designed by its participants: everyone attending can pitch a topic or actively take part in sessions
-- Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/) 
 
 </div>
 
