@@ -61,8 +61,8 @@ Our events are multidisciplinary - we aim to bring together health and care prof
 ## Our supporters
 
 ### Gold
-**Food [![MongoDB](images/sponsors-17/mongodb-logo-rgb.jpg){:width="180" class="sponsor"}](https://www.mongodb.com/)  
-** Drinks [![dxw](images/sponsors-17/dxw_black_and_white.jpg){:width="180" class="sponsor"}](https://www.dxw.com/)  
+**Food** [![MongoDB](images/sponsors-17/mongodb-logo-rgb.jpg){:width="180" class="sponsor"}](https://www.mongodb.com/)  
+**Drinks** [![dxw](images/sponsors-17/dxw_black_and_white.jpg){:width="180" class="sponsor"}](https://www.dxw.com/)  
 
 ### Bronze
 [![Open Health Care](images/openhealthcare.png){:width="180" class="sponsor"}](https://openhealthcare.org.uk/)  
