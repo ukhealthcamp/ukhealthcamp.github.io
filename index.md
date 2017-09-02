@@ -104,7 +104,7 @@ Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsor
 10:30 - Pitching and Planning  
 11:30 - Sessions  
 13:00 - Lunch  
-14:00 - Sessions
+14:00 - Sessions  
 16:30 - Wrap-up and close  
 
 </div>
