@@ -56,11 +56,13 @@ This isn't the first HealthCamp - [similar events](https://en.wikipedia.org/wiki
 
 Our events are multidisciplinary - we aim to bring together health and care professionals, policy makers and service managers together with designers, digital specialists and technologists. Everyone is welcome.
 
-**We have a [Code of Conduct](/code-of-conduct).**
+We believe that diversity at conferences and events is important and support the **[Diversity Charter](https://diversitycharter.org/)**.  
 
-**We support the [Diversity Charter](https://diversitycharter.org/) as we believe that diversity at conferences and events is important.**
+[![Diversity Charter](images/diversitycharter_small.png){:width="150" class="sponsor"}](https://diversitycharter.org/)  
 
-[![Diversity Charter](images/diversitycharter_small.png){:width="150" class="sponsor"}](https://diversitycharter.org/)
+**We have a [Code of Conduct](/code-of-conduct)** and ask for cooperation from all participants to help ensure a safe environment for everybody at UK Health Camp.  
+
+
 
 </div>
 
