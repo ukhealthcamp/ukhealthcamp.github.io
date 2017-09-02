@@ -58,6 +58,10 @@ Our events are multidisciplinary - we aim to bring together health and care prof
 
 **We have a [Code of Conduct](/code-of-conduct).**
 
+**We support the [Diversity Charter](https://diversitycharter.org/) as we believe that diversity at conferences and events is important.**
+
+[![Diversity Charter](images/diversitycharter_small.png){:width="150" class="sponsor"}](https://diversitycharter.org/)
+
 </div>
 
 
@@ -98,12 +102,9 @@ Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsor
 
 09:30 - Check in / Refreshments  
 10:30 - Pitching and Planning  
-11:30 - Session 1 (40 mins)  
-12:20 - Session 2 (40 mins)  
-13:00 - 14:00 - Lunch  
-14:00 - Session 3 (40 mins)  
-14:50 - Session 4 (40 mins)  
-15:40 - Session 5 (40 mins)  
+11:30 - Sessions  
+13:00 - Lunch  
+14:00 - Sessions
 16:30 - Wrap-up and close  
 
 </div>
