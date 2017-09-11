@@ -96,6 +96,9 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 * For the social pub trip...  
 [![dxw](images/sponsors-17/gold-dxw-color.png){:width="250" class="sponsor"}](https://www.dxw.com/)  
 
+* For general costs...  
+[![bitzesty](images/sponsors-17/gold-bitzesty-black.png){:width="250" class="sponsor"}](https://bitzesty.com/)  
+
 ### Bronze
 
 [![Answer Digital](images/sponsors-17/bronze-answerdigitalhealth.jpg){:height="90" class="sponsor"}](https://www.answerdigital.com/)
