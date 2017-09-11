@@ -83,16 +83,34 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 ## Our supporters
 
 ### Gold
-[![MongoDB](images/sponsors-17/mongodb-logo-rgb.jpg){:width="250" class="sponsor"}](https://www.mongodb.com/)
-[![dxw](images/sponsors-17/dxw_black_and_white.jpg){:width="250" class="sponsor"}](https://www.dxw.com/)  
+
+* For the venue...  
+[![NHS Digital](images/sponsors-17/gold-nhsdigital-color.png){:width="250" class="sponsor"}](https://www.digital.nhs.uk/)
+
+* For lunch...  
+[![MongoDB](images/sponsors-17/gold-mongodb-rgb.jpg){:width="250" class="sponsor"}](https://www.mongodb.com/)
+
+* For refreshments...  
+[![ukgovcamp](images/sponsors-17/bronze-ukgovcamp-color.png){:width="250" class="sponsor"}](https://www.ukgovcamp.com/)
+
+* For the social pub trip...  
+[![dxw](images/sponsors-17/gold-dxw-color.png){:width="250" class="sponsor"}](https://www.dxw.com/)  
+
+* For general costs...  
+[![bitzesty](images/sponsors-17/gold-bitzesty-black.png){:width="250" class="sponsor"}](https://bitzesty.com/)  
 
 ### Bronze
-[![Open Health Care](images/openhealthcare.png){:width="150" class="sponsor"}](https://openhealthcare.org.uk/)
-[![FutureGov](images/sponsors-17/FG_LOGO_BLACK.png){:width="150" class="sponsor"}](https://www.wearefuturegov.com/)
-[![Answer Digital](images/sponsors-17/answer_digital_health.jpg){:width="150" class="sponsor"}](https://www.answerdigital.com/)
-[![Neontribe](images/sponsors-17/neontribe_logo_black.png){:width="150" class="sponsor"}](https://www.neontribe.co.uk/)
-[![NHS Digital](images/sponsors-17/NHS Digital logo_NHS Blue_RGB-01.svg){:width="150" class="sponsor"}](https://www.digital.nhs.uk/)
 
+[![Answer Digital](images/sponsors-17/bronze-answerdigitalhealth.jpg){:height="90" class="sponsor"}](https://www.answerdigital.com/)
+[![FutureGov](images/sponsors-17/bronze-futuregov-black.png){:height="30" class="sponsor" style="padding-bottom:50px"}](https://www.wearefuturegov.com/)
+
+[![healthforge](images/sponsors-17/bronze-healthforge-color.jpeg){:height="70" class="sponsor"}](https://healthforge.io/")
+[![Neontribe](images/sponsors-17/bronze-neontribe-black.png){:height="70" class="sponsor"}](https://www.neontribe.co.uk/)
+[![Open Health Care](images/sponsors-17/bronze-openhealthcare.png){:height="70" class="sponsor"}](https://openhealthcare.org.uk/")  
+
+\\
+\\
+\\
 Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
 [Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
