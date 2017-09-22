@@ -106,7 +106,8 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 
 [![healthforge](images/sponsors-17/bronze-healthforge-color.jpeg){:height="70" class="sponsor"}](http://healthforge.io/)
 [![Neontribe](images/sponsors-17/bronze-neontribe-black.png){:height="70" class="sponsor"}](https://www.neontribe.co.uk/)
-[![Open Health Care](images/sponsors-17/bronze-openhealthcare.png){:height="70" class="sponsor"}](http://openhealthcare.org.uk/)  
+[![Open Health Care](images/sponsors-17/bronze-openhealthcare.png){:height="70" class="sponsor"}](http://openhealthcare.org.uk/)
+[![Made Tech](images/sponsors-17/made-tech-bwg-logo.png){:height="70" class="sponsor"}](https://www.madetech.com/)  
 
 \\
 \\
