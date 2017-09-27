@@ -1,0 +1,23 @@
+---
+layout: blog_layout
+---
+<div class="max-width-wrapper">
+    <div class="row">
+        <div class="columns small-12 back-to-news">
+            <a href="/blog"><i class="fa fa-angle-double-left"></i> Back to All Posts</a>
+        </div>
+        <div class="columns small-12">
+            <h4 class="section-title">{{ page.title }}
+                <h5 class="subheader">
+                    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
+                </h5>
+            </h4>
+        </div>
+        <div class="columns small-12">
+            <p>{{ content }}</p>
+        </div>
+        <div class="columns small-12 back-to-news">
+            <a href="/blog"><i class="fa fa-angle-double-left"></i> Back to All Posts</a>
+        </div>
+    </div>
+</div>
