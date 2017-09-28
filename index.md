@@ -85,6 +85,7 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 ### Gold
 
 * For the venue...  
+[Building a Digital Ready Workforce Programme](https://hee.nhs.uk/our-work/developing-our-workforce/building-digital-ready-workforce){:class="hee"}  
 [![NHS Digital](images/sponsors-17/gold-nhsdigital-color.png){:width="250" class="sponsor"}](https://www.digital.nhs.uk/)
 
 * For lunch...  

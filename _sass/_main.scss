@@ -205,6 +205,16 @@ a.btn {
   font-weight: 200;
 }
 
+.hee {
+  font-family: 'Bree Serif', serif;
+  font-size: 30px;
+  display: inline-block;
+  padding-left: 40px;
+  padding-top: 20px;
+  width: 350px;
+}
+
+
 @media screen and (min-width: 680px) {
   .with-alert .jumbotron, .with-alert .header {
     padding-top: 158px;
