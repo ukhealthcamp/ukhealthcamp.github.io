@@ -11,14 +11,14 @@ layout: compress
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         {% if site.show_alert %}
-        {% capture alert_include %}{% include_relative alert-bar.md %}{% endcapture %}
+        {% capture alert_include %}{% include alert-bar.md %}{% endcapture %}
         <div class="alert-bar">
         {{ alert_include | markdownify }}
         </div>
         {% endif %}
         {{ content }}
 
-{% include footer.html %}
+    {% include footer.html %}
 
     </body>
 </html>
