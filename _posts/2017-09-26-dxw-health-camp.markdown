@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Proud sponsors of UK Health Camp 2017"
-date:   2016-02-20 10:46:58 +0000
+date:   2017-09-26
 categories: sponsors
 author: dxw
 ---
@@ -13,6 +13,7 @@ The healthcare sector faces unique challenges in the implementation of technolog
 
 UK Health Camp creates an opportunity to open up discussions between patients, clinicians, activists and digital people so that they can foster innovation in a sensible and human-centric approach.
   
+  
 **dxw sponsorship**
 
 At dxw, improving innovation in healthcare in the UK is a subject close to our hearts, having worked with The Department of Health, NHS England and on NHS Jobs so we’re thrilled to be sponsoring UK Health Camp this year.
@@ -20,6 +21,7 @@ At dxw, improving innovation in healthcare in the UK is a subject close to our h
 We believe that it is possible for the public sector to become something recognisably better and we’re on a mission to make that happen.
 
 Since 2008, we’ve worked with government departments, local government, housing associations and the NHS to help them make good technology decisions and build better services.
+  
   
 **Our work with NHS England**
 
@@ -30,6 +32,7 @@ Working with the NHS England digital team, we developed and launched a new WordP
 As NHS England has evolved, so has the website, so it accurately reflects an organisation that is about people; by ensuring both engaging stories (blog posts), and NHS news are easily accessible to both the public and anyone within the NHS.
 
 Improving both the content and search for the site has been of huge benefit to NHS England’s users. It has also made it easier for NHS England to publish reports, measure the performance and engagement of content, and better understand user journeys.
+  
   
 **Our work with The Department of Health**
 
@@ -42,9 +45,3 @@ Our vision is not just to make ‘nicer websites’, but to help public sector t
 We’re looking forward to hearing some great pitches and opening up new conversations about innovation in the health sector this weekend – and of course, meeting some great people!
 
 **Find out more about how we work and our projects here.**
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
