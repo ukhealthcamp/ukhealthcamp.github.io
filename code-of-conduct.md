@@ -4,7 +4,7 @@ title: "UKHealthCamp - Code of Conduct"
 ---
 
 ## Code of Conduct
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Organisers and helpers can be identified by t-shirts.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
 Harassment includes, but is not limited to, offensive verbal comments, deliberate intimidation, disruption of talks, and unwelcome or inappropriate attention and contact.
 
