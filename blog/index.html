@@ -1,29 +1,26 @@
 ---
-layout: blog-layout
+layout: generic
 title: Blog Posts | UK Health Camp
 ---
-
-<div class="max-width-wrapper">
+<div class="blog-section">
 	<div class="row">
-		<div class="columns small-12">
-			<h3 class="section-title">News</h3>
-		</div>
 		{% for post in paginator.posts %}
-		<div class="columns small-12">
-			<h4>{{ post.title }}</h4>
-			<h6 class="subheader">{{ post.date | date_to_string }} {% if post.author %} by {{ post.author }} {% endif %}</h6>
-			<p class="text-justify blog-snippet">
+		<div class="blog-list-row">
+			<h3 class="post-title">{{ post.title }}</h3>
+			<h6 class="post-subheader">{{ post.date | date_to_string }} {% if post.author %} by {{ post.author }} {% endif %}</h6>
+			<p class="post-excerpt">
 			   {{ post.content | strip_html | truncatewords:50}}
-      </p>
-      <p>
-          <a href="{{ post.url }}">Read more</a>
+            </p>
+            <p class="post-link">
+            <a href="{{ post.url }}">Read more</a>
 			</p>
 		</div>
 		{% endfor %}
 	</div>
   <div class="row text-center">
     <hr>
-    <!-- Pagination links -->
+    
+      <!-- Pagination links -->
     <div class="columns small-4">
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-long-arrow-left"></i> Previous Page</a>
