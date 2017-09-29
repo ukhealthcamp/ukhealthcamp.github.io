@@ -15,7 +15,9 @@ If a participant engages in harassing behaviour, the organisers may take any act
 We will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and unconference-related social events.
-
 <br/>
 <br/>
-_Code of Conduct adopted from [confcodeofconduct.com](http://confcodeofconduct.com/) and [UKGovCamp](https://www.ukgovcamp.com/code-of-conduct)_
+**If you need assistance at any point during the event, you can look for an organiser or camp maker - we will be wearing white UK Health Camp t-shirts.**
+<br/>
+<br/>
+Code of Conduct adopted from [confcodeofconduct.com](http://confcodeofconduct.com/) and [UKGovCamp Code of Conduct](https://www.ukgovcamp.com/code-of-conduct)
