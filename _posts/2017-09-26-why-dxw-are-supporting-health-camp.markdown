@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "dxw are proud sponsors of UK Health Camp 2017"
+title:  "Why dxw are supporting UK Health Camp 2017"
 date:   2017-09-26
 categories: sponsors
 author: HEWITT, Jane @ dxw
