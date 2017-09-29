@@ -3,7 +3,7 @@ layout: post
 title:  "Proud sponsors of UK Health Camp 2017"
 date:   2017-09-26
 categories: sponsors
-author: dxw
+author: HEWITT, Jane @ dxw
 ---
 This Saturday will see the third free Health Camp in the UK, bringing together healthcare professionals, policymakers and service managers with designers, digital specialists and technologists.
 
