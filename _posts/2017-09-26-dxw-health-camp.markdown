@@ -16,7 +16,7 @@ UK Health Camp creates an opportunity to open up discussions between patients, c
   
 **dxw sponsorship**
 
-At dxw, improving innovation in healthcare in the UK is a subject close to our hearts, having worked with The Department of Health, NHS England and on NHS Jobs so we’re thrilled to be sponsoring UK Health Camp this year.
+At dxw, improving innovation in healthcare in the UK is a subject close to our hearts, having worked with [The Department of Health](https://www.dxw.com/case-studies/department-of-health-intranet/), [NHS England](https://www.dxw.com/2017/06/its-london-tech-week-take-a-look-at-how-weve-been-improving-the-nhs-england-site/) and on [NHS Jobs](https://www.dxw.com/case-studies/nhs-jobs/) so we’re thrilled to be sponsoring UK Health Camp this year.
 
 We believe that it is possible for the public sector to become something recognisably better and we’re on a mission to make that happen.
 
@@ -44,4 +44,4 @@ Our vision is not just to make ‘nicer websites’, but to help public sector t
 
 We’re looking forward to hearing some great pitches and opening up new conversations about innovation in the health sector this weekend – and of course, meeting some great people!
 
-**Find out more about how we work and our projects here.**
+[Find out more about how we work and our projects here.](https://www.dxw.com/our-story/)
