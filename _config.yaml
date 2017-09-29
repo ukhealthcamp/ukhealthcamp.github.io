@@ -1,4 +1,6 @@
 name: UKHealthCamp
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ukhealthcamp.com" # the base hostname & protocol for your site
 markdown: kramdown
 highlighter: null
 sass:
