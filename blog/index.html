@@ -7,7 +7,7 @@ title: Blog Posts | UK Health Camp
 		{% for post in paginator.posts %}
 		<div class="blog-list-row">
 			<h3 class="post-title">{{ post.title }}</h3>
-			<h6 class="post-subheader">{{ post.date | date_to_string }} {% if post.author %} by {{ post.author }} {% endif %}</h6>
+			<h6 class="post-subheader">{{ post.date | date: "%-d-%b-%Y" }} {% if post.author %} • {{ post.author }} {% endif %}</h6>
 			<p class="post-excerpt">
 			   {{ post.content | strip_html | truncatewords:50}}
             </p>
