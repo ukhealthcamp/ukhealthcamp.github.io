@@ -1,6 +1,6 @@
 <span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
-Tickets now SOLD OUT &nbsp;&nbsp; [Waiting List &raquo;][2]{:class="btn btn-primary"}
-<span class="right">[#ukhc17](https://twitter.com/search?q=%23ukhc17)</span>
+UKHC 2018 will be announced soon! &nbsp;&nbsp; [Sign Up &raquo;][2]{:class="btn btn-primary disabled" aria-disabled="true"}
+<span class="right">[#ukhc18](https://twitter.com/search?q=%23ukhc18)</span>
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
 [2]: https://ti.to/ukhealthcamp/2017
