@@ -12,14 +12,14 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
 {::comment}
-[Tickets SOLD OUT](https://ti.to/ukhealthcamp/2017){class="btn btn-success"}
+[UKHC 2018 will be announced soon!](https://ti.to/ukhealthcamp/2017){class="btn btn-success inactive" aria-disabled="true"}
 {:/comment}
 
-**September 30 2017  
-Kings College London, The Strand, London  
-[#ukhc17](https://twitter.com/search?q=%23ukhc17)**
+<br>
+**UKHC 2018 will be announced soon!
+[#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
-[Tickets SOLD OUT](https://ti.to/ukhealthcamp/2017)
+<br><!-- [Tickets SOLD OUT](https://ti.to/ukhealthcamp/2017) -->
 
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
 <label class="sr-only" for="mce-EMAIL">Email address</label>
@@ -34,11 +34,14 @@ Kings College London, The Strand, London
 
 <div class="section cta">
 
-[Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Waiting List &raquo;][2]{:class="btn btn-primary"}
+[Sponsor Us &raquo;][1]{:class="btn btn-white"} 
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
 [2]: https://ti.to/ukhealthcamp/2017
+
+<!--
+&nbsp;&nbsp;&nbsp;&nbsp; [Sign Up &raquo;][2]{:class="btn btn-primary"}
+-->
 
 </div>
 
@@ -50,7 +53,7 @@ There’s lots of brilliant things happening to make health and care services be
 
 **Our aim is to provide a space to connect, share ideas and make things happen.**
 
-This isn't the first HealthCamp - [similar events](https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK two years ago.
+This isn't the first HealthCamp - [similar events](https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK in 2015 and 2017.
 
 **We are open to all**, whether you work for the NHS or not.
 
@@ -80,7 +83,7 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 </div>
 
 <div class="section">
-## Our supporters
+## Our supporters for UK Health Camp 2017
 
 ### Gold
 
@@ -113,14 +116,14 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 \\
 \\
 \\
-Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
+Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
 [Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
 
 </div>
 
 <div class="section orange">
-## Schedule - Saturday 30th September
+## UK Health Camp 2017 Schedule - Saturday 30th September
 
 09:30 - Check in / Refreshments  
 10:30 - Pitching and Planning  
@@ -134,14 +137,14 @@ Want to sponsor UK Health Camp? Email [sponsors@ukhealthcamp.com](mailto:sponsor
 <div class="section blue">
 
 ## How can I get involved?
-UK Health Camp is run entirely by volunteers. This year's event is being organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@VeeWilliams_](http://twitter.com/VeeWilliams_), and [@mattstibbs](http://twitter.com/mattstibbs).
+UK Health Camp is run entirely by volunteers. The 2017 event was organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@VeeWilliams_](http://twitter.com/VeeWilliams_), and [@mattstibbs](http://twitter.com/mattstibbs).
 
 There are several ways to help us put on UK Health Camp:
 - Volunteer as an organiser.
 - Donate money or resources.
 - Attend UK Health Camp and participate (sign up at the top of this page).
-- Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)
-- Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/poster_mono.pdf), [two colours](branding/posters/poster_twocolours.pdf))
+- Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc18](https://twitter.com/search?q=%23ukhc18&amp;src=typd)
+- Print off a poster to put in your office/surgery/ward/toilet (2018 posters coming soon)<!--([one colour](branding/posters/poster_mono.pdf), [two colours](branding/posters/poster_twocolours.pdf)) -->
 
 **If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com).**
 
