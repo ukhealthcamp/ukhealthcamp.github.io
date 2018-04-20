@@ -16,7 +16,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 {:/comment}
 
 <br>
-**UKHC 2018 will be on Saturday 8th September at The Federation in Manchester
+**Saturday 8th September @ The Federation in Manchester
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
 <br><!-- [Tickets SOLD OUT](https://ti.to/ukhealthcamp/2017) -->
