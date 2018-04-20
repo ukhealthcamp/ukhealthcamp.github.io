@@ -123,7 +123,7 @@ Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sp
 </div>
 
 <div class="section orange">
-## UK Health Camp 2017 Schedule - Saturday 30th September
+## UK Health Camp Schedule - Saturday 8th September 2018
 
 09:30 - Check in / Refreshments  
 10:30 - Pitching and Planning  
@@ -137,7 +137,7 @@ Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sp
 <div class="section blue">
 
 ## How can I get involved?
-UK Health Camp is run entirely by volunteers. The 2017 event was organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@VeeWilliams_](http://twitter.com/VeeWilliams_), and [@mattstibbs](http://twitter.com/mattstibbs).
+UK Health Camp is run entirely by volunteers. The 2018 event is being organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@VeeWilliams_](http://twitter.com/VeeWilliams_), and [@mattstibbs](http://twitter.com/mattstibbs).
 
 There are several ways to help us put on UK Health Camp:
 - Volunteer as an organiser.
@@ -155,7 +155,7 @@ There are several ways to help us put on UK Health Camp:
 
 <div class="section cta">
 
-Tickets now SOLD OUT!
+UKHC18 is on 8th September!
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Waiting List &raquo;][2]{:class="btn btn-primary"}
