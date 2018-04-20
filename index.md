@@ -12,7 +12,7 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
 {::comment}
-[UKHC 2018 will be announced soon!](https://ti.to/ukhealthcamp/2017){class="btn btn-success inactive" aria-disabled="true"}
+[UKHC 2018 will be on the 8th September @ The Federation, Manchester!](https://ti.to/ukhealthcamp/2017){class="btn btn-success inactive" aria-disabled="true"}
 {:/comment}
 
 <br>
