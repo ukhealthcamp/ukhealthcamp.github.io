@@ -37,7 +37,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 [Sponsor Us &raquo;][1]{:class="btn btn-white"} 
 
 [1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
-[2]: https://ti.to/ukhealthcamp/2017
+[2]: https://ti.to/ukhealthcamp/2018
 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp; [Sign Up &raquo;][2]{:class="btn btn-primary"}
@@ -158,6 +158,6 @@ There are several ways to help us put on UK Health Camp:
 UKHC18 is on 8th September!
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Waiting List &raquo;][2]{:class="btn btn-primary"}
+&nbsp;&nbsp;&nbsp;&nbsp; [Tickets Not Yet Released &raquo;][2]{:class="btn btn-primary"}
 
 </div>
