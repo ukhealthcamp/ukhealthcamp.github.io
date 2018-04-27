@@ -155,7 +155,7 @@ There are several ways to help us put on UK Health Camp:
 
 <div class="section cta">
 
-UKHC18 is on 8th September!
+UK Health Camp 2018 is on 8th September in Manchester!
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 &nbsp;&nbsp;&nbsp;&nbsp; [Tickets Not Yet Released &raquo;][2]{:class="btn btn-primary"}
