@@ -1,0 +1,15 @@
+---
+layout: generic
+title: Blog Posts | UK Health Camp
+permalink: /blog/
+---
+<ol class="blog-posts">
+    {% assign sorted = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted %}
+        <li>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <h3><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>{% if post.author %} • {{ post.author }} {% endif %}</h3>
+          <p>{{ post.content | truncatewords:50 | strip_html }}</p>
+        </li>
+    {% endfor %}
+</ol>

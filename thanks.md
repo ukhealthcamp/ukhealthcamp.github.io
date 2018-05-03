@@ -19,8 +19,8 @@ In the meantime, why not...
 - Volunteer as an organiser.
 - Donate money or resources.
 - Attend UKHealthCamp and participate (sign up at the top of this page).
-- Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc17](https://twitter.com/search?q=%23ukhc17&amp;src=typd)
-- Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/poster_mono.pdf), [two colours](branding/posters/poster_twocolours.pdf))
+- Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc18](https://twitter.com/search?q=%23ukhc18)
+- Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/2018/poster_mono.pdf), [two colours](branding/posters/2018/poster_twocolours.pdf))
 </div>
 
 **If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)**
