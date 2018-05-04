@@ -1,0 +1,58 @@
+"2017":
+  gold:
+  - name: Building a Digital Ready Workforce Programme
+    link: https://hee.nhs.uk/our-work/developing-our-workforce/building-digital-ready-workforce
+    for:  For the venue
+  - name: NHS Digital
+    link: https://www.digital.nhs.uk/
+    logo: gold-nhsdigital-color.png
+    for:  For the venue
+  - name: MongoDB
+    link: https://www.mongodb.com/
+    logo: gold-mongodb-rgb.jpg
+    for:  For lunch
+  - name: UKGovCamp
+    link: https://www.ukgovcamp.com/
+    logo: gold-ukgovcamp-color.png
+    for:  For refreshments
+  - name: dxw
+    link: https://www.dxw.com/
+    logo: gold-dxw-color.png
+    for:  For the social pub trip
+  - name: BitZesty
+    link: https://bitzesty.com/
+    logo: gold-bitzesty-black.png
+    for:  For general costs
+  bronze:
+  - name: Answer Digital
+    link: http://www.answerdigital.com/
+    logo: bronze-answerdigitalhealth.jpg
+  - name: FutureGov
+    link: https://www.wearefuturegov.com/
+    logo: bronze-futuregov-black.png
+  - name: healthforge
+    link: http://healthforge.io/
+    logo: bronze-healthforge-color.jpeg
+  - name: Neontribe
+    link: https://www.neontribe.co.uk/
+    logo: bronze-neontribe-black.png
+  - name: Open Health Care UK
+    link: http://openhealthcare.org.uk/
+    logo: bronze-openhealthcare.png
+  - name: Made Tech
+    link: https://www.madetech.com/
+    logo: bronze-made-tech-bwg.png
+
+"2018":
+  gold:
+  - name: Sponsor Us
+    link: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4
+    for:  Various packages available
+  silver:
+  - name: Sponsor Us
+    link: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4
+    for:  Various packages available
+  bronze:
+  - name: Sponsor Us
+    link: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4
+    for:  Various packages available

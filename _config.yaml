@@ -1,11 +1,27 @@
+title: UKHealthCamp
 name: UKHealthCamp
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ukhealthcamp.com" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://ukhealthcamp.com"
+repository: ukhealthcamp/ukhealthcamp.github.io
 markdown: kramdown
 highlighter: null
 sass:
-    style: compressed
+  style: compressed
+  
 show_alert: true
+
+plugins:
+  - jekyll-redirect-from
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /blog/:categories/:title
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -15,9 +31,3 @@ compress_html:
   blanklines: false
   profile: false
   startings: [html, head, body]
-
-#Pagination Settings
-paginate: 5 # number of posts displayed per page
-paginate_path: "/blog/page:num/"
-
-gems: [jekyll-paginate]

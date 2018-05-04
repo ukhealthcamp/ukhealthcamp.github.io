@@ -3,24 +3,23 @@ layout: default
 title: "UKHealthCamp is the free ‘unconference’ for everyone interested in digital, design and data for health and care"
 ---
 {::options parse_block_html="true" /}
-
 <div class="jumbotron">
+
 
 ![UKHealthCamp Logo](images/ukhealthcamp_logo.png){:width="300"}
 
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-{::comment}
-[UKHC 2018 will be on the 8th September @ The Federation, Manchester!](https://ti.to/ukhealthcamp/2017){class="btn btn-success inactive" aria-disabled="true"}
+{::comment} <-- remove this whole line to uncomment and the clossing tag below
+[Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
 {:/comment}
 
-<br>
-**Saturday 8th September @ The Federation in Manchester
+**Saturday 8th September  
+The Federation, Manchester  
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
-<br><!-- [Tickets SOLD OUT](https://ti.to/ukhealthcamp/2017) -->
-
+<br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
 <label class="sr-only" for="mce-EMAIL">Email address</label>
 <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Your email address">
@@ -30,23 +29,19 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 [![Twitter](images/twitter_logo.png){:width="50" class="logo"}](https://twitter.com/UKHealthCamp)
 [![GitHub](images/github_logo.png){:width="50" class="logo"}](https://github.com/UKHealthCamp)
 
-</div>
 
+</div>
 <div class="section cta">
 
-[Sponsor Us &raquo;][1]{:class="btn btn-white"} 
 
-[1]: https://paper.dropbox.com/doc/UKHealthCamp-sponsorship-VwrXp3lWzdGRqQo1PGf13
-[2]: https://ti.to/ukhealthcamp/2018
+[Sponsor Us &raquo;][1]{:class="btn btn-white"}
 
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp; [Sign Up &raquo;][2]{:class="btn btn-primary"}
--->
+[1]: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4
+
 
 </div>
-
-
 <div class="section">
+
 
 ## What is UK Health Camp?
 There’s lots of brilliant things happening to make health and care services better for patients, carers and professionals.
@@ -61,16 +56,15 @@ Our events are multidisciplinary - we aim to bring together health and care prof
 
 We believe that diversity at conferences and events is important and support the **[Diversity Charter](https://diversitycharter.org/)**.  
 
-[![Diversity Charter](images/diversitycharter_small.png){:width="150" class="sponsor"}](https://diversitycharter.org/)  
+{:class="centre"}
+[![Diversity Charter](images/diversitycharter_small.png)](https://diversitycharter.org/)  
 
 **We have a [Code of Conduct](/code-of-conduct)** and ask for cooperation from all participants to help ensure a safe environment for everybody at UK Health Camp.  
 
 
-
 </div>
-
-
 <div class="section blue">
+
 
 ## How does it work?
 UK Health Camp isn’t a healthcare IT conference. It is:
@@ -80,51 +74,26 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 - Designed by its participants: everyone attending can pitch a topic or actively take part in sessions
 - Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/) 
 
+
 </div>
-
 <div class="section">
+
+
 ## Our supporters for UK Health Camp 2017
+{% include sponsors.html year="2017" %}
 
-### Gold
-
-* For the venue...  
-[Building a Digital Ready Workforce Programme](https://hee.nhs.uk/our-work/developing-our-workforce/building-digital-ready-workforce){:class="hee"}  
-[![NHS Digital](images/sponsors-17/gold-nhsdigital-color.png){:width="250" class="sponsor"}](https://www.digital.nhs.uk/)
-
-* For lunch...  
-[![MongoDB](images/sponsors-17/gold-mongodb-rgb.jpg){:width="250" class="sponsor"}](https://www.mongodb.com/)
-
-* For refreshments...  
-[![ukgovcamp](images/sponsors-17/bronze-ukgovcamp-color.png){:width="250" class="sponsor"}](https://www.ukgovcamp.com/)
-
-* For the social pub trip...  
-[![dxw](images/sponsors-17/gold-dxw-color.png){:width="250" class="sponsor"}](https://www.dxw.com/)  
-
-* For general costs...  
-[![bitzesty](images/sponsors-17/gold-bitzesty-black.png){:width="250" class="sponsor"}](https://bitzesty.com/)  
-
-### Bronze
-
-[![Answer Digital](images/sponsors-17/bronze-answerdigitalhealth.jpg){:height="90" class="sponsor"}](http://www.answerdigital.com/)
-[![FutureGov](images/sponsors-17/bronze-futuregov-black.png){:height="30" class="sponsor" style="padding-bottom:50px"}](https://www.wearefuturegov.com/)
-
-[![healthforge](images/sponsors-17/bronze-healthforge-color.jpeg){:height="70" class="sponsor"}](http://healthforge.io/)
-[![Neontribe](images/sponsors-17/bronze-neontribe-black.png){:height="70" class="sponsor"}](https://www.neontribe.co.uk/)
-[![Open Health Care](images/sponsors-17/bronze-openhealthcare.png){:height="70" class="sponsor"}](http://openhealthcare.org.uk/)
-[![Made Tech](images/sponsors-17/made-tech-bwg-logo-small.png){:height="35" class="sponsor"}](https://www.madetech.com/)  
-
-\\
-\\
-\\
 Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
 [Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
 
+
 </div>
-
 <div class="section orange">
-## UK Health Camp Schedule - Saturday 8th September 2018
 
+
+## UK Health Camp Schedule
+
+**Saturday 8th September 2018**  
 09:30 - Check in / Refreshments  
 10:30 - Pitching and Planning  
 11:30 - Sessions  
@@ -132,9 +101,10 @@ Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sp
 14:00 - Sessions  
 16:30 - Wrap-up and close  
 
-</div>
 
+</div>
 <div class="section blue">
+
 
 ## How can I get involved?
 UK Health Camp is run entirely by volunteers. The 2018 event is being organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@VeeWilliams_](http://twitter.com/VeeWilliams_), and [@mattstibbs](http://twitter.com/mattstibbs).
@@ -144,20 +114,11 @@ There are several ways to help us put on UK Health Camp:
 - Donate money or resources.
 - Attend UK Health Camp and participate (sign up at the top of this page).
 - Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc18](https://twitter.com/search?q=%23ukhc18&amp;src=typd)
-- Print off a poster to put in your office/surgery/ward/toilet (2018 posters coming soon)<!--([one colour](branding/posters/poster_mono.pdf), [two colours](branding/posters/poster_twocolours.pdf)) -->
+- Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/2018/poster_mono.pdf), [two colours](branding/posters/2018/poster_twocolours.pdf))
 
 **If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com).**
 
 [Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
 
-</div>
-
-
-<div class="section cta">
-
-UK Health Camp 2018 is on 8th September in Manchester!
-
-[Sponsor Us &raquo;][1]{:class="btn btn-white"}
-&nbsp;&nbsp;&nbsp;&nbsp; [Tickets Not Yet Released &raquo;][2]{:class="btn btn-primary"}
 
 </div>

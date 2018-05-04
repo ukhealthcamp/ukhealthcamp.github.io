@@ -1,0 +1,17 @@
+{% for level in site.data.sponsors[include.year] %}
+<h3>{{level[0] | capitalize }}</h3>
+<ul class="sponsors {{ level[0] }}">
+    {% for sponsor in level[1] %}
+    <li>
+        {% if sponsor.link %}<a href="{{ sponsor.link }}" target="_blank">{% endif %}
+            {% if sponsor.logo %}
+            <img alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="/images/sponsors-{{ include.year }}/{{ sponsor.logo }}">
+            {% else %}
+            {{ sponsor.name }}
+            {% endif %}
+        {% if sponsor.link %}</a>{% endif %}
+        <span>{{ sponsor.for }}</span>
+    </li>
+    {% endfor %}
+</ul>
+{% endfor %}
