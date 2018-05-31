@@ -3,13 +3,21 @@ layout: generic
 title: Blog Posts | UK Health Camp
 permalink: /blog/
 ---
+{% for category in site.categories reversed %}
+<h2 class="category" id="{{ category[0] }}">{{ category[0] }}</h2>
 <ol class="blog-posts">
-    {% assign sorted = site.posts | sort: 'date' | reverse %}
-    {% for post in sorted %}
-        <li>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <h3><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>{% if post.author %} • {{ post.author }} {% endif %}</h3>
-          <p>{{ post.content | truncatewords:50 | strip_html }}</p>
-        </li>
-    {% endfor %}
-</ol>
+        {% assign sorted = category[1] | sort: 'date' | reverse %}
+        {% for post in sorted %}
+            <li>
+              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <h3>
+                  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>{% if post.author %} • {{ post.author }} {% endif %}
+                  {% if post.tags.size > 0 %}
+                    <span class="{{ post.tags[0] }}">{{ post.tags[0] }}</span>
+                  {% endif %}
+              </h3>
+              <p>{{ post.content | truncatewords:50 | strip_html }}</p>
+            </li>
+        {% endfor %}
+    </ol>
+{% endfor %}

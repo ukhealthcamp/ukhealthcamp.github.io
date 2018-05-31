@@ -3,7 +3,7 @@ title:  Why dxw are supporting UK Health Camp 2017
 author: Jane Hewitt @ dxw
 date:   2017-09-26
 categories: "2017"
-tags: sponsors
+tags: sponsor
 redirect_from: /sponsors/2017/09/26/why-dxw-are-supporting-health-camp.html
 ---
 This Saturday will see the third free Health Camp in the UK, bringing together healthcare professionals, policymakers and service managers with designers, digital specialists and technologists.

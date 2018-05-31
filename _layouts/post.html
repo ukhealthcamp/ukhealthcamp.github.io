@@ -4,7 +4,12 @@ layout: generic
 <div class="metadata">
     <h4><a href="/blog">Blog &raquo;</a></h4>
     <h2>{{ page.title }}</h2>
-    <h3><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>{% if page.author %} • {{ page.author }} {% endif %}</h3>
+    <h3>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>{% if page.author %} • {{ page.author }} {% endif %}
+        {% if page.tags.size > 0 %}
+        <span class="{{ page.tags[0] }}">{{ page.tags[0] }}</span>
+        {% endif %}
+    </h3>
 </div>
 <div class="post">
     {{ content }}

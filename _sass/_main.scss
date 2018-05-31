@@ -220,16 +220,39 @@ input {
   }
 }
 
+.category {
+  text-align: center;
+}
+
 .blog-posts {
   list-style: none;
   padding: 0 !important;
   h2 {
-      margin-bottom: 0;
+    margin-bottom: 0;
+    a {
+      text-decoration: underline #e5332a;
+      &:hover {
+        text-decoration: none;
+      }
+    }
   }
   h3 {
-      margin-top: 0;
-      font-weight: 500;
-      font-style: italic;
+    margin-top: 0;
+    font-weight: 500;
+    font-style: italic;
+    span {
+      display: none;
+    }
+    .sponsor {
+      display: block;
+      float: right;
+      background: #dac240;
+      color: #797979;
+      font-style: normal;
+      padding: 2px 8px;
+      font-size: 0.9em;
+      line-height: 1.5;
+    }
   }
 }
 
@@ -242,6 +265,19 @@ input {
     margin-top: 0;
     font-weight: 500;
     font-style: italic;
+    span {
+      display: none;
+    }
+    .sponsor {
+      display: block;
+      float: right;
+      background: #dac240;
+      color: #797979;
+      font-style: normal;
+      padding: 2px 8px;
+      font-size: 0.9em;
+      line-height: 1.5;
+    }
   }
   h4 {
     margin-top: -1em;
