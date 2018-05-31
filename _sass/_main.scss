@@ -72,7 +72,8 @@ input {
   position: fixed;
   width: 100%;
   top: 0;
-  left: 0; 
+  left: 0;
+  z-index: 50;
   a {
     color: #fff; 
   }
@@ -123,7 +124,7 @@ input {
 }
 
 .section {
-  padding: 45px;
+  padding: 25px;
   font-weight: 200;
   font-size: 22px;
   line-height: 34px;
@@ -311,7 +312,7 @@ a.btn {
   }
   .section {
     padding: 100px 45px 100px 45px;
-    p, ul, h2, h3, h4, h6, span{
+    p, ul, h2, h3, h4, h6, span, .twitter-tweet {
       max-width: 700px;
       margin-left: auto;
       margin-right: auto;
