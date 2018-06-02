@@ -1,5 +1,5 @@
 <span class="left">[Sponsor Us &raquo;][1]{:class="btn btn-white"}</span>
-UK Health Camp 2018 is 8th September @ The Federation in Manchester! &nbsp;&nbsp; [Tickets Not Yet Released &raquo;][2]{:class="btn btn-primary disabled" aria-disabled="true"}
+Next ticket release on Wed 6th June at 2pm &nbsp;&nbsp; [Get Tickets &raquo;][2]{:class="btn btn-primary disabled" aria-disabled="true"}
 <span class="right">[#ukhc18](https://twitter.com/search?q=%23ukhc18)</span>
 
 [1]: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4

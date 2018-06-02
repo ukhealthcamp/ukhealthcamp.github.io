@@ -40,6 +40,17 @@ To standardise formatting and ease of use sponsors are defined in `_data/sponsor
     for:  For the venue
 ```
 
+### Adding a `short-link`
+There are some "static" short links to useful things (e.g Slack, Pitch-board, Session notes), these links are stored in `links` directory as separate files containing the following YAML [Front Matter](https://jekyllrb.com/docs/frontmatter/): 
+
+```yaml
+---
+layout: link                # Must be set as `link`
+permalink: /short           # The short link n.b. be careful not to use the name of an existing page
+redirect_to: "http://redirect-to-here.com/" # The location to redirect to
+---
+```
+
 ## Getting Started
 
 Simply edit (Mark)Kramdown files in your editor of choice and push, GitHub pages will do the rest of the magic.
