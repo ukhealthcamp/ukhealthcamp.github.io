@@ -17,6 +17,8 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 The Federation, Manchester  
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
+_See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
+
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
 <label class="sr-only" for="mce-EMAIL">Email address</label>
