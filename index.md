@@ -11,9 +11,7 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-{::comment} <-- remove this whole line to uncomment and the clossing tag below
 [Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
-{:/comment}
 
 **Saturday 8th September  
 The Federation, Manchester  
