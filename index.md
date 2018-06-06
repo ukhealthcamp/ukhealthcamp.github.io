@@ -15,7 +15,9 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 The Federation, Manchester  
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
-[Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success disabled" aria-disabled="true"}
+{::comment} <-- remove this whole line to uncomment and the clossing tag below
+[Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
+{:/comment}
 
 _Next ticket release on Tues 19th June at 10am.  
 See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
