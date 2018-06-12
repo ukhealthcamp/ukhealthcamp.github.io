@@ -11,13 +11,16 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-[Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
-
 **Saturday 8th September  
 The Federation, Manchester  
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
-_See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
+{::comment} <-- remove this whole line to uncomment and the clossing tag below
+[Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
+{:/comment}
+
+_Next ticket release on Tues 19th June at 10am.  
+See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
 
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
