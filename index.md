@@ -79,6 +79,23 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 
 
 </div>
+
+<div class="section orange">
+
+## UK Health Camp Schedule
+
+**Saturday 8th September 2018**  
+09:30 - Check in / Refreshments  
+10:15 - Pitching and Planning  
+11:30 - Sessions start 
+13:00 - Lunch  
+14:00 - Sessions  
+17:00 - Wrap-up and close  
+
+Sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
+
+</div>
+
 <div class="section">
 
 
@@ -88,21 +105,6 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
 [Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
-
-
-</div>
-<div class="section orange">
-
-
-## UK Health Camp Schedule
-
-**Saturday 8th September 2018**  
-09:30 - Check in / Refreshments  
-10:30 - Pitching and Planning  
-11:30 - Sessions  
-13:00 - Lunch  
-14:00 - Sessions  
-16:30 - Wrap-up and close  
 
 
 </div>
