@@ -19,7 +19,7 @@ The Federation, Manchester
 [Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
 {:/comment}
 
-_Next ticket release on Tues 19th June at 10am.  
+_Tickets now available!.  
 See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
 
 <br>
