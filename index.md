@@ -77,6 +77,18 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 - Designed by its participants: everyone attending can pitch a topic or actively take part in sessions
 - Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/) 
 
+If you've never been to an unconference, it's quite a revolution - instead of coming together to sell individual products with pre-planned keynotes and PowerPoint presentations, we invite all attendees to pitch ideas they would like to discuss at the start of the day. That way the root of the issues facing the sector are identified and passionate people come together to try and work on them. 
+
+It's an awesome opportunity to grow your network of those most keenly pushing for improvement and see how your offering can address the issues raised on the day.
+
+We avoid registration fees, sponsored presentations and keynote speeches, because we want the agenda to be set collaboratively by all who have an interest in health: health care professionals, policy makers, service managers, designers, technologists, patients, advocates, charities...you.
+
+Examples of previous sessions at UK Health Camp 2017 include:
+
+- Developing the digital workforce
+- Empowering frontline staff to make change
+- Digitising maternity
+- Project failures: lessons learnt and shared
 
 </div>
 
@@ -99,7 +111,7 @@ Sponsored drinks will be available nearby for anyone who'd like to continue the 
 <div class="section">
 
 
-## Our supporters for UK Health Camp 2017
+## Our supporters for UK Health Camp 2017 
 {% include sponsors.html year="2017" %}
 
 Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
