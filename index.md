@@ -111,8 +111,8 @@ Sponsored drinks will be available nearby for anyone who'd like to continue the 
 <div class="section">
 
 
-## Our supporters for UK Health Camp 2017 
-{% include sponsors.html year="2017" %}
+## Our supporters for UK Health Camp 2018
+{% include sponsors.html year="2018" %}
 
 Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
 
