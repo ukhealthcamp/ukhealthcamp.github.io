@@ -45,14 +45,20 @@
 
 "2018":
   gold:
-  - name: Sponsor Us
-    link: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4
-    for:  Various packages available
+  - name: Well Digital
+    link: https://www.well.co.uk/
+    logo: gold-well-logo-colour.jpg
+  - name: Dxw
+    link: https://www.dxw.com/
+    for:  For the evening social
+    logo: gold-dxw-color.png
   silver:
-  - name: Sponsor Us
-    link: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4
-    for:  Various packages available
+  - name: Vix Digital
+    logo: silver-vix-logo-colour.png
+    link: https://vix.digital
+  - name: UKGovCamp
+    link: https://www.ukgovcamp.com/
+    logo: silver-ukgovcamp-color.png
   bronze:
-  - name: Sponsor Us
-    link: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4
-    for:  Various packages available
+  - name: Healthforge
+    link: https://healthforge.io/
