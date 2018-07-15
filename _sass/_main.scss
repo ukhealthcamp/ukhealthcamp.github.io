@@ -38,6 +38,14 @@ b, strong {
   font-weight: 700;
 }
 
+hr {
+  margin: 20px auto;
+  max-width: 50px;
+  background: inherit;
+  height: 1px;
+  border: 0;
+}
+
 input {
   display: inline-block;
   padding: 10px 16px;
