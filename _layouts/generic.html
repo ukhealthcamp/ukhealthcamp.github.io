@@ -8,6 +8,6 @@ body-class: generic
                 <h1 id="uk-health-camp">UK Health Camp</h1>
             </a>
         </div>
-        <div class="section blue">
+        <div class="section {{ page.section-class | default: "blue" }}">
         {{ content }}
         </div>

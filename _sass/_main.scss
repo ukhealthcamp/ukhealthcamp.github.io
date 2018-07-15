@@ -132,7 +132,7 @@ input {
 }
 
 .section {
-  padding: 25px;
+  padding: 25px 25px 45px 25px;
   font-weight: 200;
   font-size: 22px;
   line-height: 34px;
@@ -149,7 +149,6 @@ input {
 
 .cta {
   padding: 30px 45px 25px 45px !important;
-  font-weight: 500;
   vertical-align: middle;
   background-color: #56B334;
   color: #fff;
@@ -173,6 +172,10 @@ input {
   a {
     color: #fff; 
   }
+}
+
+.white {
+  border-bottom: 1px solid #e5332a;
 }
 
 .sponsors{
@@ -221,6 +224,12 @@ input {
     }
   }
   &.bronze {
+    li {
+      width: 160px;
+      a { 
+        font-family: 'Bree Serif', serif;
+      }
+    }
     img {
       max-height: 90px;
       max-width: 160px;
@@ -246,7 +255,7 @@ input {
   }
   h3 {
     margin-top: 0;
-    font-weight: 500;
+    font-weight: 400;
     font-style: italic;
     span {
       display: none;
@@ -271,7 +280,7 @@ input {
   }
   h3 {
     margin-top: 0;
-    font-weight: 500;
+    font-weight: 400;
     font-style: italic;
     span {
       display: none;
@@ -334,8 +343,36 @@ a.btn {
 }
 
 .footer {
-  padding: 50px 45px;
+  padding: 25px 25px;
   font-weight: 200;
+}
+
+.packages {
+  div {
+    display: block;
+    padding: 20px;
+    font-size: 0.85em;
+    line-height: 1.3em;
+    margin-bottom: 15px;
+    h2 {
+      margin-top: 0px;
+      font-size: 1.4em;
+    }
+  }
+  .bronze {
+    background-color: #DB883D;
+    color: #fff;
+  }
+  
+  .silver {
+    background-color: #797979;
+    color: #fff; 
+  }
+  
+  .gold {
+    background-color: #eac302;
+    color: #000;
+  }
 }
 
 @media screen and (min-width: 680px) {
@@ -354,6 +391,9 @@ a.btn {
       box-sizing: border-box;
     }
   }
+  .generic .section {
+    padding-top: 50px;
+  }
   .section {
     padding: 100px 45px 100px 45px;
     p, ul, h2, h3, h4, h6, span, .twitter-tweet {
@@ -363,7 +403,7 @@ a.btn {
       box-sizing: border-box;
     }
     h2.category:first-child {
-      margin-top: -2em;
+      margin-top: -0.5em;
     }
   }
   .metadata {
@@ -380,11 +420,14 @@ a.btn {
   .with-alert .jumbotron, .with-alert .header {
     padding-top: 173px;
   }
-  .footer p {
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    box-sizing: border-box;
+  .footer{
+    padding: 50px 45px;
+    p {
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+      box-sizing: border-box;
+    }
   }
   h1 {
     font-size: 63px;
@@ -408,6 +451,17 @@ a.btn {
       float: right;
       margin-top: 8px;
       display: block;
+    }
+  }
+  .packages {
+    margin: auto;
+    text-align: center;
+    div {
+      display: inline-block;
+      vertical-align: top;
+      text-align: left;
+      width: 300px;
+      margin: 20px;
     }
   }
 }

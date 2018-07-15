@@ -155,3 +155,8 @@ a.btn {
     background-color: #eee;
   }
 }
+
+.tito-tickets-button {
+  @extend .btn;
+  @extend .btn-success;
+}
