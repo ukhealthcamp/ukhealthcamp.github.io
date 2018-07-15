@@ -15,11 +15,11 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 The Federation, Manchester  
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
-{::comment} <-- remove this whole line to uncomment and the clossing tag below
+{::comment} <-- remove this whole line to uncomment and the closing tag below
 [Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
 {:/comment}
 
-_Tickets now available!.  
+_Tickets now available!  
 See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
 
 <br>
@@ -79,7 +79,6 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 
 
 </div>
-
 <div class="section orange">
 
 ## UK Health Camp Schedule
@@ -87,7 +86,7 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 **Saturday 8th September 2018**  
 09:30 - Check in / Refreshments  
 10:15 - Pitching and Planning  
-11:30 - Sessions start 
+11:30 - Sessions start  
 13:00 - Lunch  
 14:00 - Sessions  
 17:00 - Wrap-up and close  
@@ -95,7 +94,6 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 Sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
 
 </div>
-
 <div class="section">
 
 
