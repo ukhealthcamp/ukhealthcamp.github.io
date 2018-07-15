@@ -47,11 +47,11 @@
   gold:
   - name: Well Digital
     link: https://www.well.co.uk/
-    logo: gold-well-logo-colour.jpg
-  - name: Dxw
+    logo: gold-well-logo-colour.png
+  - name: dxw
     link: https://www.dxw.com/
     for:  For the evening social
-    logo: gold-dxw-color.png
+    logo: gold-dxw-color.gif
   silver:
   - name: Vix Digital
     logo: silver-vix-logo-colour.png
@@ -62,3 +62,4 @@
   bronze:
   - name: Healthforge
     link: https://healthforge.io/
+    logo: bronze-healthforge-color.jpg
