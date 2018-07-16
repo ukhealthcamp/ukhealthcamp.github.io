@@ -115,7 +115,7 @@ sessions at UK Health Camp include:
 - Digitising maternity
 - Project failures: lessons learnt and shared
 - Social prescribing
-- "Let's (politely) argue about personal data with [@blangry](https://twitter.com/@blangry)"
+- "Let's (politely) argue about personal data"
 - Digitising consent
 
 </div>
