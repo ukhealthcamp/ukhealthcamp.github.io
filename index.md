@@ -11,15 +11,15 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-**Saturday 8th September  
-The Federation, Manchester  
+**Saturday 8th September
+The Federation, Manchester
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
 {::comment} <-- remove this whole line to uncomment and the clossing tag below
 [Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
 {:/comment}
 
-_Tickets now available!.  
+_Tickets now available!.
 See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
 
 <br>
@@ -57,12 +57,12 @@ This isn't the first HealthCamp - [similar events](https://en.wikipedia.org/wiki
 
 Our events are multidisciplinary - we aim to bring together health and care professionals, policy makers and service managers together with designers, digital specialists and technologists. Everyone is welcome.
 
-We believe that diversity at conferences and events is important and support the **[Diversity Charter](https://diversitycharter.org/)**.  
+We believe that diversity at conferences and events is important and support the **[Diversity Charter](https://diversitycharter.org/)**.
 
 {:class="centre"}
-[![Diversity Charter](images/diversitycharter_small.png)](https://diversitycharter.org/)  
+[![Diversity Charter](images/diversitycharter_small.png)](https://diversitycharter.org/)
 
-**We have a [Code of Conduct](/code-of-conduct)** and ask for cooperation from all participants to help ensure a safe environment for everybody at UK Health Camp.  
+**We have a [Code of Conduct](/code-of-conduct)** and ask for cooperation from all participants to help ensure a safe environment for everybody at UK Health Camp.
 
 
 </div>
@@ -70,25 +70,53 @@ We believe that diversity at conferences and events is important and support the
 
 
 ## How does it work?
+
 UK Health Camp isn’t a healthcare IT conference. It is:
 
 - Free to attend
 - Free from keynotes and sponsor pitches
 - Designed by its participants: everyone attending can pitch a topic or actively take part in sessions
-- Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/) 
+- Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/)
 
-If you've never been to an unconference, it's quite a revolution - instead of coming together to sell individual products with pre-planned keynotes and PowerPoint presentations, we invite all attendees to pitch ideas they would like to discuss at the start of the day. That way the root of the issues facing the sector are identified and passionate people come together to try and work on them. 
 
-It's an awesome opportunity to grow your network of those most keenly pushing for improvement and see how your offering can address the issues raised on the day.
+### Tell me more about how it works
 
-We avoid registration fees, sponsored presentations and keynote speeches, because we want the agenda to be set collaboratively by all who have an interest in health: health care professionals, policy makers, service managers, designers, technologists, patients, advocates, charities...you.
+If you've never been to an unconference, **Don't Panic.**
 
-Examples of previous sessions at UK Health Camp 2017 include:
+Instead of a schedule arranged ahead of time featuring presentations and
+panels brought to you by the great and the good, everyone in the room gets
+to help design the agenda for the day as the first order of business.
+
+We invite all attendees to propose ideas and topics that they would like to
+discuss, then with a brief flurry of concentration, post-its and pragmatism
+we arrange these into a
+[session grid](https://twitter.com/puntofisso/status/914074219998269440)
+ (schedule).
+
+Sessions should bias strongly towards being discursive rather than a talk
+from a single person. Think seminar rather than lecture, more socratic than
+didactic.
+
+This way, we turn the conversations that happen in the hallway, in between
+sessions at most conferences into the main event. You'll grow your network
+with passionate and clueful people, and get to jump in and join the party.
+
+Come and join us.
+
+**Don't panic.**
+
+### Previous sessions
+
+To give you a taste of the kinds of things that come up, examples of previous
+sessions at UK Health Camp include:
 
 - Developing the digital workforce
 - Empowering frontline staff to make change
 - Digitising maternity
 - Project failures: lessons learnt and shared
+- Social prescribing
+- "Let's (politely) argue about personal data with [@blangry](https://twitter.com/@blangry)"
+- Digitising consent
 
 </div>
 
@@ -96,13 +124,14 @@ Examples of previous sessions at UK Health Camp 2017 include:
 
 ## UK Health Camp Schedule
 
-**Saturday 8th September 2018**  
-09:30 - Check in / Refreshments  
-10:15 - Pitching and Planning  
-11:30 - Sessions start 
-13:00 - Lunch  
-14:00 - Sessions  
-17:00 - Wrap-up and close  
+**Saturday 8th September 2018**
+
+- 09:30 - Check in / Refreshments
+- 10:15 - Pitching and Planning
+- 11:30 - Sessions start
+- 13:00 - Lunch
+- 14:00 - Sessions
+- 17:00 - Wrap-up and close
 
 Sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
 
