@@ -70,13 +70,19 @@ We believe that diversity at conferences and events is important and support the
 
 
 ## How does it work?
+If you've never been to an [unconference](https://en.wikipedia.org/wiki/Unconference), **Don't Panic**.
 
-UK Health Camp isn’t a healthcare IT conference. It is:
+Instead of a schedule arranged ahead of time featuring presentations and panels brought to you by the great and the good, **everyone in the room gets to help design the agenda for the day** as the first order of business.
 
-- Free to attend
-- Free from keynotes and sponsor pitches
-- Designed by its participants: everyone attending can pitch a topic or actively take part in sessions
-- Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/)
+We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](https://twitter.com/puntofisso/status/914074219998269440) (schedule). 
+
+**Sessions should bias strongly towards being discursive** rather than a talk from a single person. Think seminar rather than lecture, more socratic than didactic.
+
+This way, we turn the conversations that happen in the hallway, in between sessions at most conferences into the main event. You'll grow your network with passionate and clueful people, and get to jump in and join the party.
+
+Our sister [BarCamp](http://barcamp.org)-style events include [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/).
+
+Come and join us. **Don't panic!**
 
 ### Previous sessions
 
@@ -95,20 +101,6 @@ To give you a taste of the kinds of things that come up, examples of previous se
 - Digitising consent
 - GP Paperless Practice opportunities & challenges
 - What do we know?
-
-### Tell me more about how it works
-
-If you've never been to an unconference, **Don't Panic**.
-
-Instead of a schedule arranged ahead of time featuring presentations and panels brought to you by the great and the good, everyone in the room gets to help design the agenda for the day as the first order of business.
-
-We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](https://twitter.com/puntofisso/status/914074219998269440) (schedule).
-
-Sessions should bias strongly towards being discursive rather than a talk from a single person. Think seminar rather than lecture, more socratic than didactic.
-
-This way, we turn the conversations that happen in the hallway, in between sessions at most conferences into the main event. You'll grow your network with passionate and clueful people, and get to jump in and join the party.
-
-Come and join us. **Don't panic!**
 
 
 </div>
