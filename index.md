@@ -11,15 +11,15 @@ title: "UKHealthCamp is the free ‘unconference’ for everyone interested in d
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-**Saturday 8th September
-The Federation, Manchester
+**Saturday 8th September  
+The Federation, Manchester  
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
 {::comment} <-- remove this whole line to uncomment and the clossing tag below
 [Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
 {:/comment}
 
-_Tickets now available!.
+_Tickets now available!  
 See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
 
 <br>
@@ -57,10 +57,10 @@ This isn't the first HealthCamp - [similar events](https://en.wikipedia.org/wiki
 
 Our events are multidisciplinary - we aim to bring together health and care professionals, policy makers and service managers together with designers, digital specialists and technologists. Everyone is welcome.
 
-We believe that diversity at conferences and events is important and support the **[Diversity Charter](https://diversitycharter.org/)**.
+We believe that diversity at conferences and events is important and support the **[Diversity Charter](https://diversitycharter.org/)**.  
 
 {:class="centre"}
-[![Diversity Charter](images/diversitycharter_small.png)](https://diversitycharter.org/)
+[![Diversity Charter](images/diversitycharter_small.png)](https://diversitycharter.org/)  
 
 **We have a [Code of Conduct](/code-of-conduct)** and ask for cooperation from all participants to help ensure a safe environment for everybody at UK Health Camp.
 
