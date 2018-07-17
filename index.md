@@ -15,7 +15,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 The Federation, Manchester  
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
-{::comment} <-- remove this whole line to uncomment and the clossing tag below
+{::comment} <-- remove this whole line to uncomment and the closing tag below
 [Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
 {:/comment}
 
@@ -76,6 +76,7 @@ Instead of a schedule arranged ahead of time featuring presentations and panels 
 
 We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](https://twitter.com/puntofisso/status/914074219998269440) (schedule). 
 
+<<<<<<< HEAD
 **Sessions should bias strongly towards being discursive** rather than a talk from a single person. Think seminar rather than lecture, more socratic than didactic.
 
 This way, we turn the conversations that happen in the hallway, in between sessions at most conferences into the main event. You'll grow your network with passionate and clueful people, and get to jump in and join the party.
@@ -103,12 +104,15 @@ To give you a taste of the kinds of things that come up, examples of previous se
 - What do we know?
 
 
+=======
+>>>>>>> master
 </div>
 <div class="section orange">
 
 
 ## UK Health Camp Schedule
 
+<<<<<<< HEAD
 **Saturday 8th September 2018**
 
 - 09:30 - Check in / Refreshments
@@ -121,6 +125,18 @@ To give you a taste of the kinds of things that come up, examples of previous se
 Sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
 
 
+=======
+**Saturday 8th September 2018**  
+09:30 - Check in / Refreshments  
+10:15 - Pitching and Planning  
+11:30 - Sessions start  
+13:00 - Lunch  
+14:00 - Sessions  
+17:00 - Wrap-up and close  
+
+Sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
+
+>>>>>>> master
 </div>
 <div class="section">
 
