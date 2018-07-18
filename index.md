@@ -60,7 +60,7 @@ We believe that diversity at conferences and events is important and support the
 {:class="centre"}
 [![Diversity Charter](images/diversitycharter_small.png)](https://diversitycharter.org/)  
 
-**We have a [Code of Conduct](/code-of-conduct)** and ask for cooperation from all participants to help ensure a safe environment for everybody at UK Health Camp.  
+**We have a [Code of Conduct](/code-of-conduct)** and ask for cooperation from all participants to help ensure a safe environment for everybody at UK Health Camp.
 
 
 </div>
@@ -68,16 +68,42 @@ We believe that diversity at conferences and events is important and support the
 
 
 ## How does it work?
-UK Health Camp isn’t a healthcare IT conference. It is:
+If you've never been to an [unconference](https://en.wikipedia.org/wiki/Unconference), **Don't Panic**.
 
-- Free to attend
-- Free from keynotes and sponsor pitches
-- Designed by its participants: everyone attending can pitch a topic or actively take part in sessions
-- Based on the [Open Space principles](https://en.wikipedia.org/wiki/Open_Space_Technology) like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/) 
+Instead of a schedule arranged ahead of time featuring presentations and panels brought to you by the great and the good, **everyone in the room gets to help design the agenda for the day** as the first order of business.
+
+We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](https://twitter.com/puntofisso/status/914074219998269440) (schedule). 
+
+**Sessions should bias strongly towards being discursive** rather than a talk from a single person. Think seminar rather than lecture, more socratic than didactic.
+
+This way, we turn the conversations that happen in the hallway, in between sessions at most conferences into the main event. You'll grow your network with passionate and clueful people, and get to jump in and join the party.
+
+**Like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/)**.
+
+Come and join us. **Don't panic!**
+
+### Previous sessions
+
+To give you a taste of the kinds of things that come up, examples of previous sessions at UK Health Camp include:
+
+- How do we improve patient education?
+- Clinicians trying to influence informatics
+- Code that make space for care
+- Digitising maternity
+- Health + Social Care integration
+- Dynamic systems modelling
+- "Let's (politely) argue about personal data"
+- Project failures: lessons learnt and shared
+- Social prescribing
+- Developing the digital workforce
+- Digitising consent
+- GP Paperless Practice opportunities & challenges
+- What do we know?
 
 
 </div>
 <div class="section orange">
+
 
 ## UK Health Camp Schedule
 
@@ -91,6 +117,7 @@ UK Health Camp isn’t a healthcare IT conference. It is:
 
 Sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
 
+
 </div>
 <div class="section">
 
@@ -98,7 +125,7 @@ Sponsored drinks will be available nearby for anyone who'd like to continue the 
 ## Our supporters for UK Health Camp 2018
 {% include sponsors.html year="2018" %}
 
-Want to sponsor UK Health Camp 2018? Email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)
+Want to sponsor UK Health Camp 2018? Email <sponsors@ukhealthcamp.com>
 
 [Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
 
@@ -114,10 +141,10 @@ There are several ways to help us put on UK Health Camp:
 - Volunteer as an organiser.
 - Donate money or resources.
 - Attend UK Health Camp and participate (sign up at the top of this page).
-- Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc18](https://twitter.com/search?q=%23ukhc18&amp;src=typd)
+- Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc18](https://twitter.com/search?q=%23ukhc18)
 - Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/2018/poster_mono.pdf), [two colours](branding/posters/2018/poster_twocolours.pdf))
 
-**If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com).**
+**If you can help us, please email <sponsors@ukhealthcamp.com>.**
 
 [Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
 
