@@ -90,9 +90,19 @@ input {
     margin: 0;
   }
   .left {
+    display: inline-block;
+    float: left;
+  }
+  .message {
     display: block;
-    text-align: center;
-    margin-bottom: 10px;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 8px;
+  }
+  .center {
+    float: right;
+    margin-bottom: 43px;
   }
   .right {
     display: none;
@@ -103,7 +113,7 @@ input {
   text-align: center;
   background-color: #e5332a;
   color: #fff; 
-  padding: 45px;
+  padding: 25px 25px 45px 25px;
   a {
     color: #fff; 
   }
@@ -117,6 +127,17 @@ input {
     font-size: 21px;
     font-weight: 200;
   }
+  #uk-health-camp {
+    background: url(/images/ukhealthcamp_logo.png) no-repeat center top;
+    padding-top: 252px;
+    background-size: 240px;
+  }
+  .jumbo-logo {
+    max-width: 300px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px 30px;
+  }
 }
 
 .centre {
@@ -128,7 +149,21 @@ input {
 }
 
 .logo {
-  margin: 2px;
+  margin: 4px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: middle;
+  color: transparent !important;
+  font-size: 0px;
+  &.github {
+    background: url(/images/github_logo.svg) no-repeat center center;
+    background-size: 50px;
+  }
+  &.twitter {
+    background: url(/images/twitter_logo.svg) no-repeat center center;
+    background-size: 50px;
+  }
 }
 
 .section {
@@ -187,7 +222,7 @@ input {
   li {
       display: inline-block;
       vertical-align: middle;
-      margin: 0 10px 10px 10px;
+      margin: 0 0 10px 0;
       padding: 0;
       width: 160px;
       span {
@@ -322,7 +357,7 @@ a.btn {
   text-align: center;
   background-color: #e5332a;
   color: #fff;
-  padding: 25px;
+  padding: 25px 10px;
   a {
     text-decoration: none;
     color: #fff;
@@ -334,12 +369,16 @@ a.btn {
     display: inline;
     vertical-align: middle;
     font-size: 38px;
-    margin-left: 20px;
+  }
+  #uk-health-camp {
+    background: url(/images/ukhealthcamp_logo.png) no-repeat left center;
+    padding: 10px 0 10px 90px;
+    background-size: 70px;
   }
 }
 
 .with-alert .jumbotron, .with-alert .header {
-  padding-top: 187px;
+  padding-top: 145px;
 }
 
 .footer {
@@ -375,13 +414,49 @@ a.btn {
   }
 }
 
-@media screen and (min-width: 680px) {
+@media screen and (min-width: 600px) {
   .with-alert .jumbotron, .with-alert .header {
-    padding-top: 158px;
+    padding-top: 114px;
+  }
+  .alert-bar {
+    .message {
+      display: inline-block;
+      width: auto;
+      position: relative;
+      margin-top: 15px;
+    }
+    .center {
+      margin-bottom: 0;
+    }
+  }
+  .header {
+    padding: 45px;
+  }
+  .sponsors{
+    li {
+        margin: 0 10px 10px 10px;
+    }
   }
 }
 
 @media screen and (min-width: 768px) {
+  .alert-bar {
+    .left {
+      float: left;
+      margin-bottom: 0px;
+    }
+    .center {
+      float: none;
+      display: inline-block;
+      vertical-align: top;
+      margin-left: 5px;
+    }
+    .right {
+      float: right;
+      margin-top: 8px;
+      display: block;
+    }
+  }
   .jumbotron {
     padding-bottom: 48px;
     p, ul {
@@ -389,6 +464,13 @@ a.btn {
       margin-left: auto;
       margin-right: auto;
       box-sizing: border-box;
+    }
+    .jumbo-logo {
+      padding: 20px 10px;
+    }
+    #uk-health-camp {
+      padding-top: 310px;
+      background-size: 300px;
     }
   }
   .generic .section {
@@ -412,13 +494,9 @@ a.btn {
     }
   }
   .header {
-    padding: 45px;
     h1 {
       font-size: 58px;
     }
-  }
-  .with-alert .jumbotron, .with-alert .header {
-    padding-top: 173px;
   }
   .footer{
     padding: 50px 45px;
@@ -439,20 +517,6 @@ a.btn {
 }
 
 @media screen and (min-width: 920px) {
-  .with-alert .jumbotron, .with-alert .header {
-    padding-top: 114px;
-  }
-  .alert-bar {
-    .left {
-      float: left;
-      margin-bottom: 0px;
-    }
-    .right {
-      float: right;
-      margin-top: 8px;
-      display: block;
-    }
-  }
   .packages {
     margin: auto;
     text-align: center;

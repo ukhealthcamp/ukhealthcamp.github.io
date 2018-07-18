@@ -1,7 +1,7 @@
 ---
 layout: generic
 section-class: blue
-title: "UKHealthCamp - Sponsorship Packages (UKHC18)"
+title: "UKHealthCamp - Sponsorship Packages"
 ---
 {::options parse_block_html="true" /}
 

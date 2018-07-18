@@ -3,10 +3,8 @@ layout: default
 title: "UKHealthCamp is the free ‘unconference’ for everyone interested in digital, design and data for health and care"
 ---
 {::options parse_block_html="true" /}
-
 <div class="jumbotron">
 
-![UKHealthCamp Logo](images/ukhealthcamp_logo.png){:width="300"}
 
 # UK Health Camp
 **Subscription confirmed**
@@ -23,9 +21,10 @@ In the meantime, why not...
 - Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/2018/poster_mono.pdf), [two colours](branding/posters/2018/poster_twocolours.pdf))
 </div>
 
-**If you can help us, please email [sponsors@ukhealthcamp.com](mailto:sponsors@ukhealthcamp.com)**
+**If you can help us, please email <sponsors@ukhealthcamp.com>**
 
-[![Twitter](images/twitter_logo.png){:width="50" class="logo"}](https://twitter.com/UKHealthCamp)
-[![GitHub](images/github_logo.png){:width="50" class="logo"}](https://github.com/UKHealthCamp)
+[Twitter](https://twitter.com/UKHealthCamp){:class="logo twitter"}
+[GitHub](https://github.com/UKHealthCamp){:class="logo github"}
+
 
 </div>

@@ -160,3 +160,11 @@ a.btn {
   @extend .btn;
   @extend .btn-success;
 }
+
+.get-tickets .tito-tickets-button {
+  @extend .btn-success;
+}
+
+.cta .tito-tickets-button {
+  @extend .btn-primary;
+}
