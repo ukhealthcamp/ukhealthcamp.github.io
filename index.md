@@ -76,7 +76,6 @@ Instead of a schedule arranged ahead of time featuring presentations and panels 
 
 We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](https://twitter.com/puntofisso/status/914074219998269440) (schedule). 
 
-<<<<<<< HEAD
 **Sessions should bias strongly towards being discursive** rather than a talk from a single person. Think seminar rather than lecture, more socratic than didactic.
 
 This way, we turn the conversations that happen in the hallway, in between sessions at most conferences into the main event. You'll grow your network with passionate and clueful people, and get to jump in and join the party.
