@@ -80,7 +80,7 @@ We invite all attendees to propose ideas and topics that they would like to disc
 
 This way, we turn the conversations that happen in the hallway, in between sessions at most conferences into the main event. You'll grow your network with passionate and clueful people, and get to jump in and join the party.
 
-Similar to our sister [BarCamp](http://barcamp.org)-style events include [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/).
+**Like our sister [BarCamp](http://barcamp.org)-style events [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/)**.
 
 Come and join us. **Don't panic!**
 
