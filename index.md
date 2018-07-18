@@ -81,7 +81,7 @@ We invite all attendees to propose ideas and topics that they would like to disc
 
 This way, we turn the conversations that happen in the hallway, in between sessions at most conferences into the main event. You'll grow your network with passionate and clueful people, and get to jump in and join the party.
 
-Our sister [BarCamp](http://barcamp.org)-style events include [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/).
+Similar to our sister [BarCamp](http://barcamp.org)-style events include [UKGovcamp](http://www.ukgovcamp.com) and [LocalGovCamp](http://localgovdigital.info/localgovcamp/).
 
 Come and join us. **Don't panic!**
 
@@ -104,28 +104,12 @@ To give you a taste of the kinds of things that come up, examples of previous se
 - What do we know?
 
 
-=======
->>>>>>> master
 </div>
 <div class="section orange">
 
 
 ## UK Health Camp Schedule
 
-<<<<<<< HEAD
-**Saturday 8th September 2018**
-
-- 09:30 - Check in / Refreshments
-- 10:15 - Pitching and Planning
-- 11:30 - Sessions start
-- 13:00 - Lunch
-- 14:00 - Sessions
-- 17:00 - Wrap-up and close
-
-Sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
-
-
-=======
 **Saturday 8th September 2018**  
 09:30 - Check in / Refreshments  
 10:15 - Pitching and Planning  
@@ -136,7 +120,7 @@ Sponsored drinks will be available nearby for anyone who'd like to continue the 
 
 Sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
 
->>>>>>> master
+
 </div>
 <div class="section">
 
