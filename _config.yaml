@@ -1,7 +1,7 @@
 title: UKHealthCamp
 name: UKHealthCamp
 baseurl: ""
-url: "http://ukhealthcamp.com"
+url: "https://ukhealthcamp.com"
 repository: ukhealthcamp/ukhealthcamp.github.io
 markdown: kramdown
 highlighter: null
