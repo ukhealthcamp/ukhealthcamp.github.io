@@ -35,7 +35,7 @@ This is your chance to network with 100+ highly committed NHS digital specialist
 1 attendee ticket
 
 Your logo will feature on:
-- the event T-Shirt
+- the event T-Shirt or similar swag
 - the looped projector slides running the whole the day
 - the UK Health Camp website for twelve months
 
@@ -79,7 +79,7 @@ We can discuss any options for further branding opportunities such as:
 - Lunch during the event (approx £1000)
 - Pop-up coffee (approx £1000)
 - ~~Pub drinks and food (approx £1000)~~
-- Co-branded swag such as mugs, water bottles, etc.
+- Co-branded swag such as tote bags, mugs, water bottles, etc.
 - Any other ideas welcome!
 
 
