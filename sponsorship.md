@@ -7,7 +7,7 @@ title: "UKHealthCamp - Sponsorship Packages"
 
 ## Sponsoring UKHealthCamp 
 
-UKHealthCamp is the free unconference for people interested in digital, design, technology and data for health and care.
+UK Health Camp is the free unconference for people interested in digital, design, technology and data for health and care.
 
 Sponsorship money is used to fund the expenses of UK Health Camp on the day - venue hire and refreshments. If we raise enough money, we may also provide a travel bursary fund to ensure everyone can attend.
 
@@ -15,7 +15,7 @@ We are keen that sponsors reflect the diversity of digital in the health and car
 
 ### Networking
 
-This is your chance to network with 100+ highly committed NHS digital specialists in an informal environment. 
+This is your chance to network with 100+ highly committed health and care digital specialists in an informal environment. 
 
 ### Contact
 
