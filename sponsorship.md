@@ -1,11 +1,11 @@
 ---
 layout: generic
 section-class: blue
-title: "UKHealthCamp - Sponsorship Packages"
+title: "UK Health Camp - Sponsorship Packages"
 ---
 {::options parse_block_html="true" /}
 
-## Sponsoring UKHealthCamp 
+## Sponsoring UK Health Camp 
 
 UK Health Camp is the free unconference for people interested in digital, design, technology and data for health and care.
 
