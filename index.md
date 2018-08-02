@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "UKHealthCamp is the free ‘unconference’ for everyone interested in digital, design and data for health and care"
+title: "UK Health Camp is the free ‘unconference’ for everyone interested in digital, design and data for health and care"
 ---
 {::options parse_block_html="true" /}
 <div class="jumbotron">
 
+[1]: /sponsorship
 
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
@@ -37,21 +38,19 @@ See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release
 
 [Sponsor Us &raquo;][1]{:class="btn btn-white"}
 
-[1]: https://docs.google.com/document/d/10VJtt-VR7mnIty77gfy8TwLoemq6OiP7uLP5ZIjsOK4
-
 
 </div>
 <div class="section">
 
 
 ## What is UK Health Camp?
-There’s lots of brilliant things happening to make health and care services better for patients, carers and professionals.
+There are lots of brilliant things happening to make health and care services better for patients, carers, and professionals.
 
 **Our aim is to provide a space to connect, share ideas and make things happen.**
 
-This isn't the first HealthCamp - [similar events](https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK in 2015 and 2017.
+This isn't the first Health Camp - [similar events](https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK in 2015 and 2017.
 
-**We are open to all**, whether you work for the NHS or not.
+**We are open to all**, whether you work for health and care services or not.
 
 Our events are multidisciplinary - we aim to bring together health and care professionals, policy makers and service managers together with designers, digital specialists and technologists. Everyone is welcome.
 
@@ -105,7 +104,7 @@ To give you a taste of the kinds of things that come up, examples of previous se
 <div class="section orange">
 
 
-## UK Health Camp Schedule
+## UK Health Camp 2018 Schedule
 
 **Saturday 8th September 2018**  
 09:30 - Check in / Refreshments  
