@@ -6,6 +6,7 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 <div class="jumbotron">
 
 [1]: /sponsorship
+[2]: https://ti.to/ukhealthcamp/2018
 
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
@@ -15,10 +16,13 @@ The Federation, Manchester
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
 {::comment} <-- remove this whole line to uncomment and the closing tag below
-[Get tickets](https://ti.to/ukhealthcamp/2018){:class="btn btn-success"}
+[Get tickets][2]{:class="btn btn-success"}
 {:/comment}
 
 _Tickets now available!  
+<br>
+<span class="center">[Get Tickets &raquo;][2]{:class="btn btn-primary"}</span>  
+<br>
 See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
 
 <br>
