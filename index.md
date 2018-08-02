@@ -138,7 +138,7 @@ Want to sponsor UK Health Camp 2018? Email <sponsors@ukhealthcamp.com>
 
 
 ## How can I get involved?
-UK Health Camp is run entirely by volunteers. The 2018 event is being organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@VeeWilliams_](http://twitter.com/VeeWilliams_), and [@mattstibbs](http://twitter.com/mattstibbs).
+UK Health Camp is run entirely by volunteers. The 2018 event is being organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@mattstibbs](http://twitter.com/mattstibbs), [@cholten99](http://twitter.com/cholten99), [@Rozalie_Horka](http://twitter.com/Rozalie_Horka), and [@blu3id](http://twitter.com/blu3id).
 
 There are several ways to help us put on UK Health Camp:
 - Volunteer as an organiser.
