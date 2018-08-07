@@ -52,6 +52,9 @@
     link: https://www.dxw.com/
     for:  For the evening social
     logo: gold-dxw-color.svg
+  - name: Make Do
+    link: https://www.makedo.net/
+    logo: bronze-makedo-color.svg
   silver:
   - name: Vix Digital
     logo: silver-vix-logo-colour.png
@@ -59,6 +62,9 @@
   - name: UKGovCamp
     link: https://www.ukgovcamp.com/
     logo: silver-ukgovcamp-color.png
+  - name: Nomensa
+    link: https://www.nomensa.com/
+    logo: silver-nomensa-color.png
   bronze:
   - name: Healthforge
     link: https://healthforge.io/
