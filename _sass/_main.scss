@@ -56,6 +56,21 @@ input {
   box-sizing: border-box;
   width: 100%;
   margin-bottom: 15px;
+  height: 49px;
+}
+
+.browsehappy {
+  position: fixed;
+  top: 0px;
+  z-index: 100;
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: yellow;
+  border: 4px solid #eac302;
+  border-width: 4px 0;
+  font-size: 24px;
+  padding: 20px;
 }
 
 .sr-only {
@@ -128,7 +143,8 @@ input {
     font-weight: 200;
   }
   #uk-health-camp {
-    background: url(/images/ukhealthcamp_logo.png) no-repeat center top;
+    //background: url(/images/ukhealthcamp_logo.png) no-repeat center top;
+    background: svg-url($ukhealthcamplogo) no-repeat center top;
     padding-top: 252px;
     background-size: 240px;
   }
@@ -157,11 +173,13 @@ input {
   color: transparent !important;
   font-size: 0px;
   &.github {
-    background: url(/images/github_logo.svg) no-repeat center center;
+    //background: url(/images/github_logo.svg) no-repeat center center;
+    background: svg-url($githublogo) no-repeat center center;
     background-size: 50px;
   }
   &.twitter {
-    background: url(/images/twitter_logo.svg) no-repeat center center;
+    //background: url(/images/twitter_logo.svg) no-repeat center center;
+    background: svg-url($twitterlogo) no-repeat center center;
     background-size: 50px;
   }
 }
@@ -240,7 +258,7 @@ input {
         font-size: 32px;
       }
     }
-    img {
+    img, svg {
       max-width: 300px;
       max-height: 140px;
     }
@@ -253,7 +271,7 @@ input {
         font-size: 26px;
       }
     }
-    img {
+    img, svg {
       max-height: 110px;
       max-width: 200px;
     }
@@ -265,7 +283,7 @@ input {
         font-family: 'Bree Serif', serif;
       }
     }
-    img {
+    img, svg {
       max-height: 90px;
       max-width: 160px;
     }
@@ -371,9 +389,11 @@ a.btn {
     font-size: 38px;
   }
   #uk-health-camp {
-    background: url(/images/ukhealthcamp_logo.png) no-repeat left center;
+    //background: url(/images/ukhealthcamp_logo.png) no-repeat left center;
+    background: svg-url($ukhealthcamplogo) no-repeat left center;
     padding: 10px 0 10px 90px;
     background-size: 70px;
+    vertical-align: top;
   }
 }
 
@@ -412,6 +432,16 @@ a.btn {
     background-color: #eac302;
     color: #000;
   }
+}
+
+.tito-tickets-button {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: inherit;
+  background-color: transparent;
+  color: inherit;
+  font: inherit;
 }
 
 @media screen and (min-width: 600px) {

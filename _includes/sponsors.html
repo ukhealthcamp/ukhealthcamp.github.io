@@ -5,7 +5,12 @@
     <li>
         {% if sponsor.link %}<a href="{{ sponsor.link }}" target="_blank">{% endif %}
             {% if sponsor.logo %}
-            <img alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="/images/sponsors-{{ include.year }}/{{ sponsor.logo }}">
+                {% assign logosplit = sponsor.logo | split: '.' %}
+                {% if logosplit[1] == 'svg' %}
+                    {% include_relative images/sponsors-{{ include.year }}/{{ sponsor.logo }} %}
+                {% else %}
+                    <img alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="/images/sponsors-{{ include.year }}/{{ sponsor.logo }}">
+                {% endif %}
             {% else %}
             {{ sponsor.name }}
             {% endif %}

@@ -47,25 +47,26 @@
   gold:
   - name: Well Digital
     link: https://www.well.co.uk/
-    logo: gold-well-logo-colour.png
-  - name: dxw
+    logo: gold-well-colour.svg
+  - name: dxw digital
     link: https://www.dxw.com/
     for:  For the evening social
-    logo: gold-dxw-color.svg
+    logo: gold-dxw-colour.svg
   - name: Make Do
     link: https://www.makedo.net/
-    logo: gold-makedo-colour.png
+    logo: gold-makedo-colour.svg
+
   silver:
   - name: Vix Digital
-    logo: silver-vix-logo-colour.png
+    logo: silver-vix-colour.svg
     link: https://vix.digital
   - name: UKGovCamp
     link: https://www.ukgovcamp.com/
-    logo: silver-ukgovcamp-color.png
+    logo: silver-ukgovcamp-colour.svg
   - name: Nomensa
     link: https://www.nomensa.com/
-    logo: ssilver-nomensa-color.jpg
+    logo: silver-nomensa-colour.jpg
   bronze:
   - name: Healthforge
     link: https://healthforge.io/
-    logo: bronze-healthforge-color.jpg
+    logo: bronze-healthforge-colour.svg

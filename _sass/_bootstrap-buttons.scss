@@ -155,16 +155,3 @@ a.btn {
     background-color: #eee;
   }
 }
-
-.tito-tickets-button {
-  @extend .btn;
-  @extend .btn-success;
-}
-
-.get-tickets .tito-tickets-button {
-  @extend .btn-success;
-}
-
-.cta .tito-tickets-button {
-  @extend .btn-primary;
-}
