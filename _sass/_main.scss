@@ -463,8 +463,11 @@ a.btn {
     padding: 45px;
   }
   .sponsors{
+    .gold li {
+      padding: 15px;
+    }
     li {
-        margin: 0 10px 10px 10px;
+      margin: 0 10px 10px 10px;
     }
   }
 }
