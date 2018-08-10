@@ -5,8 +5,6 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 {::options parse_block_html="true" /}
 <div class="jumbotron">
 
-[1]: /sponsorship
-[2]: https://ti.to/ukhealthcamp/2018
 
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
@@ -15,15 +13,11 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 The Federation, Manchester  
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
-{::comment} <-- remove this whole line to uncomment and the closing tag below
-[Get tickets][2]{:class="btn btn-success"}
-{:/comment}
+<p><tito-button class="get-tickets" event="ukhealthcamp/2018" ssl-check-disabled>
+    <a href="https://ti.to/ukhealthcamp/2018" class="btn btn-success">Get Tickets</a>
+</tito-button></p>
 
-_Tickets now available!  
-<br>
-<span class="center">[Get Tickets &raquo;][2]{:class="btn btn-primary"}</span>  
-<br>
-See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
+_See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release schedule._
 
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
@@ -40,7 +34,7 @@ See this **[blog post](/blog/2018/uk-health-camp-2018)** for full ticket release
 <div class="section cta">
 
 
-[Sponsor Us &raquo;][1]{:class="btn btn-white"}
+[Sponsor Us &raquo;](/sponsorship){:class="btn btn-white"}
 
 
 </div>
@@ -91,7 +85,7 @@ To give you a taste of the kinds of things that come up, examples of previous se
 
 - How do we improve patient education?
 - Clinicians trying to influence informatics
-- Code that make space for care
+- Code that makes space for care
 - Digitising maternity
 - Health + Social Care integration
 - Dynamic systems modelling
@@ -130,7 +124,7 @@ Sponsored drinks will be available nearby for anyone who'd like to continue the 
 
 Want to sponsor UK Health Camp 2018? Email <sponsors@ukhealthcamp.com>
 
-[Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
+[Sponsor Us &raquo;](/sponsorship){:class="btn btn-danger btn-sponsor"}
 
 
 </div>
@@ -138,7 +132,7 @@ Want to sponsor UK Health Camp 2018? Email <sponsors@ukhealthcamp.com>
 
 
 ## How can I get involved?
-UK Health Camp is run entirely by volunteers. The 2018 event is being organised by [@thatdavidmiller](http://twitter.com/thatdavidmiller), [@puntofisso](http://twitter.com/puntofisso), [@DeckOfPandas](http://twitter.com/deckofpandas), [@mattstibbs](http://twitter.com/mattstibbs), [@cholten99](http://twitter.com/cholten99), [@Rozalie_Horka](http://twitter.com/Rozalie_Horka), and [@blu3id](http://twitter.com/blu3id).
+UK Health Camp is run entirely by volunteers. The 2018 event is being organised by [@thatdavidmiller](https://twitter.com/thatdavidmiller), [@puntofisso](https://twitter.com/puntofisso), [@DeckOfPandas](https://twitter.com/deckofpandas), [@mattstibbs](https://twitter.com/mattstibbs), [@cholten99](https://twitter.com/cholten99), [@Rozalie_Horka](https://twitter.com/Rozalie_Horka), and [@blu3id](https://twitter.com/blu3id).
 
 There are several ways to help us put on UK Health Camp:
 - Volunteer as an organiser.
@@ -149,7 +143,45 @@ There are several ways to help us put on UK Health Camp:
 
 **If you can help us, please email <sponsors@ukhealthcamp.com>.**
 
-[Sponsor Us &raquo;][1]{:class="btn btn-danger btn-sponsor"}
+[Sponsor Us &raquo;](/sponsorship){:class="btn btn-danger btn-sponsor"}
 
 
 </div>
+
+
+{::comment}
+    The following is JSON Linked Data this provides Structured Data about the UK
+    Health Camp 2018 event so that Google (and other search engines, social media
+    sites etc.) can provide appropriate enhancements and links on the results pages.
+    For more information and documentation see:
+    https://developers.google.com/search/docs/guides/intro-structured-data,
+    https://schema.org/Event and https://json-ld.org/
+{:/comment}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "description": "UK Health Camp the free ‘unconference’ on digital, design and data for health and care. Come and enjoy a full day having conversations about #health, #digital, #nhs, and more. Register at ukhealthcamp.com",
+  "image": "https://ukhealthcamp.com/images/ukhealthcamp-square.png",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Manchester",
+      "addressRegion": "Greater Manchester",
+      "postalCode": "M4 4BF",
+      "streetAddress": "2 Federation Street"
+    },
+    "name": "The Federation"
+  },
+  "name": "UK Health Camp 2018",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "GBP",
+    "url": "https://ti.to/ukhealthcamp/2018"
+  },
+  "startDate": "2018-09-08T09:30",
+  "endDate": "2018-09-08T17:30"
+}
+</script>
