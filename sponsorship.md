@@ -77,10 +77,10 @@ All of the Bronze & Silver packages plus;
 
 Options for further branding opportunities such as:
 
-- Named sponsor of lunch during the event (approx £1000)
-- Named sponsor of provided refreshments e.g. Pop-up coffee (approx £1000)
-- Named sponsor of an event videographer / photographer 
+- ~~Named sponsor of lunch during the event (approx £1000)~~
 - ~~Named sponsor of after-event drinks and food (approx £1000)~~
+- Named sponsor of provided refreshments e.g. Pop-up coffee (approx £1000)
+- Named sponsor of an event photographer 
 - Co-branded swag such as tote bags, mugs, water bottles, etc.
 - Your other ideas welcome!
 
