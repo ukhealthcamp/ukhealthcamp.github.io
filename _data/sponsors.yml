@@ -55,6 +55,9 @@
   - name: Make Do
     link: https://www.makedo.net/
     logo: gold-makedo-colour.svg
+  - name: Valtech
+    link: https://www.valtech.co.uk/
+    for: For lunch
 
   silver:
   - name: Vix Digital
