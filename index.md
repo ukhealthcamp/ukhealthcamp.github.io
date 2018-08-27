@@ -14,7 +14,7 @@ The Federation, Manchester
 [#ukhc18](https://twitter.com/search?q=%23ukhc18)**
 
 <p><tito-button class="get-tickets" event="ukhealthcamp/2018" ssl-check-disabled>
-    <a href="https://ti.to/ukhealthcamp/2018" class="btn btn-success">Join Waiting List</a>
+    <a href="https://ti.to/ukhealthcamp/2018" class="btn btn-success">Get Tickets</a>
 </tito-button></p>
 
 _See the **[event page](/events/2018)** for more details about the day._
