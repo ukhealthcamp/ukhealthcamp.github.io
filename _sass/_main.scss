@@ -397,8 +397,14 @@ a.btn {
   }
 }
 
-.with-alert .jumbotron, .with-alert .header {
-  padding-top: 145px;
+.with-alert {
+  .jumbotron, .header {
+    padding-top: 145px;
+  }
+  :target {
+    margin-top: -115px !important;
+    padding-top: 145px
+  }
 }
 
 .footer {
@@ -445,8 +451,14 @@ a.btn {
 }
 
 @media screen and (min-width: 600px) {
-  .with-alert .jumbotron, .with-alert .header {
-    padding-top: 114px;
+  .with-alert {
+    .jumbotron, .header {
+      padding-top: 114px;
+    }
+    :target {
+      margin-top: -84px !important;
+      padding-top: 114px
+    }
   }
   .alert-bar {
     .message {
