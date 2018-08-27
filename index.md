@@ -105,15 +105,15 @@ To give you a taste of the kinds of things that come up, examples of previous se
 ## UK Health Camp 2018 Schedule
 
 **Saturday 8th September 2018**  
-09:00 - Doors open / registration
-10:15 - Pitching and planning
-11:30 - Session 1
-12:20 - Session 2
-13:00 - Lunch
-14:00 - Session 3
-14:55 - Session 4
-15:50 - Session 5
-16:30 - Wrap-up and close
+09:00 - Doors open / registration  
+10:15 - Pitching and planning   
+11:30 - Session 1  
+12:20 - Session 2  
+13:00 - Lunch  
+14:00 - Session 3  
+14:55 - Session 4  
+15:50 - Session 5  
+16:30 - Wrap-up and close  
 
 17:00 onwards - sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
 
