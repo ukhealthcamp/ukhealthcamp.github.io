@@ -18,7 +18,7 @@ We expect participants to follow these rules at conference and workshop venues a
 
 ---
 
-**If you need assistance at any point during the event, you can look for an organiser or camp maker -- we will be wearing white UK Health Camp t&#8209;shirts.**
+**If you need assistance at any point during the event, you can look for an organiser or camp maker -- we will be wearing red "Organiser" or "Camp maker" badges.**
 
 ---
 
