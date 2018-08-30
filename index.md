@@ -97,6 +97,7 @@ To give you a taste of the kinds of things that come up, examples of previous se
 - GP Paperless Practice opportunities & challenges
 - What do we know?
 
+You can see the full list of sessions from UK Health Camp 2017 here: [UK Health Camp 2017 Sessions](https://docs.google.com/spreadsheets/d/14FVFi-82xhQgJpUsZKnKbmLxlOJTTTyed2wKy6O32XI)
 
 </div>
 <div class="section orange">
@@ -113,9 +114,10 @@ To give you a taste of the kinds of things that come up, examples of previous se
 14:00 - Session 3  
 14:55 - Session 4  
 15:50 - Session 5  
-16:30 - Wrap-up and close  
+16:45 - Wrap-up and closing address  
+17:00 - Close
 
-17:00 onwards - sponsored drinks will be available nearby for anyone who'd like to continue the conversation!
+From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'd like to continue the conversation!
 
 
 </div>
