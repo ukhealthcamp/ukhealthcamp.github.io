@@ -402,7 +402,7 @@ a.btn {
     padding-top: 145px;
   }
   :target {
-    margin-top: -115px !important;
+    margin-top: -95px !important;
     padding-top: 145px
   }
 }
@@ -450,13 +450,18 @@ a.btn {
   font: inherit;
 }
 
+.space h2 {
+  text-decoration: underline;
+  text-decoration-color:  #e5332a;
+}
+
 @media screen and (min-width: 600px) {
   .with-alert {
     .jumbotron, .header {
       padding-top: 114px;
     }
     :target {
-      margin-top: -84px !important;
+      margin-top: -64px !important;
       padding-top: 114px
     }
   }
@@ -560,7 +565,7 @@ a.btn {
     margin-bottom: 0px;
   }
   .space h2 {
-    margin-top: 40px;
+    margin-top: 60px;
   }
 }
 
