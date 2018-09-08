@@ -112,7 +112,7 @@ You can see the full list of sessions from UK Health Camp 2017 here: [UK Health 
 12:20 - Session 2  
 13:00 - Lunch  
 14:00 - Session 3  
-14:55 - Session 4  
+15:00 - Session 4  
 15:50 - Session 5  
 16:45 - Wrap-up and closing address  
 17:00 - Close
