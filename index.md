@@ -9,15 +9,15 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-**Saturday 8th September  
-The Federation, Manchester  
-[#ukhc18](https://twitter.com/search?q=%23ukhc18)**
+**We'll be back soon with news about the next UK Health Camp!**  
 
+<!--
 <p><tito-button class="get-tickets" event="ukhealthcamp/2018" ssl-check-disabled>
     <a href="https://ti.to/ukhealthcamp/2018" class="btn btn-success">Get Tickets</a>
 </tito-button></p>
 
 _See the **[event page](/events/2018)** for more details about the day._
+-->
 
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
