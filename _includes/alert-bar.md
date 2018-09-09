@@ -1,3 +1,4 @@
+<!--
 <span class="left">[Sponsor Us &raquo;](/sponsorship){:class="btn btn-white"}</span>
 <span class="message">Tickets Available!</span>
 <span class="center">
@@ -6,3 +7,4 @@
     </tito-button>
 </span>
 <span class="right">[#ukhc18](https://twitter.com/search?q=%23ukhc18)</span>
+-->
