@@ -31,6 +31,7 @@ _See the **[event page](/events/2018)** for more details about the day._
 
 
 </div>
+<!--
 <div class="section cta">
 
 
@@ -38,6 +39,7 @@ _See the **[event page](/events/2018)** for more details about the day._
 
 
 </div>
+-->
 <div class="section">
 
 
@@ -127,9 +129,11 @@ From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'
 ## Our supporters for UK Health Camp 2018
 {% include sponsors.html year="2018" %}
 
+<!--
 Want to sponsor UK Health Camp 2018? Email <sponsors@ukhealthcamp.com>
 
 [Sponsor Us &raquo;](/sponsorship){:class="btn btn-danger btn-sponsor"}
+-->
 
 
 </div>
@@ -148,8 +152,9 @@ There are several ways to help us put on UK Health Camp:
 
 **If you can help us, please email <sponsors@ukhealthcamp.com>.**
 
+<!--
 [Sponsor Us &raquo;](/sponsorship){:class="btn btn-danger btn-sponsor"}
-
+-->
 
 </div>
 
