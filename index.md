@@ -9,7 +9,11 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-**We'll be back soon with news about the next UK Health Camp!**  
+**Saturday 14th September  
+Newport, Wales     
+[#ukhc19](https://twitter.com/search?q=%23ukhc19)**
+
+_More details soon. Join the mailing list to stay up-to-date_
 
 <!--
 <p><tito-button class="get-tickets" event="ukhealthcamp/2018" ssl-check-disabled>
@@ -141,14 +145,14 @@ Want to sponsor UK Health Camp 2018? Email <sponsors@ukhealthcamp.com>
 
 
 ## How can I get involved?
-UK Health Camp is run entirely by volunteers. The 2018 event is being organised by [@thatdavidmiller](https://twitter.com/thatdavidmiller), [@puntofisso](https://twitter.com/puntofisso), [@DeckOfPandas](https://twitter.com/deckofpandas), [@mattstibbs](https://twitter.com/mattstibbs), [@cholten99](https://twitter.com/cholten99), [@Rozalie_Horka](https://twitter.com/Rozalie_Horka), and [@blu3id](https://twitter.com/blu3id).
+UK Health Camp is run entirely by volunteers. The 2019 event is being organised by [@thatdavidmiller](https://twitter.com/thatdavidmiller), [@puntofisso](https://twitter.com/puntofisso), [@DeckOfPandas](https://twitter.com/deckofpandas), [@mattstibbs](https://twitter.com/mattstibbs), [@cholten99](https://twitter.com/cholten99), [@Rozalie_Horka](https://twitter.com/Rozalie_Horka), and [@blu3id](https://twitter.com/blu3id).
 
 There are several ways to help us put on UK Health Camp:
 - Volunteer as an organiser.
 - Donate money or resources.
 - Attend UK Health Camp and participate (sign up at the top of this page).
-- Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc18](https://twitter.com/search?q=%23ukhc18)
-- Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/2018/poster_mono.pdf), [two colours](branding/posters/2018/poster_twocolours.pdf))
+- Spread the word on social media - [@UKHealthCamp](https://twitter.com/UKHealthCamp) [#ukhc19](https://twitter.com/search?q=%23ukhc19)
+- Print off a poster to put in your office/surgery/ward/toilet ([one colour](branding/posters/2019/poster_mono.pdf), [two colours](branding/posters/2019/poster_twocolours.pdf))
 
 **If you can help us, please email <sponsors@ukhealthcamp.com>.**
 
