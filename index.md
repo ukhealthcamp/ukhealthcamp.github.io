@@ -109,9 +109,9 @@ You can see the full list of sessions from UK Health Camp 2017 here: [UK Health 
 <div class="section orange">
 
 
-## UK Health Camp 2018 Schedule
+## UK Health Camp 2019 Schedule
 
-**Saturday 8th September 2018**  
+**Saturday 14th September 2019**  
 09:00 - Doors open / registration  
 10:15 - Pitching and planning   
 11:30 - Session 1  
@@ -130,7 +130,7 @@ From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'
 <div class="section">
 
 
-## Our supporters for UK Health Camp 2018
+## Our supporters from UK Health Camp last year (2018)
 {% include sponsors.html year="2018" %}
 
 <!--
