@@ -8,7 +8,7 @@ highlighter: null
 sass:
   style: compressed
   
-show_alert: false
+show_alert: true
 
 plugins:
   - jekyll-redirect-from
