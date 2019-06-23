@@ -1,6 +1,6 @@
 
 <span class="left">[Sponsor Us &raquo;](/sponsorship){:class="btn btn-white"}</span>
-<span class="message">Next ticket release on Wed 26th June at 12am &nbsp;&nbsp;</span>
+<span class="message">Next ticket release on Wed 26th June at Midday</span>
 <span class="center">
     <tito-button class="get-tickets" event="ukhealthcamp/2019" ssl-check-disabled>
         <a href="https://ti.to/ukhealthcamp/2019" class="btn btn-primary">Get Tickets &raquo;</a>
