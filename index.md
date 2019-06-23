@@ -16,8 +16,8 @@ Newport, Wales
 _More details soon. Join the mailing list to stay up-to-date_
 
 <!--
-<p><tito-button class="get-tickets" event="ukhealthcamp/2018" ssl-check-disabled>
-    <a href="https://ti.to/ukhealthcamp/2018" class="btn btn-success">Get Tickets</a>
+<p><tito-button class="get-tickets" event="ukhealthcamp/2019" ssl-check-disabled>
+    <a href="https://ti.to/ukhealthcamp/2019" class="btn btn-success">Get Tickets</a>
 </tito-button></p>
 
 _See the **[event page](/events/2018)** for more details about the day._
@@ -134,7 +134,7 @@ From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'
 {% include sponsors.html year="2018" %}
 
 <!--
-Want to sponsor UK Health Camp 2018? Email <sponsors@ukhealthcamp.com>
+Want to sponsor UK Health Camp 2019? Email <sponsors@ukhealthcamp.com>
 
 [Sponsor Us &raquo;](/sponsorship){:class="btn btn-danger btn-sponsor"}
 -->
@@ -181,21 +181,23 @@ There are several ways to help us put on UK Health Camp:
     "@type": "Place",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Manchester",
-      "addressRegion": "Greater Manchester",
-      "postalCode": "M4 4BF",
-      "streetAddress": "2 Federation Street"
+      "addressLocality": "Newport",
+      "addressRegion": "Wales",
+      "postalCode": "NP10 8XG",
+      "streetAddress": "Government Buildings, Cardiff Rd, Duffryn"
     },
-    "name": "The Federation"
+    "name": "Office for National Statistics"
   },
-  "name": "UK Health Camp 2018",
+  "name": "UK Health Camp 2019",
   "offers": {
     "@type": "Offer",
     "price": "0.00",
     "priceCurrency": "GBP",
-    "url": "https://ti.to/ukhealthcamp/2018"
+    "url": "https://ti.to/ukhealthcamp/2019",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2019-03-20T16:20"
   },
-  "startDate": "2018-09-08T09:30",
-  "endDate": "2018-09-08T17:30"
+  "startDate": "2019-09-14T09:30",
+  "endDate": "2019-09-14T17:30"
 }
 </script>
