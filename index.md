@@ -161,7 +161,7 @@ There are several ways to help us put on UK Health Camp:
 
 {::comment}
     The following is JSON Linked Data this provides Structured Data about the UK
-    Health Camp 2018 event so that Google (and other search engines, social media
+    Health Camp 2019 event so that Google (and other search engines, social media
     sites etc.) can provide appropriate enhancements and links on the results pages.
     For more information and documentation see:
     https://developers.google.com/search/docs/guides/intro-structured-data,

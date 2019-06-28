@@ -3,7 +3,7 @@
 <ul class="sponsors {{ level[0] }}">
     {% for sponsor in level[1] %}
     <li>
-        {% if sponsor.link %}<a href="{{ sponsor.link }}" target="_blank">{% endif %}
+        {% if sponsor.link %}<a href="{{ sponsor.link }}" target="_blank" rel="noopener">{% endif %}
             {% if sponsor.logo %}
                 {% assign logosplit = sponsor.logo | split: '.' %}
                 {% if logosplit[1] == 'svg' %}
