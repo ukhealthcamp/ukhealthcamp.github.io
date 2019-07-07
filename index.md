@@ -21,8 +21,7 @@ _See this **[blog post](/blog/2019/uk-health-camp-2019)** for full ticket releas
 
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
-<label class="sr-only" for="mce-EMAIL">Email address</label>
-<input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Your email address">
+<input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Your email address" aria-label="Email address">
 <button type="submit" class="btn btn-info" name="subscribe" id="mc-embedded-subscribe">Join mailing list</button>
 </form>
 

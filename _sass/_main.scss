@@ -74,17 +74,6 @@ input {
   padding: 20px;
 }
 
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  border: 0;
-}
-
 .alert-bar {
   background-color: #56B334;
   color: #fff;
@@ -198,7 +187,7 @@ input {
     margin: 0 0 10px 0;
   }
   a {
-    color: #34838B; 
+    color: #327E86; 
   }
 }
 
@@ -214,7 +203,7 @@ input {
 }
 
 .blue {
-  background-color: #34838B;
+  background-color: #327E86;
   color: #fff;
   a {
     color: #fff; 
@@ -319,7 +308,7 @@ input {
       display: block;
       float: right;
       background: #dac240;
-      color: #797979;
+      color: #4D4D4D;
       font-style: normal;
       padding: 2px 8px;
       font-size: 0.9em;
@@ -344,7 +333,7 @@ input {
       display: block;
       float: right;
       background: #dac240;
-      color: #797979;
+      color: #4D4D4D;
       font-style: normal;
       padding: 2px 8px;
       font-size: 0.9em;
@@ -432,7 +421,7 @@ a.btn {
   }
   
   .silver {
-    background-color: #797979;
+    background-color: #737373;
     color: #fff; 
   }
   
