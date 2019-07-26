@@ -32,11 +32,13 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.content | truncatewords:30 | strip_html }}">
+    <meta name="description" content="{{ page.content | truncatewords:30 | strip_html }}">
 {% else %}
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}/">
     <meta property="og:title" content="UK Health Camp the free ‘unconference’ on digital, design and data for health and care">
     <meta property="og:description" content="Come and enjoy a full day having conversations about #health, #digital, #nhs, and more. Register at ukhealthcamp.com">
+    <meta name="description" content="Come and enjoy a full day having conversations about #health, #digital, #nhs, and more. Register at ukhealthcamp.com">
 {% endif %}
     <meta property="og:image" content="{{ site.url }}/images/ukhealthcamp-square.png">
     <meta property="og:image:type" content="image/png">
