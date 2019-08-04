@@ -9,7 +9,7 @@ title: "UK Health Camp - Sponsorship Packages"
 
 UK Health Camp is the free unconference for people interested in digital, design, technology and data for health and care.
 
-Sponsorship money is used to fund the expenses of UK Health Camp on the day - venue hire and refreshments. If we raise enough money, we may also provide a travel bursary fund to ensure everyone can attend.
+Sponsorship money is used to fund the expenses of UK Health Camp on the day - venue hire and refreshments. If we raise enough money we may also be able to fund bursaries for travel and/or childcare to ensure everyone can attend
 
 We are keen that sponsors reflect the diversity of digital in the health and care ecosystem and that there is no single dominant presence. 
 
