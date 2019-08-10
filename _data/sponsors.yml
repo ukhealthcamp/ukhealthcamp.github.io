@@ -74,3 +74,42 @@
   - name: Healthforge
     link: https://healthforge.io/
     logo: bronze-healthforge-colour.svg
+
+"2019":
+  gold:
+  - name: dxw digital
+    link: https://www.dxw.com/
+    logo: gold-dxw.svg
+  - name: FutureGov
+    link: https://www.wearefuturegov.com/
+    logo: gold-futuregov.svg
+  - name: NHS Wales Informatics Service
+    link: https://nwis.nhs.wales/
+    logo: gold-nwis.svg
+  - name: Office for National Statistics
+    link: https://www.ons.gov.uk/
+    logo: gold-ons.svg
+    for: For the venue
+  silver:
+  - name: Mace & Menter
+    link: https://macementer.com/
+    logo: silver-macementer.png
+  - name: Netcall
+    link: https://www.netcall.com/
+    logo: silver-netcall.jpg
+  - name: UKGovCamp
+    link: https://www.ukgovcamp.com/
+    logo: silver-ukgovcamp.svg
+  bronze:
+  - name: Newport City Council
+    link: http://www.newport.gov.uk/
+    logo: bronze-newport-city-council.png
+  - name: Notbinary
+    link: https://notbinary.co.uk/
+    logo: bronze-notbinary.png
+  - name: Swirrl
+    link: http://www.swirrl.com/
+    logo: bronze-swirrl.svg
+  - name: Vix Digital
+    logo: bronze-vix.svg
+    link: https://vix.digital

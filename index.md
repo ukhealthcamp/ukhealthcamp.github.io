@@ -125,8 +125,8 @@ From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'
 <div class="section">
 
 
-## Our supporters from UK Health Camp last year (2018)
-{% include sponsors.html year="2018" %}
+## Our supporters for UK Health Camp 2019
+{% include sponsors.html year="2019" %}
 
 <!--
 Want to sponsor UK Health Camp 2019? Email <sponsors@ukhealthcamp.com>
