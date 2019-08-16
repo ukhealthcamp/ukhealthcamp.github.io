@@ -17,9 +17,7 @@ Office for National Statistics, Newport, Wales
     <a href="https://ti.to/ukhealthcamp/2019" class="btn btn-success">Join Waiting List</a>
 </tito-button></p>
 
-{::comment}
 _See the **[event page](/events/2019)** for more details about the day._
-{:/comment}
 
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
