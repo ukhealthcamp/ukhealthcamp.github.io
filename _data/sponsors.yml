@@ -80,6 +80,7 @@
   - name: dxw digital
     link: https://www.dxw.com/
     logo: gold-dxw.svg
+    for: For the evening social
   - name: FutureGov
     link: https://www.wearefuturegov.com/
     logo: gold-futuregov.svg
@@ -91,6 +92,9 @@
     logo: gold-ons.svg
     for: For the venue
   silver:
+  - name: Convivio
+    link: https://weareconvivio.com/
+    logo: silver-convivio.svg
   - name: Mace & Menter
     link: https://macementer.com/
     logo: silver-macementer.png
