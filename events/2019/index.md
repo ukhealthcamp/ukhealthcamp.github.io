@@ -14,7 +14,6 @@ _If you have any questions not answered here or want to clarify anything please 
 - [Photo ID Requirement](#photo-id-requirement)
 - [On the day](#on-the-day)
 - [In the evening](#in-the-evening)
-- [Water](#water)
 - [Lunch](#lunch)
 - [Camp makers](#camp-makers)
 - [Pitching and planning](#pitching-and-planning)
@@ -80,14 +79,11 @@ Come along to continue the conversation into the evening, or just to relax with 
 
 _[dxw digital](https://www.dxw.com/) have kindly sponsored drinks and nibbles._
 
-## Water
-There is a water dispenser in the cafe area that you may use to fill up your water bottles.
-
 ## Lunch
 
 Lunch is free to all ticket-holders, and is being provided by Baxterstorey.
 
-**You can view our lunch menu on the [lunch menu page](/events/2019-menu).**
+**You can view our lunch menu on the [lunch menu page](/events/2019/menu).**
 
 
 ## Camp makers

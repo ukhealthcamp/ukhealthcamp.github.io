@@ -2,6 +2,8 @@
 layout: generic
 section-class: blue space
 title: "UK Health Camp - Manchester, 8th September 2018 - Catering Information"
+redirect_from: # Legacy "URLs are for life not just for Christmas"
+  - /events/2018-menu
 ---
 
 **All food and refreshments are free to ticket-holders.**  

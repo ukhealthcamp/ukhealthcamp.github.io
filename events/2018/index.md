@@ -108,7 +108,7 @@ _[Vix Digital](https://vix.digital) have kindly sponsored the coffee bar._
 
 Lunch is free to all ticket-holders, and is being provided by [Beastro](https://www.beastromcr.co.uk). 
 
-**You can view our lunch menu on the [catering page](/events/2018-menu).**
+**You can view our lunch menu on the [catering page](/events/2018/menu).**
 
 _Lunch is being kindly sponsored by [Valtech](https://www.valtech.co.uk/)_
 

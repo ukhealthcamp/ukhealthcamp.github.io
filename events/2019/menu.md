@@ -2,6 +2,8 @@
 layout: generic
 section-class: blue space
 title: "UK Health Camp - Newport, 14th September 2019 - Lunch Menu"
+redirect_from: # Legacy "URLs are for life not just for Christmas"
+  - /events/2019-menu
 ---
 
 **All food and refreshments are free to ticket-holders.**  
