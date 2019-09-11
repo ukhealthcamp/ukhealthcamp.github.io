@@ -8,7 +8,7 @@ highlighter: null
 sass:
   style: compressed
   
-show_alert: true
+show_alert: false
 
 plugins:
   - jekyll-redirect-from
@@ -21,6 +21,11 @@ defaults:
     values:
       layout: "post"
       permalink: /blog/:categories/:title
+  -
+    scope:
+      path: "events/*/emails/*"
+    values:
+      layout: "email"
 
 compress_html:
   clippings: all
