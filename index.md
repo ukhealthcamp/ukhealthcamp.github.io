@@ -13,11 +13,9 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 Office for National Statistics, Newport, Wales     
 [#ukhc19](https://twitter.com/search?q=%23ukhc19)**
 
-<!--
 <p><tito-button class="get-tickets" event="ukhealthcamp/2019" ssl-check-disabled>
     <a href="https://ti.to/ukhealthcamp/2019" class="btn btn-success">Get Tickets</a>
 </tito-button></p>
--->
 
 _See the **[event page](/events/2019)** for more details about the day._
 
