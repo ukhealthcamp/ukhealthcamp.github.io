@@ -11,7 +11,7 @@ This is the event page for **UK Health Camp 2019** where we have tried to bring 
 _If you have any questions not answered here or want to clarify anything please email <us@ukhealthcamp.com>._
 
 - [Getting there](#getting-there)
-- [Shuttle service](#shuttle-service)
+- [Shuttle bus service](#shuttle-bus-service)
 - [Car parking](#car-parking)
 - [Photo ID Requirement](#photo-id-requirement)
 - [On the day / Agenda](#on-the-day)
@@ -33,11 +33,15 @@ _**[Office for National Statistics](https://www.ons.gov.uk/), [Government Buildi
 
 Please note: **ACCESS TO THE EVENT REQUIRES AN OFFICIAL PHOTO ID** (see [Photo ID Requirement](#photo-id-requirement))
 
+_We're grateful to the Office of National Statistics for supporting us with this event._
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4960.19926678127!2d-3.02756!3d51.566407!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe6fa7f7cb3829a6d!2sOffice+for+National+Statistics!5e0!3m2!1sen!2suk!4v1565439412329!5m2!1sen!2suk" height="300" frameborder="0" style="border:0;display: block;margin: 0 auto;max-width: 700px;width: 100%;" allowfullscreen></iframe>
+
 ## Shuttle bus service
 
 If traveling by **train** we have arranged a free bus shuttle service between _Newport_ station and ONS campus. 
 
-A shuttle minibus will be running from 09:00 until 10:30 in the morning, and then from 17:00 in the evening. 
+A minibus shuttle will be running from **09:00 until 10:30 in the morning**, and then **from 17:00 in the evening**. There will be a Marshall at the station directing you to the bus displaying: _"UK Health Camp Shuttle Service"_. Keep an eye on our [Twitter](https://twitter.com/ukhealthcamp) account and this page for any last minute updates. 
 
 If you are considering using this service please [book a place on the shuttles](https://docs.google.com/forms/d/e/1FAIpQLSeicnBzEtcgLWYWMAN-dDOIZTtVTEjcpR7NMNoGmeDhxRtKVQ/viewform?usp=pp_url&entry.240437001=I+would+like+to+reserve+a+place+on+the+shuttles+to+and+from+Newport+train+station).
 
@@ -46,10 +50,6 @@ _We're grateful to Newport City Council for supporting us with this transport._
 ## Car parking
 
 **Car parking** is available for free on the ONS site. However you **will be refused access** unless you have [registered for parking](https://docs.google.com/forms/d/e/1FAIpQLSeicnBzEtcgLWYWMAN-dDOIZTtVTEjcpR7NMNoGmeDhxRtKVQ/viewform?usp=pp_url&entry.240437001=I+would+like+to+register+for+parking+at+the+ONS+site) providing your _name_ and _car registration_ in advance.
-
-_We're grateful to the Office of National Statistics for supporting us with this event._
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4960.19926678127!2d-3.02756!3d51.566407!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe6fa7f7cb3829a6d!2sOffice+for+National+Statistics!5e0!3m2!1sen!2suk!4v1565439412329!5m2!1sen!2suk" height="300" frameborder="0" style="border:0;display: block;margin: 0 auto;max-width: 700px;width: 100%;" allowfullscreen></iframe>
 
 ## Photo ID Requirement
 
