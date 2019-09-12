@@ -11,8 +11,10 @@ This is the event page for **UK Health Camp 2019** where we have tried to bring 
 _If you have any questions not answered here or want to clarify anything please email <us@ukhealthcamp.com>._
 
 - [Getting there](#getting-there)
+- [Shuttle service](#shuttle-service)
+- [Car parking](#car-parking)
 - [Photo ID Requirement](#photo-id-requirement)
-- [On the day](#on-the-day)
+- [On the day / Agenda](#on-the-day)
 - [In the evening](#in-the-evening)
 - [Lunch](#lunch)
 - [Camp makers](#camp-makers)
@@ -31,7 +33,17 @@ _**[Office for National Statistics](https://www.ons.gov.uk/), [Government Buildi
 
 Please note: **ACCESS TO THE EVENT REQUIRES AN OFFICIAL PHOTO ID** (see [Photo ID Requirement](#photo-id-requirement))
 
-If traveling by **train** we have arranged a free bus shuttle service from _Newport_ station to the ONS operating from 0830 &ndash; 1030 with a return service aiming to arrive back at the station by ~1730. If you are considering using this service please [reserve a place on the shuttles](https://docs.google.com/forms/d/e/1FAIpQLSeicnBzEtcgLWYWMAN-dDOIZTtVTEjcpR7NMNoGmeDhxRtKVQ/viewform?usp=pp_url&entry.240437001=I+would+like+to+reserve+a+place+on+the+shuttles+to+and+from+Newport+train+station).
+## Shuttle bus service
+
+If traveling by **train** we have arranged a free bus shuttle service between _Newport_ station and ONS campus. 
+
+A shuttle minibus will be running from 09:00 until 10:30 in the morning, and then from 17:00 in the evening. 
+
+If you are considering using this service please [book a place on the shuttles](https://docs.google.com/forms/d/e/1FAIpQLSeicnBzEtcgLWYWMAN-dDOIZTtVTEjcpR7NMNoGmeDhxRtKVQ/viewform?usp=pp_url&entry.240437001=I+would+like+to+reserve+a+place+on+the+shuttles+to+and+from+Newport+train+station).
+
+_We're grateful to Newport City Council for supporting us with this transport._
+
+## Car parking
 
 **Car parking** is available for free on the ONS site. However you **will be refused access** unless you have [registered for parking](https://docs.google.com/forms/d/e/1FAIpQLSeicnBzEtcgLWYWMAN-dDOIZTtVTEjcpR7NMNoGmeDhxRtKVQ/viewform?usp=pp_url&entry.240437001=I+would+like+to+register+for+parking+at+the+ONS+site) providing your _name_ and _car registration_ in advance.
 
