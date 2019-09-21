@@ -9,17 +9,14 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-**Saturday 14th September  
-Office for National Statistics, Newport, Wales     
-[#ukhc19](https://twitter.com/search?q=%23ukhc19)**
+**We'll be back soon with news about the next UK Health Camp!**  
+_Join our mailing list to hear about future events first_
 
 <!--
 <p><tito-button class="get-tickets" event="ukhealthcamp/2019" ssl-check-disabled>
     <a href="https://ti.to/ukhealthcamp/2019" class="btn btn-success">Get Tickets</a>
 </tito-button></p>
 -->
-
-_See the **[event page](/events/2019/)** for more details about the day._
 
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
