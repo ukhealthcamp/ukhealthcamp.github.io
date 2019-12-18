@@ -30,7 +30,7 @@ This is your chance to network with 100+ highly committed health and care digita
 <div class="bronze">
 
 
-## Bronze: £250 or more
+## Bronze: £250+
 
 1 attendee ticket
 
@@ -40,8 +40,7 @@ Your logo will feature on:
 - the UK Health Camp website for twelve months
 
 You can:
-- bring a pull-up stand
-- a short paragraph will be included in some event emails prior to the event
+- have a short paragraph included in some event emails prior to the event
 
 We will:
 - send at least one tweet from the organisers mentioning your sponsorship in the month before the event
@@ -52,13 +51,13 @@ We will:
 <div class="silver">
 
 
-## Silver: £500 or more
+## Silver: £500+
 
 2 attendee tickets
 
 All of the Bronze package plus;
+- bring a pull-up stand
 - have a tweet-length announcement to be included in the morning intros
-- have a table to distribute swag or talk to people
 
 We will:
 - send at least two tweets from the organisers mentioning your sponsorship in the month before the event
@@ -69,20 +68,22 @@ We will:
 <div class="gold">
 
 
-## Gold: Over £1000
+## Gold: £1000+
 
 4 attendee tickets
 
 All of the Bronze & Silver packages plus;
 
-Some options for further branding opportunities such as:
+- have a table to distribute swag or talk to people
 
-- Named sponsor of lunch during the event (approx £1000)
-- Named sponsor of after-event drinks and food (approx £1000)
-- Named sponsor of provided refreshments e.g. Pop-up coffee (approx £1000)
-- Named sponsor of an event photographer 
-- Co-branded swag such as tote bags, mugs, water bottles, etc.
-- Other ideas welcome!
+Some options for further named branding opportunities such as:
+
+- Named sponsor of lunch during the event
+- Named sponsor of refreshments during the event e.g. Pop-up coffee
+- Named sponsor of after-event drinks and nibbles 
+- Named sponsor of an event photographer
+- Named supportor of childcare support, travel support, improved inclusivity
+- Other suggestions welcome!
 
 
 </div>
