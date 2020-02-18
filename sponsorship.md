@@ -68,7 +68,7 @@ We will:
 <div class="gold">
 
 
-## Gold: £1200+
+## Gold: £1000+
 
 4 reserved attendee tickets
 
