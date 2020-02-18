@@ -32,10 +32,10 @@ This is your chance to network with 100+ highly committed health and care digita
 
 ## Bronze: £300+
 
-1 attendee ticket
+1 reserved attendee ticket
 
 Your logo will feature on:
-- the event swag (t-shirt, tote bag, or similar)
+- the event swag (if provided - varies annually)
 - the looped projector slides running throughout the whole day
 - the UK Health Camp website for twelve months
 
@@ -53,7 +53,7 @@ We will:
 
 ## Silver: £600+
 
-2 attendee tickets
+2 reserved attendee tickets
 
 All of the Bronze package plus;
 - bring a pull-up stand
@@ -70,11 +70,11 @@ We will:
 
 ## Gold: £1000+
 
-4 attendee tickets
+4 reserved attendee tickets
 
 All of the Bronze & Silver packages plus;
 
-- have a table to distribute swag or talk to people
+- have a table to distribute your swag or talk to people
 
 Some options for further named branding opportunities such as:
 
