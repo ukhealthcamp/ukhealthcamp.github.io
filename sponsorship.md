@@ -30,7 +30,7 @@ This is your chance to network with 100+ highly committed health and care digita
 <div class="bronze">
 
 
-## Bronze: £250+
+## Bronze: £300+
 
 1 attendee ticket
 
@@ -51,7 +51,7 @@ We will:
 <div class="silver">
 
 
-## Silver: £500+
+## Silver: £600+
 
 2 attendee tickets
 
