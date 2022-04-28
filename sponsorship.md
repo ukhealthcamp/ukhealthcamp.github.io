@@ -30,7 +30,7 @@ This is your chance to network with 100+ highly committed health and care digita
 <div class="bronze">
 
 
-## Bronze: £300+
+## Bronze: £500+
 
 1 reserved attendee ticket
 
@@ -51,7 +51,7 @@ We will:
 <div class="silver">
 
 
-## Silver: £600+
+## Silver: £1000+
 
 2 reserved attendee tickets
 
@@ -68,7 +68,7 @@ We will:
 <div class="gold">
 
 
-## Gold: £1000+
+## Gold: Contact Us
 
 4 reserved attendee tickets
 
@@ -82,7 +82,7 @@ Some options for further named branding opportunities such as:
 - Named sponsor of refreshments during the event e.g. Pop-up coffee
 - Named sponsor of after-event drinks and nibbles 
 - Named sponsor of an event photographer
-- Named supportor of childcare support, travel support, improved inclusivity
+- Named supporter of childcare support, travel support, improved inclusivity
 - Other suggestions welcome!
 
 
