@@ -8,9 +8,9 @@ title: "UK Health Camp - Venue Specification"
 
 This page outlines the main requirements we look for in a venue for **UK Health Camp**. Some requirements are flexible. There are also one or two “nice-to-have” items e.g _Flipchart stand / whiteboard in breakout rooms_
 
-**_If you think you have help secure a venue that meets most of these requirements please email <us@ukhealthcamp.com>._**
+**_If you think you can help secure a venue that meets most of these requirements please email <us@ukhealthcamp.com>._**
 
-- [Dates](#dates)
+- [Date](#date)
 - [Capacity](#capacity)
 - [General Requirements](#general-requirements)
 - [Accessibility](#accessibility)
@@ -18,22 +18,22 @@ This page outlines the main requirements we look for in a venue for **UK Health 
 - [Access](#access)
 - [Equipment](#equipment)
 - [Location](#location)
-- [Misc.](#misc.)
+- [Misc.](#misc)
 
-## Dates
+## Date
 - Saturday 16th, 23rd or 30th of July 2022
 
 ## Capacity
-- Legal & Practical capacity for 150 – 200
+- Legal & Practical capacity for 100 – 150
 
 ## General Requirements
 - Main space able to seat all attendees
-- 5 - 10 (main space included) breakout rooms with range of capacities ~30
+- 5 (main space included) breakout rooms with range of capacities ~30
 - Sensible area for check-in (space for queuing etc.)
 - Cloakroom (or space able to be used as such)
 
 ## Accessibility
-- Step-fee/accessible access to all areas of venue where attendees will be
+- Step-free/accessible access to all attendees areas of the venue
 - Doors all wide enough for a standard wheelchair
 - Accessible toilets
 - Quiet Space
