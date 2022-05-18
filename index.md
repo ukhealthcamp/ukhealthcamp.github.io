@@ -49,7 +49,7 @@ There are lots of brilliant things happening to make health and care services be
 
 **Our aim is to provide a space to connect, share ideas and make things happen.**
 
-This isn't the first Health Camp - [similar events](https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK in 2015, 2017, 2018 and 2019.
+This isn't the first Health Camp - [similar events](https://web.archive.org/web/20170303033713/https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK in 2015, 2017, 2018 and 2019.
 
 **We are open to all**, whether you work for health and care services or not.
 
