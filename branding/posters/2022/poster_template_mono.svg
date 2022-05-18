@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 793.70079 1122.5197"
+   preserveAspectRatio="none"
+   version="1.1"
+   sodipodi:docname="poster_template_mono.svg"
+   width="210mm"
+   height="297mm"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2736"
+     inkscape:window-height="1714"
+     id="namedview28"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.3787284"
+     inkscape:cx="10.561658"
+     inkscape:cy="652.18241"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs3">
+    <style
+       id="bx-google-fonts"
+       type="text/css">@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic);</style>
+  </defs>
+  <text
+     x="81.196617"
+     y="485.66949"
+     style="font-weight:bold;font-size:77.0603px;font-family:'Open Sans';white-space:pre;fill:#e5332a;stroke-width:0.321085"
+     id="text5">UK Health Camp</text>
+  <path
+     d="m 370.31545,171.79928 c 18.65598,-7.85568 19.39319,-37.31193 11.04691,-52.53236 -11.04691,-20.618413 -39.03072,-17.18284 -57.93266,-11.78219 5.15662,-14.974398 14.7288,-35.593475 32.15791,-38.539165 17.18414,-2.946262 34.12103,7.610693 48.8495,14.728169 13.25437,6.136563 36.82103,13.993193 46.39417,-2.945596 2.94594,-7.11976 -5.64596,-13.010095 -13.50098,-17.919137 -7.61066,-4.910372 -15.7097,-9.574709 -24.05695,-12.519353 183.12421,-38.785105 188.03455,345.380722 -5.64595,290.641922 -13.99061,-3.92756 -27.49222,-9.57414 -40.50322,-16.20163 18.16569,1.47317 37.5576,-0.48999 52.04173,-12.27408 12.51844,-10.06375 18.9,-30.92981 -1.47443,-35.83885 -18.41035,-4.41878 -38.29223,6.87382 -56.45823,8.34634 -22.8288,1.96305 -42.22231,2.45466 -55.23202,-15.46543 10.06504,-1.22752 17.92005,-3.92746 21.84789,-6.87344 6.87313,-4.90942 13.49935,-11.78247 13.99093,-20.62069 1.22719,-16.93718 -11.78219,-32.64692 -26.26503,-39.76668 -6.62783,-3.18964 -14.72849,-4.41878 -21.84661,-2.45239 -9.32783,2.69832 -12.02783,10.799 -18.65694,16.93718 -6.3822,6.1359 -12.2741,10.55372 -21.11068,12.27189 -10.30938,1.71902 -20.1275,-3.18973 -28.22976,-9.32782 -4.41909,-3.43567 -8.10064,-7.36351 -11.78252,-11.29069 16.44724,2.4541 38.53915,6.62749 48.11294,-12.02842 7.85501,-14.97382 -1.47282,-31.91167 6.87344,-46.88578 10.55534,-19.39155 37.31197,-4.17283 50.56763,3.43787 15.21973,8.83659 30.19223,27.49251 50.81293,18.90033 z m 85.67084,-28.22977 c -3.92784,0 -7.11909,3.19125 -7.11909,7.1191 v 27.98382 h -27.98253 c -3.92783,0 -7.11973,3.19192 -7.11973,7.11777 v 21.112 c 0,3.92718 3.1919,7.11909 7.11973,7.11909 h 27.98253 v 27.9825 c 0,3.92945 3.19125,7.11909 7.11909,7.11909 h 21.11099 c 3.92686,0 7.11909,-3.18964 7.11909,-7.11909 v -28.47381 h 27.98348 c 3.92751,0 7.1191,-3.19221 7.1191,-7.11777 v -21.112 c 0,-3.92717 -3.19159,-7.11909 -7.1191,-7.11909 h -28.22943 v -27.73846 c 0,-3.92755 -3.19062,-7.1191 -7.11749,-7.1191 h -20.86664 z"
+     style="fill:#e5332a;fill-rule:evenodd;stroke-width:0.32108465"
+     id="path7"
+     inkscape:connector-curvature="0" />
+  <g
+     transform="matrix(0.32108464,0,0,0.32108464,-1.9229949,26.746384)"
+     id="g15">
+    <text
+       x="524.80603"
+       y="1012.579"
+       transform="matrix(1,0,0,0.999999,-111.98438,740.00092)"
+       style="font-size:96.0001px;font-family:'Open Sans';white-space:pre;fill:#e5332a"
+       id="text9">The free 'unconference' for everyone</text>
+    <text
+       x="129.05901"
+       y="489.17899"
+       transform="matrix(2.908272,0,0,2.908275,-9.944188,464.91574)"
+       style="font-size:33.0093px;font-family:'Open Sans';white-space:pre;fill:#e5332a"
+       id="text11">interested in digital, design, technology</text>
+    <text
+       x="129.05901"
+       y="489.17899"
+       transform="matrix(2.908272,0,0,2.908275,213.78834,599.91577)"
+       style="font-size:33.0093px;font-family:'Open Sans';white-space:pre;fill:#e5332a"
+       id="text13">and data for health and care.</text>
+  </g>
+  <text
+     x="210.33049"
+     y="812.66992"
+     style="font-weight:bold;font-size:41.0988px;font-family:'Open Sans';white-space:pre;fill:#e5332a;stroke-width:0.933801"
+     id="text17">July 2022 | London</text>
+  <text
+     x="127.59106"
+     y="876.88507"
+     style="font-size:41.0988px;font-family:'Open Sans';white-space:pre;fill:#e5332a;stroke-width:0.933802"
+     id="text19">#ukhc22 | @UKHealthCamp</text>
+  <text
+     id="text21"
+     style="font-size:30.8241px;font-family:'Open Sans';white-space:pre;fill:#e5332a;stroke-width:0.933801"
+     y="1033.6053"
+     x="173.07442">Sign up at <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.933801"
+   id="tspan26">ukhealthcamp.com</tspan></text>
+</svg>
