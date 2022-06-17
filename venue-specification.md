@@ -21,7 +21,7 @@ This page outlines the main requirements we look for in a venue for **UK Health 
 - [Misc.](#misc)
 
 ## Date
-- Saturday 16th, 23rd or 30th of July 2022
+- Saturday 17th September
 
 ## Capacity
 - Legal & Practical capacity for 100 – 150
