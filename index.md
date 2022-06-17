@@ -9,7 +9,7 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-**July 2022  
+**September 2022  
 London     
 [#ukhc22](https://twitter.com/search?q=%23ukhc22)**
 
