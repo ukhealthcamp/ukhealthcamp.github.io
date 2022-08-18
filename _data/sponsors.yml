@@ -117,3 +117,9 @@
   - name: Vix Digital
     logo: bronze-vix.svg
     link: https://vix.digital
+
+"2022":
+  gold:
+  - name: Accurx
+    link: https://www.ons.gov.uk/
+    logo: gold-accurx.svg

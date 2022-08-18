@@ -10,7 +10,7 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
 **Saturday 15th October 2022  
-Hosted by Accurx (Shoreditch, London)
+Hosted by Accurx (Shoreditch, London)  
 [#ukhc22](https://twitter.com/search?q=%23ukhc22)**
 
 _More details soon. Join the mailing list to stay up-to-date_
@@ -106,9 +106,9 @@ You can see the full list of sessions from UK Health Camp 2017 here: [UK Health 
 <div class="section orange">
 
 
-## UK Health Camp 2019 Schedule
+## UK Health Camp 2022 Schedule
 
-**Saturday 14th September 2019**  
+**Saturday 15th October 2022**  
 09:00 - Doors open / registration  
 10:15 - Pitching and planning   
 11:30 - Session 1  
@@ -127,14 +127,12 @@ From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'
 <div class="section">
 
 
-## Our supporters for UK Health Camp 2019
-{% include sponsors.html year="2019" %}
+## Our supporters for UK Health Camp 2022
+{% include sponsors.html year="2022" %}
 
-<!--
-Want to sponsor UK Health Camp 2019? Email <sponsors@ukhealthcamp.com>
+Want to sponsor UK Health Camp 2022? Email <sponsors@ukhealthcamp.com>
 
 [Sponsor Us &raquo;](/sponsorship){:class="btn btn-danger btn-sponsor"}
--->
 
 
 </div>
@@ -162,7 +160,7 @@ There are several ways to help us put on UK Health Camp:
 
 {::comment}
     The following is JSON Linked Data this provides Structured Data about the UK
-    Health Camp 2019 event so that Google (and other search engines, social media
+    Health Camp 2022 event so that Google (and other search engines, social media
     sites etc.) can provide appropriate enhancements and links on the results pages.
     For more information and documentation see:
     https://developers.google.com/search/docs/guides/intro-structured-data,
@@ -178,23 +176,30 @@ There are several ways to help us put on UK Health Camp:
     "@type": "Place",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Newport",
-      "addressRegion": "Wales",
-      "postalCode": "NP10 8XG",
-      "streetAddress": "Government Buildings, Cardiff Rd, Duffryn"
+      "addressLocality": "London",
+      "addressRegion": "England",
+      "postalCode": "EC2A 3LT",
+      "streetAddress": "7 Curtain Road, Shoreditch"
     },
-    "name": "Office for National Statistics"
+    "name": "Accurx"
   },
-  "name": "UK Health Camp 2019",
+  "name": "UK Health Camp 2022",
   "offers": {
     "@type": "Offer",
     "price": "0.00",
     "priceCurrency": "GBP",
-    "url": "https://ti.to/ukhealthcamp/2019",
+    "url": "https://ti.to/ukhealthcamp/2022",
     "availability": "https://schema.org/InStock",
-    "validFrom": "2019-03-20T16:20"
+    "validFrom": "2022-08-18T16:20"
   },
-  "startDate": "2019-09-14T09:30",
-  "endDate": "2019-09-14T17:30"
+  "startDate": "2022-10-15T09:30",
+  "endDate": "2022-10-15T17:30",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "organizer": {
+        "@type": "Organization",
+        "name": "UK Health Camp",
+        "url": "https://ukhealthcamp.com"
+      }
 }
 </script>

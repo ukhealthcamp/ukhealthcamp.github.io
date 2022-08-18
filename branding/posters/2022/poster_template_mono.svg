@@ -9,7 +9,7 @@
    sodipodi:docname="poster_template_mono.svg"
    width="210mm"
    height="297mm"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -42,15 +42,17 @@
      id="namedview28"
      showgrid="false"
      units="mm"
-     inkscape:zoom="0.3787284"
-     inkscape:cx="10.561658"
-     inkscape:cy="652.18241"
+     inkscape:zoom="0.53560284"
+     inkscape:cx="128.8268"
+     inkscape:cy="633.8652"
      inkscape:window-x="-12"
      inkscape:window-y="-12"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm" />
+     inkscape:document-units="mm"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs3">
     <style
@@ -90,13 +92,21 @@
        id="text13">and data for health and care.</text>
   </g>
   <text
-     x="210.33049"
-     y="812.66992"
-     style="font-weight:bold;font-size:41.0988px;font-family:'Open Sans';white-space:pre;fill:#e5332a;stroke-width:0.933801"
-     id="text17">July 2022 | London</text>
+     x="397.45242"
+     y="804.66992"
+     style="font-weight:bold;font-size:41.0988px;font-family:'Open Sans';text-align:center;text-anchor:middle;white-space:pre;fill:#e5332a;stroke-width:0.933801"
+     id="text17"><tspan
+       sodipodi:role="line"
+       id="tspan319"
+       x="397.45242"
+       y="804.66992">15th October 2022</tspan><tspan
+       sodipodi:role="line"
+       id="tspan321"
+       x="397.45242"
+       y="856.0434">Shoreditch, London</tspan></text>
   <text
      x="127.59106"
-     y="876.88507"
+     y="910.88507"
      style="font-size:41.0988px;font-family:'Open Sans';white-space:pre;fill:#e5332a;stroke-width:0.933802"
      id="text19">#ukhc22 | @UKHealthCamp</text>
   <text
