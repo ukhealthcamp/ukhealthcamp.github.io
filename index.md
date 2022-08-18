@@ -10,7 +10,7 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
 **Saturday 15th October 2022  
-London
+Hosted by Accurx (Shoreditch, London)
 [#ukhc22](https://twitter.com/search?q=%23ukhc22)**
 
 _More details soon. Join the mailing list to stay up-to-date_
