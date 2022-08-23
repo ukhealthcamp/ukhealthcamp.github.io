@@ -1,6 +1,8 @@
 _site/
 Gemfile.lock
+.ruby-version
 .DS_Store
 .jekyll-metadata
 .idea
 .vscode
+.devcontainer

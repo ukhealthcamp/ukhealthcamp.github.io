@@ -13,13 +13,9 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 Hosted by Accurx (Shoreditch, London)  
 [#ukhc22](https://twitter.com/search?q=%23ukhc22)**
 
-_More details soon. Join the mailing list to stay up-to-date_
-
-<!--
-<p><tito-button class="get-tickets" event="ukhealthcamp/2019" ssl-check-disabled>
-    <a href="https://ti.to/ukhealthcamp/2019" class="btn btn-success">Get Tickets</a>
+<p><tito-button class="get-tickets" event="ukhealthcamp/2022" ssl-check-disabled>
+  <a href="https://ti.to/ukhealthcamp/2022" class="btn btn-success">Get Tickets</a>
 </tito-button></p>
--->
 
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
@@ -203,3 +199,5 @@ There are several ways to help us put on UK Health Camp:
       }
 }
 </script>
+
+<script src='https://js.tito.io/v1' async></script>
