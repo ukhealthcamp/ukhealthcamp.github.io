@@ -163,9 +163,20 @@ There are several ways to help us put on UK Health Camp:
     https://schema.org/Event and https://json-ld.org/
 {:/comment}
 <script type="application/ld+json">
+[{
+  "@context" : "https://schema.org",
+  "@type" : "EventSeries",
+  "@id" : "https://ukhealthcamp.com/#healthcamp",
+  "name" : "UK Health Camp",
+  "description": "UK Health Camp the free ‘unconference’ on digital, design and data for health and care. Come and enjoy a full day having conversations about #health, #digital, #nhs, and more",
+  "image": "https://ukhealthcamp.com/images/ukhealthcamp-square.png"
+},
 {
   "@context": "http://schema.org",
   "@type": "Event",
+  "@id" : "https://ukhealthcamp.com/events/2022",
+  "superEvent" : { "@id": "https://ukhealthcamp.com/#healthcamp" },
+  "name": "UK Health Camp 2022",
   "description": "UK Health Camp the free ‘unconference’ on digital, design and data for health and care. Come and enjoy a full day having conversations about #health, #digital, #nhs, and more. Register at ukhealthcamp.com",
   "image": "https://ukhealthcamp.com/images/ukhealthcamp-square.png",
   "location": {
@@ -179,7 +190,6 @@ There are several ways to help us put on UK Health Camp:
     },
     "name": "Accurx"
   },
-  "name": "UK Health Camp 2022",
   "offers": {
     "@type": "Offer",
     "price": "0.00",
@@ -192,12 +202,17 @@ There are several ways to help us put on UK Health Camp:
   "endDate": "2022-10-15T17:30",
   "eventStatus": "https://schema.org/EventScheduled",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "organizer": {
-        "@type": "Organization",
-        "name": "UK Health Camp",
-        "url": "https://ukhealthcamp.com"
-      }
-}
+  "organizer": {
+    "@type": "Organization",
+    "name": "UK Health Camp",
+    "url": "https://ukhealthcamp.com"
+  },
+  "performer": {
+    "@type": "Organization",
+    "name": "UK Health Camp",
+    "url": "https://ukhealthcamp.com"
+  }
+}]
 </script>
 
 <script src='https://js.tito.io/v1' async></script>

@@ -200,9 +200,20 @@ The Coldra, Gwent, Newport NP18 2YG
     https://schema.org/Event and https://json-ld.org/
 {:/comment}
 <script type="application/ld+json">
+[{
+  "@context" : "https://schema.org",
+  "@type" : "EventSeries",
+  "@id" : "https://ukhealthcamp.com/#healthcamp",
+  "name" : "UK Health Camp",
+  "description": "UK Health Camp the free ‘unconference’ on digital, design and data for health and care. Come and enjoy a full day having conversations about #health, #digital, #nhs, and more",
+  "image": "https://ukhealthcamp.com/images/ukhealthcamp-square.png"
+},
 {
   "@context": "http://schema.org",
   "@type": "Event",
+  "@id" : "https://ukhealthcamp.com/events/2019",
+  "superEvent" : { "@id": "https://ukhealthcamp.com/#healthcamp" },
+  "name": "UK Health Camp 2019",
   "description": "UK Health Camp the free ‘unconference’ on digital, design and data for health and care. Come and enjoy a full day having conversations about #health, #digital, #nhs, and more. Register at ukhealthcamp.com",
   "image": "https://ukhealthcamp.com/images/ukhealthcamp-square.png",
   "location": {
@@ -216,16 +227,13 @@ The Coldra, Gwent, Newport NP18 2YG
     },
     "name": "Office for National Statistics"
   },
-  "name": "UK Health Camp 2019",
   "offers": {
     "@type": "Offer",
     "price": "0.00",
     "priceCurrency": "GBP",
-    "url": "https://ti.to/ukhealthcamp/2019",
-    "availability": "https://schema.org/InStock",
-    "validFrom": "2019-03-20T16:20"
+    "url": "https://ti.to/ukhealthcamp/2019"
   },
   "startDate": "2019-09-14T09:30",
   "endDate": "2019-09-14T17:30"
-}
+}]
 </script>
