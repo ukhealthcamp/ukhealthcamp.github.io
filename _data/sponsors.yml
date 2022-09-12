@@ -126,6 +126,10 @@
   - name: Public Digital
     link: https://public.digital/
     logo: gold-public-digital.svg
+  silver:
+  - name: SH:24
+    link: https://sh24.org.uk/
+    logo: silver-sh24.svg
   bronze:
   - name: Ethical Healthcare Consulting
     link: https://ethicalhealthcare.org.uk/
