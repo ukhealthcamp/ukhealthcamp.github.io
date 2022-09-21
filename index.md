@@ -96,7 +96,7 @@ To give you a taste of the kinds of things that come up, examples of previous se
 - GP Paperless Practice opportunities & challenges
 - What do we know?
 
-You can see the full list of sessions from UK Health Camp 2017 here: [UK Health Camp 2017 Sessions](https://docs.google.com/spreadsheets/d/14FVFi-82xhQgJpUsZKnKbmLxlOJTTTyed2wKy6O32XI)
+You can see the full list of sessions from past (2015, 2017, 2018 and 2019) UK Health Camps as a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) or formatted as the [session grid](/session-grid/#/2019) (schedule).
 
 </div>
 <div class="section orange">
