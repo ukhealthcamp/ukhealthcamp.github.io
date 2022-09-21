@@ -13,7 +13,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 Hosted by Accurx (Shoreditch, London)  
 [#ukhc22](https://twitter.com/search?q=%23ukhc22)**
 
-<p><tito-button class="get-tickets" event="ukhealthcamp/2022" ssl-check-disabled>
+<p><tito-button class="get-tickets" event="ukhealthcamp/2022" releases="jcdnuesxuhi,second-batch" ssl-check-disabled>
   <a href="https://ti.to/ukhealthcamp/2022" class="btn btn-success">Get Tickets</a>
 </tito-button></p>
 
