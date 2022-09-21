@@ -68,7 +68,7 @@ If you've never been to an [unconference](https://en.wikipedia.org/wiki/Unconfer
 
 Instead of a schedule arranged ahead of time featuring presentations and panels brought to you by the great and the good, **everyone in the room gets to help design the agenda for the day** as the first order of business.
 
-We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](https://twitter.com/puntofisso/status/914074219998269440) (schedule). 
+We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](/session-grid/#/2019) (schedule). 
 
 **Sessions should bias strongly towards being discursive** rather than a talk from a single person. Think seminar rather than lecture, more socratic than didactic.
 

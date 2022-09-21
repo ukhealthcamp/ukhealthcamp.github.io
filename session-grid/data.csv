@@ -1,0 +1,107 @@
+Year,Time,Session,Room,Capacity,Title,Leader1,Leader2,Leader3,Leader 4,Session notes,Hashtag,Twitter conversation
+2015,10:40,1,LG7,,Fix my street for hospital software or something else,,,,,,,
+2015,10:40,1,LG9,,Code that makes space for care,@lucillevalentin,,,,,,
+2015,10:40,1,LG8,,Project Tide,Ariant Jani,,,,,,
+2015,10:40,1,LG6,,Behavioural change healthcare (chat),@b_seven_e,,,,,,
+2015,11:30,2,LG7,,Digital medical mobile restrictions,@jamesking,,,,,,
+2015,11:30,2,LG9,,Links between health and social housing / data sharing,@Khan_Sahil,,,,,,
+2015,11:30,2,LG8,,Making data work,Paul Cook,,,,,,
+2015,11:30,2,LG6,,nhs.uk alpha,@sheldonline,,,,,,
+2015,12:20,3,LG7,,How do we improve patient education?,@JonJHilton,,,,,,
+2015,12:20,3,LG9,,What do we know?,@GlynRJones,,,,,,
+2015,12:20,3,LG8,,Platform for support - mental health,@Sareh88,,,,,,
+2015,12:20,3,LG6,,Health + Social care integration,@vickysargent,,,,,,
+2015,14:30,4,LG7,,"Healthcare, Innovation, Open Source & Sustainability - Elixir of Life or ?-?-?",,,,,,,
+2015,14:30,4,LG9,,GP Paperless practice opportunities & challenges,,,,,,,
+2015,14:30,4,LG8,,Dynamic System Modeling,,,,,,,
+2015,14:30,4,LG6,,Making patient voice ?-?-?,,,,,,,
+2015,15:20,5,LG9,,Precision medicine,Marek Kultys,@sciencepractice,,,,,
+2015,15:20,5,LG8,,Integrated health IT systems,Francis,,,,,,
+2015,15:20,5,LG6,,Fast data processing (GPU acceleration etc.),,,,,,,
+2015,16:10,6,LG7,,"Hard problems like care records, identity, consent",@sheldonline,,,,,,
+2015,16:10,6,LG9,,Accessibility / Disability in smart cities,Paul Clayton,,,,,,
+2015,16:10,6,LG8,,Clinicians trying to influence informatics,,,,,,,
+2017,11:30,1,K0.31,22,Play in Children's emergency medicine,@jamesturnerux,,,,https://goo.gl/zCWs86,,
+2017,11:30,1,S0.03,30,Social Prescribing,@its_elemental,Leanne Monk,,,https://goo.gl/3fE4v2,,
+2017,11:30,1,S0.11,30,How do we make risk more meaningful,@willtube4food,,,,https://goo.gl/GrD5N3,,
+2017,11:30,1,S0.12,30,Innovation pipelines,@jamesfreed5,,,,https://goo.gl/5AD4WA,,
+2017,11:30,1,S0.13,30,"""STP's"" What? How? Ugh? Meh!",@cioportfolio,,,,https://goo.gl/A9JMWo,,
+2017,12:30,2,K0.31,22,Digitising consent forms,@willtube4food,,,,https://goo.gl/ZdLzzY,,
+2017,12:30,2,S0.03,30,Project failures: lessons learned/shared,@blu3id,,,,https://goo.gl/B2pCxp,,
+2017,12:30,2,S0.11,30,Securing Important stuff better,@glynwintle,,,,https://goo.gl/9bKKRS,,
+2017,12:30,2,S0.12,30,Supporting FGM survivors and protecting girls,@fgmcentre,,,,https://goo.gl/YUaVe2,,
+2017,12:30,2,S0.13,30,Developing the digital workforce,@dibullman,@adapeck,Susan Kennedy,,https://goo.gl/kSrFVg,,
+2017,14:00,3,K0.31,22,Digitising Maternity,Leila Shepherd,,,,https://goo.gl/GxycRH,,
+2017,14:00,3,S0.03,30,Conversation about technology for independent living for older people,@hughbarnard,,,,https://goo.gl/dSBVGP,,
+2017,14:00,3,S0.11,30,Data argument,@blangry,,,,https://goo.gl/WCE4Xv,,
+2017,14:00,3,S0.12,30,"Empowering front line staff to make +/- stop change
+How can frustrated clinicians use design to create a preferable future?",@bexmoxon,@blu3id,,,https://goo.gl/GVsxDb,,
+2017,14:00,3,S0.13,30,"Preparedness for systemic catastrophes (pandemic, brexit, 21st century)",@lucasgonzalez,,,,https://goo.gl/8oLShp,,
+2017,14:50,4,K0.31,22,Technology is not the solution ...finding meaning through warm health data.,@russellgundry,,,,https://goo.gl/PQPTMA,,
+2017,14:50,4,S0.03,30,"Let's handle gender better in screening programs ""Screen my organs, not my birth certificate""",@deckofpandas,,,,https://goo.gl/aokZsk,,
+2017,14:50,4,S0.11,30,For what conditions do we want supplemental data?,Lea Georgia Webb,,,,https://goo.gl/3PNNCR,,
+2017,14:50,4,S0.12,30,"Rules of engagement for IT people outside the NHS with the NHS.
+Using modern tech to share info. without breaking the same old laws. (PRA, FOI etc.)",@amcunningham,@glynrjones,,,https://goo.gl/WQ7Bgh,,
+2017,14:50,4,S0.13,30,How to get involved in design/digital/innovation in the NHS,@dominicburton,@veeWilliams_,,,https://goo.gl/iWw3q9,,
+2017,15:40,5,K0.64 ,150,"Procurement, can we do better?",@thatdavidmiller,,,,https://goo.gl/uz9CE6,,
+2017,15:40,5,K0.31,22,"Cancer is the leading cause of death, How can we change that? ",@thanoskosmidis,,,,https://goo.gl/QQT7iv,,
+2017,15:40,5,S0.03,30,"How can we talk about sensitive topics with real patients to do better user research?
+Discussion on user research techniques from a human / emotional experience design perspective",@bitzesty,@CherryPeiSix,,,https://goo.gl/5qTZZ3,,
+2017,15:40,5,S0.11,30,GDPR Data porting for research,,,,,https://goo.gl/qe85fH,,
+2017,15:40,5,S0.12,30,Rahul Singh HIP care,@DRRahul_Singh1,,,,https://goo.gl/6fnVeA,,
+2017,15:40,5,S0.13,30,NHS AI Artificial and Augmented Intelligence/opensource,@kellasj,,,,https://goo.gl/NRGzeh,,
+2018,11:30,1,Defiant 1,,How can we use digital to stop Type 2 Diabetes,@BeFreeOfT2D,@dansodergren,,,,,
+2018,11:30,1,Defiant 2,,Improving organ donation through user centered design,@UK_Phil,,,,,,
+2018,11:30,1,Frontier,,Barcodes on the web identifiers & references,@philarcher1,,,,,,
+2018,11:30,1,One and All,,Digital participation for young people,@MindOfMyOwnApp,,,,,,
+2018,11:30,1,Solidarity,,"Design, UX Stuff & Accessibility",Kimb Jones,,,,,,
+2018,12:20,2,Defiant 1,,Tackling Depression & Suicide,,,,,,,
+2018,12:20,2,Defiant 2,,Julian Tudor Hart - What would he do starting now,@amcunningham,,,,,,
+2018,12:20,2,Frontier,,Assessing and improving data quality in primary care,Matthew Brett,,,,,,
+2018,12:20,2,One and All,,How do you solve a problem like GP IT Systems,@sheldonline,,,,,,
+2018,12:20,2,Solidarity,,The cloud and how would you use it?,@TerryJRJoyce,,,,,,
+2018,14:00,3,Defiant 1,,Design for trust,@mattedgar,,,,,,
+2018,14:00,3,Defiant 2,,Secretary of State's Tech Agenda,@hadleybeeman,,,,,,
+2018,14:00,3,One and All,,How can civic hackers contribute to use of data in healthcare,@northernjamie,,,,,,
+2018,14:00,3,Solidarity,,Let's talk about adult social care,@mandalyn97,@we_are_Nomensa,,,,,
+2018,14:00,3,Progress,,Co-design a user research plan,@AmyontheRoad,,,,,,
+2018,14:55,4,Defiant 1,,System maturity on a Wardley Scale,David,,,,,,
+2018,14:55,4,Defiant 2,,Digital strategies to improve recruitment of healthcare professionals,@wildlingmedic,,,,,,
+2018,14:55,4,One and All,,Interoperability,@TonyYates,,,,,,
+2018,14:55,4,Solidarity,,Health & Social mobility around inclusion & getting young people into work. Designing for the future,Salma Atal,,,,,,
+2018,14:55,4,Progress,,Cyber (security),@glynwintle,,,,,,
+2018,15:50,5,Defiant 1,,Understanding health service data,@kellasj,,,,,,
+2018,15:50,5,Defiant 2,,Strategies for building an open-source basis for primary care systems,Matthew Brett,,,,,,
+2018,15:50,5,One and All,,Grassroots approach to data standards,@Adewunmi,,,,,,
+2018,15:50,5,Progress,,Platform for NHS problems (UK Health Camp but online),Karl Francis,,,,,,
+2019,11:45,1,R101,125,How much digital and tech should we have in health?,@ababyyou,,,,https://docs.google.com/document/d/1g5XtaAORRn5q7FukcdWwagfm2HcEcBjNRbkY8Gh719o/edit,#ukhc19s1rr101,twitter.com/search?q=%23ukhc19s1rr101
+2019,11:45,1,R103,60,"Home, health and harm",@craigtweeted,,,,https://docs.google.com/document/d/1Yi4wple7QnFeZAjv0OfRztlP6ZkW3IHbbHfl_f3E944/edit,#ukhc19s1rr103,twitter.com/search?q=%23ukhc19s1rr103
+2019,11:45,1,R105,30,"The good, the bad and what next for health care's elusive targets",@digitalkway,,,,https://docs.google.com/document/d/1awt2ekRU37Df1sGOWVk2FbmZwPM7BWk2adYmcnUiUZI/edit,#ukhc19s1rr105,twitter.com/search?q=%23ukhc19s1rr105
+2019,11:45,1,R107,30,Where are the user-centered design jobs in NHS Wales?,@jess_neely,,,,https://docs.google.com/document/d/1CTIuIeXf4N_FU6eaiKVrcu9iJXN15t3AKzk8gX1E3Qo/edit,#ukhc19s1rr107,twitter.com/search?q=%23ukhc19s1rr107
+2019,11:45,1,R108,30,Process improvement,@leanandagile,,,,https://docs.google.com/document/d/1hHkVewwGnYQ_eqa6t0h0X11lVzTgMpGsJQQitczyoq4/edit,#ukhc19s1rr108,twitter.com/search?q=%23ukhc19s1rr108
+2019,12:40,2,R101,125,"How could we, or should we, use social media data in healthcare?
+What are you doing with my data
+Privacy concerns and data sharing",@ninadicara,@Caleismith,B Cooper,,https://docs.google.com/document/d/1yvymknS2loKLi0oEWePcKUKrSVAPT2f6WwlujkfYLlY/edit,#ukhc19s2rr101,twitter.com/search?q=%23ukhc19s2rr101
+2019,12:40,2,R103,60,NHS and localgov working together - 'discharge' as exploratory process,@LynleyM,,,,https://docs.google.com/document/d/1JP_A9fZSyaJfRUJQKACt72I_Rc8yCJMIJBAOtvMW40Y/edit,#ukhc19s2rr103,twitter.com/search?q=%23ukhc19s2rr103
+2019,12:40,2,R105,30,"Carers and how we can tailor the tech?
+AI in homecare for people with dementia",@beadeere,@sidneykrandall,,,https://docs.google.com/document/d/1pgbLpYOQE_4TM5cNVMuzhdrf3qSm9iYIeW9dbKP1-jU/edit,#ukhc19s2rr105,twitter.com/search?q=%23ukhc19s2rr105
+2019,12:40,2,R107,30,Generating income from our own energy - sharing that with communities we support to improve their health,Lynne,,,,https://docs.google.com/document/d/1m1khb8G7GEcxhx71ivu5rsWQsPpj3icwcl9BCW4upg0/edit,#ukhc19s2rr107,twitter.com/search?q=%23ukhc19s2rr107
+2019,12:40,2,R108,30,Fixing the obvious stuff/therapy,@saulcozens,,,,https://docs.google.com/document/d/1hdWXTrTh2GIRl9VHr3bbghPuK3Wr68m-amRPIzh0AhE/edit,#ukhc19s2rr108,twitter.com/search?q=%23ukhc19s2rr108
+2019,13:30,2.5,,,Lunch,,,,,,,
+2019,14:20,3,R101,125,Socialising Artificial Intelligence (AI),@jacswork,,,,https://docs.google.com/document/d/1-DzDdlKptgsM4SIvNk3aQOlKUN1ImmR96LN5yc5MGqI/edit,#ukhc19s3rr101,twitter.com/search?q=%23ukhc19s3rr101
+2019,14:20,3,R103,60,Rapid application development (low code),Jonathan Rapley,,,,https://docs.google.com/document/d/1pNO_MrgdGjYpBqHRVGIPUJhAKKEoOXOWWCsRKAYJ-Ck/edit,#ukhc19s3rr103,twitter.com/search?q=%23ukhc19s3rr103
+2019,14:20,3,R105,30,Creating a more user-centred and place-based urgent & emergency care,@YinLingjing,,,,https://docs.google.com/document/d/1HvZyU8Eb9MndByqr72iorKduYRXx2DbTyGi2VcjM7N4/edit,#ukhc19s3rr105,twitter.com/search?q=%23ukhc19s3rr105
+2019,14:20,3,R107,30,Health outcomes housing,@pixlz,,,,https://docs.google.com/document/d/1c4tkrMqA5a_vnbcRTGk5w2WUOavCloRX3ibEkjcm304/edit,#ukhc19s3rr107,twitter.com/search?q=%23ukhc19s3rr107
+2019,14:20,3,R108,30,"How to find ways to get professionals to use evidence, not 'wiki' it",@RasberryKrafts,,,,https://docs.google.com/document/d/1oF9zzW0iuNDW7t-sDwqlQJziCi1tpFFCeejSos_K6-c/edit,#ukhc19s3rr108,twitter.com/search?q=%23ukhc19s3rr108
+2019,15:10,4,R101,125,Help! Expertise in health research needed to provide data/understanding for the Sustainable Development Goals (SDGs),@fionadaweons,,,,https://docs.google.com/document/d/1s7lVFT4gKvwMOEctW8_a64kNOapaGOVV2_Wh0S2E-oI/edit,#ukhc19s4rr101,twitter.com/search?q=%23ukhc19s4rr101
+2019,15:10,4,R103,60,"Prevention rather than cure
+Should we rework the way we manage health and social care into community wellbeing?",Faaiza,@ababyyou,,,https://docs.google.com/document/d/1uQgWhjFAgz2Xku3sNMfyI7S4SAUscWQmrNsDU6tVksM/edit,#ukhc19s4rr103,twitter.com/search?q=%23ukhc19s4rr103
+2019,15:10,4,R105,30,Online assessments for monitoring and intervention,@AJLynham,,,,https://docs.google.com/document/d/1BdA58e54I8CVYAeNnERdxVkfVaM3x_8K_WLwIKHADkA/edit,#ukhc19s4rr105,twitter.com/search?q=%23ukhc19s4rr105
+2019,15:10,4,R107,30,Data quality - impact on joining up data,@devamedia,,,,https://docs.google.com/document/d/1ACraKtif7gjIKDezoBiZuatgORP19P8qrC2LQs1qwXY/edit,#ukhc19s4rr107,twitter.com/search?q=%23ukhc19s4rr107
+2019,15:10,4,R108,30,The greatest threat to digitising the NHS,@markwfoden,,,,https://docs.google.com/document/d/1ig-RgXouesCiwv_y6okt5iPC-_6zC1DoVk87zrgtGJI/edit,#ukhc19s4rr108,twitter.com/search?q=%23ukhc19s4rr108
+2019,16:00,5,R101,125,"Data sharing and poor IT
+Positive experiences of having software bought or developed for you as a user",@michele32895064,@amcunningham,,,https://docs.google.com/document/d/1NZS9O3h8IbCRCNXTxeAKWmaqHuEg-nzxZn4Mer4j_gU/edit,#ukhc19s5rr101,twitter.com/search?q=%23ukhc19s5rr101
+2019,16:00,5,R103,60,How digital tech can improve antibiotic use and misuse,@ceriphi,,,,https://docs.google.com/document/d/1oZwuTC5vBi3eICXzjiI_dYL4ggZpA0UhshM-VXI-RXs/edit,#ukhc19s5rr103,twitter.com/search?q=%23ukhc19s5rr103
+2019,16:00,5,R105,30,"Ask a (Junior, Doctor, Hospital, Welsh!) - I've worked in NHS Wales and know the system inside out, come and ask me questions",@saral0ng,,,,https://docs.google.com/document/d/1rLQ0kNPssfNDpg7jmRC7Z8s-MPYfXWJAALbHh7QW-q0/edit,#ukhc19s5rr105,twitter.com/search?q=%23ukhc19s5rr105
+2019,16:00,5,R107,30,"Digital Health: how do we attract, signpost and train people from a representative range of backgrounds to create health that works for everyone for next 10-20 years",@SallyP_owell,,,,https://docs.google.com/document/d/1DfGtePrBh2cmHFW3pmXnuJ4_YB1OUocYRI7yPUNNm0I/edit,#ukhc19s5rr107,twitter.com/search?q=%23ukhc19s5rr107
+2019,16:00,5,R108,30,Making digital health services more accessible,@mandalyn97,,,,https://docs.google.com/document/d/11AXfaX_xTG14KT56Be2PRuriQ7KfJO2U2VoPHztQA20/edit,#ukhc19s5rr108,twitter.com/search?q=%23ukhc19s5rr108
