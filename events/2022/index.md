@@ -77,7 +77,7 @@ _If you have an idea for a session, but are **not too comfortable with the pitch
 
 ### Examples of previous sessions
 
-You can **see the [session grids](/session-grid/#/2019) from past UK Health Camps** or a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) of all the past sessions. To give you a taste of the kinds of things that come up, examples of previous sessions at UK Health Camp include:
+To give you a taste of the kinds of things that come up, you can **see the [session grids](/session-grid/#/2019) from past UK Health Camps** or a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) of all the past sessions.  Examples of previous sessions at UK Health Camp include:
 
 - How do we improve patient education?
 - Clinicians trying to influence informatics
