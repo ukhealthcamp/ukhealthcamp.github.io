@@ -17,6 +17,8 @@ Hosted by Accurx (Shoreditch, London)
   <span class="btn btn-success">Get Tickets</span>
 </tito-button></p>
 
+_See the **[event page](/events/2022/)** for more details about the day._
+
 <br>
 <form action="//ukhealthcamp.us11.list-manage.com/subscribe/post?u=d6e1cdf0510d674a480518c55&amp;id=359b65b939" method="post">
 <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="Your email address" aria-label="Email address">
