@@ -12,12 +12,17 @@ _If you have any questions not answered here or want to clarify anything please 
 
 - [Getting there](#getting-there)
 - [On the day / Agenda](#on-the-day)
+- [In the evening](#in-the-evening)
+- [Refreshments](#refreshments)
 - [Lunch](#lunch)
 - [Camp makers](#camp-makers)
 - [Pitching and planning](#pitching-and-planning)
 - [Examples of previous session topics](#examples-of-previous-sessions)
 - [Accessibility](#accessibility)
 - [Code of Conduct](#code-of-conduct)
+- [COVID-19 / Masks](#covid-19--masks)
+- [Crèche / Childcare](#cr%C3%A8che--childcare)
+- [Dress Code](#dress-code)
 - [Photography](#photography)
 
 ## Getting there
@@ -47,9 +52,26 @@ _09:00 - Doors open / registration + free coffee ☕
 
 From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'd like to continue the conversation!
 
+## In the evening
+
+From 17:00 onwards, we will move into Spitalfields Market to _**[The Grocer](https://www.thegrocerspitalfields.co.uk/), [4 Crispin Pl, London E1 6DW](https://g.page/TheGrocerE1)**_.
+
+Come along to continue the conversation into the evening, or just to relax with friends! Don’t worry about knowing your way around, camp makers will be navigating attendees along the 8-minute walk from the venue to the pub.
+
+<details>
+  <summary>Direction from <em>Accurx</em> to <em>The Grocer / Map</em></summary>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2482.5653190862013!2d-0.07787872049664049!3d51.5211902856864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x48761b1d91d47f43%3A0xa35cd1d32f723fc3!2sAccurx%2C%20Curtain%20Road%2C%20London!3m2!1d51.522386!2d-0.08098169999999999!4m5!1s0x48761cb406803fad%3A0xd5a44f6548aac6bb!2sThe%20Grocer%2C%204%20Crispin%20Pl%2C%20London%20E1%206DW!3m2!1d51.5201333!2d-0.0761222!5e0!3m2!1sen!2suk!4v1665082743088!5m2!1sen!2suk" height="300" frameborder="0" style="border:0;display: block;margin: 0 auto;max-width: 700px;width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</details>
+
+## Refreshments
+
+A selection of free cold drinks and water will be available throughout the event. There will also be a free staffed coffee bar for Barista made hot drinks.
+
+_The coffee bar is operated by [Coffee Geek and Friends](http://www.coffeegeekandfriends.co.uk/)._
+
 ## Lunch
 
-Lunch is free to all ticket-holders, we are just sorting the final catering details. 
+Lunch is free to all ticket-holders, and is being provided by [Route Catering](https://routecatering.co.uk/). 
 
 _Check back here soon for our lunch menu._
 
@@ -77,21 +99,8 @@ _If you have an idea for a session, but are **not too comfortable with the pitch
 
 ### Examples of previous sessions
 
-To give you a taste of the kinds of things that come up, you can **see the [session grids](/session-grid/#/2019) from past UK Health Camps** or a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) of all the past sessions.  Examples of previous sessions at UK Health Camp include:
+To give you a taste of the kinds of things that come up, you can **see the [session grids](/session-grid/#/2019) from past UK Health Camps** or a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) of all the past sessions.
 
-- How do we improve patient education?
-- Clinicians trying to influence informatics
-- Code that makes space for care
-- Digitising maternity
-- Health + Social Care integration
-- Dynamic systems modelling
-- "Let's (politely) argue about personal data"
-- Project failures: lessons learnt and shared
-- Social prescribing
-- Developing the digital workforce
-- Digitising consent
-- GP Paperless Practice opportunities & challenges
-- What do we know?
 
 ## Accessibility
 
@@ -104,6 +113,32 @@ If you have any specific requirements please contact us: <us@ukhealthcamp.com>.
 We have a [Code of Conduct](https://ukhealthcamp.com/code-of-conduct) and ask for cooperation from all participants to help ensure a safe environment for everybody at UK Health Camp.
 
 If you have any concerns throughout the day, please find a member of the UK Health Camp team who will help you.
+
+## COVID-19 / Masks
+
+Inline with UK Government guidance there are currently no requirements for an explicit COVID-19 risk assessment for an event. Government restrictions including mandatory COVID-19 status checking to enter venues have also been lifted.
+
+However we expect attendees to act in a sensible and responsible manner and not attend if they are unwell, symptomatic or testing positive for COVID-19. We also expect - inline with our [Code of Conduct](https://ukhealthcamp.com/code-of-conduct) - attendees to respect the choice of those who chose to take precautions to manage their risk during the event (e.g by wearing a mask).
+
+### Masks
+
+As noted above inline with current UK Government guidance there is no requirement for mask wearing during UK Health Camp 2022. However we expect attendees to respect the choice of others to either wear a mask or not.
+
+## Crèche / Childcare
+
+When registering for a ticket you may have noticed the question:
+
+> "Would you use a free onsite crèche/childcare **if available**?"
+
+Unfortunately, we are not going to be able to provide a crèche/childcare this year. We appreciate this may have an impact on those with caring responsibilities who would like to attend. 
+
+If this affects you and your ability to attend please email <us@ukhealthcamp.com>
+
+## Dress Code
+
+There is no specific dress code for UK Health Camp. Please wear whatever you feel comfortable in. Usually most attendees are in informal or casual wear.
+
+You can view pictures taken by [Paul Clarke](http://paulclarke.com/) of UK Health Camp 2015 [here](https://www.flickr.com/photos/paul_clarke/albums/72157661704564366) for more detail.
 
 ## Photography
 
