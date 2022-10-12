@@ -38,14 +38,17 @@ H - Halal
 ### Main options
 
 - **Smoked Salmon Lunchbox (GF, DF, H)**  
+  <img src="images/salmonlunchbox.jpg" alt="Photo of Smoked Salmon Lunchbox" class="menu">
   _Assortment of three salads topped with Smoked Salmon. Salads consist of Baby Potato salad, Beetroot salad & Quinoa salad_  
   Allergens: Fish, Celery and celeriac, Mustard, Sesame, Sulphur
 
 - **Vegan Lunchbox (V, VE, DF, H)**  
+  <img src="images/veganlunchbox.jpg" alt="Photo of Vegan Lunchbox Lunchbox" class="menu">
   _Assortment of three salads topped with Vegan Kofte Balls. Salads consist of Baby Potato salad, Beetroot salad & Quinoa salad_  
   Allergens: Gluten, Celery and celeriac, Mustard, Sesame, Sulphur, Wheat (Gluten)
 
 - **Roasted Sweet Potato Hot Box (V, VE, GF, DF, H)**  
+  <img src="images/sweetpotatohotbox.jpg" alt="Photo of Roasted Sweet Potato Hot Box" class="menu">
   _Roasted sweet potato topped with chickpeas salsa and tahini, served with Broccoli salad_  
   Allergens: Sesame, Sulphur
 
@@ -53,32 +56,41 @@ H - Halal
 ### Extra salad selection
 
 - **Broccoli & Sugar Snaps Salad (V, VE, GF, DF, H)**  
-  _Broccoli, sugar snap, Baby spinach, Orange zest, black sesame, dill, white wine vinegar (Sulphur Dioxide), orange juice, salt, pepper, lemon juice, olive oil_  
+  <img src="images/broccolisalad.jpg" alt="Photo of Broccoli & Sugar Snaps Salad" class="menu">
+  _Broccoli, sugar snap, baby spinach, orange zest, black sesame, dill, white wine vinegar, orange juice, salt, pepper, lemon juice, olive oil_  
   Allergens: Sulphur
 
 - **Sweet Potato Salad (V, VE, GF, H)**  
+  <img src="images/sweetpotatosalad.jpg" alt="Photo of Sweet Potato Salad" class="menu">
   _Roasted Sweet Potato topped with Chickpeas & Tahini (Sesame), spring onion, balsamic glaze, red chilli, paraley, salt, pepper, lemon juice, olive oil_  
   Allergens: Sesame
 
 ### Desert
 
 - **Chocolate Brownie (V)**  
+  <img src="images/brownie.jpg" alt="Photo of Chocolate Brownie" class="menu">
   Allergens: Gluten, Eggs, Milk, Nuts
 
 - **Carrot & Walnut Cake (V)**  
+  <img src="images/carrotcake.jpg" alt="Photo of Carrot & Walnut Cake" class="menu">
   _with buttercream & orange zest_  
   Allergens: Gluten, Eggs, Milk, Nuts
 
 - **Lemon & Blueberry Cake (VE, V, DF)**  
+  <img src="images/lemonandblueberrycake.jpg" alt="Photo of Lemon & Blueberry Cake" class="menu">
   _with lemon zest and glaze._  
   Allergens: Gluten
 
 - **Orange & Pomegranate Cake (V, GF)**  
+  <img src="images/orangeandpomegranetcake.jpg" alt="Photo of Orange & Pomegranate Cake" class="menu">
   Allergens: Eggs, Milk, Nuts
 
 - **Baklava (V, VE, DF, H)**  
+  <img src="images/baklava.jpg" alt="Photo of Baklava" class="menu">
   Allergens: Gluten, Nuts
 
 ---
 
 _If you feel that your dietary requirements have not been met by the above catering, drop us an email at <us@ukhealthcamp.com> and we'll see what we can do to make sure you're sorted on the day 😃_
+
+_Photos are indicative from the [Route Catering](https://routecatering.co.uk/) menu_

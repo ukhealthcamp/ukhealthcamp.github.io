@@ -17,7 +17,7 @@ _If you have any questions not answered here or want to clarify anything please 
 - [Lunch](#lunch)
 - [Camp makers](#camp-makers)
 - [Pitching and planning](#pitching-and-planning)
-- [Examples of previous session topics](#examples-of-previous-sessions)
+- [Examples of previous sessions](#examples-of-previous-sessions)
 - [Accessibility](#accessibility)
 - [Code of Conduct](#code-of-conduct)
 - [COVID-19 / Masks](#covid-19--masks)
