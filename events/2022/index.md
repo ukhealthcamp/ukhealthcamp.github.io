@@ -41,16 +41,16 @@ The schedule for the day is roughly as follows:
 
 _09:00 - Doors open / registration + free coffee ☕  
 **10:15 - Pitching and planning**  
-11:30 - Session 1  
-12:20 - Session 2  
+11:30 - Session 1 (11:30 - 12:15)  
+12:20 - Session 2 (12:20 - 13:05)  
 **13:00 - Lunch**  
-14:00 - Session 3  
-15:00 - Session 4  
-15:50 - Session 5  
-16:45 - Wrap-up and closing address  
+14:00 - Session 3 (14:00 - 14:45)  
+14:50 - Session 4 (14:50 - 15:35)  
+15:40 - Session 5 (15:40 - 16:25)  
+16:40 - Wrap-up and closing address  
 17:00 - Close_
 
-From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'd like to continue the conversation!
+From 17:00 onwards **sponsored drinks** will be available nearby in Spitalfields Market for anyone who'd like to continue the conversation!
 
 ## In the evening
 
@@ -65,15 +65,17 @@ Come along to continue the conversation into the evening, or just to relax with 
 
 ## Refreshments
 
-A selection of free cold drinks and water will be available throughout the event. There will also be a free staffed coffee bar for Barista made hot drinks.
+There will be a free staffed coffee bar for Barista made hot drinks. Water will be available throughout the event.
 
 _The coffee bar is operated by [Coffee Geek and Friends](http://www.coffeegeekandfriends.co.uk/)._
+
+**For more information on available refreshments see our [catering page](/events/2022/menu).**
 
 ## Lunch
 
 Lunch is free to all ticket-holders, and is being provided by [Route Catering](https://routecatering.co.uk/). 
 
-_Check back here soon for our lunch menu._
+**You can view our lunch menu on the [catering page](/events/2022/menu).**
 
 ## Camp makers
 
@@ -81,7 +83,6 @@ Volunteer camp makers will be helping to ensure the day runs smoothly - you will
 
 **Feel free to ask camp makers for help or information** - if they can't help you they will find someone who can!
 
-_UK Health Camp is completely **run by volunteers** and relies on support of people like you to enable the event to take place. If you’d like to help us out please [sign-up](https://forms.gle/pQmErMgh8F6j9tDb8) to be a Camp Maker._
 
 ## Pitching and planning
 
@@ -91,11 +92,7 @@ Instead of a schedule arranged ahead of time featuring presentations and panels 
 
 We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](/session-grid/#/2019) (schedule). 
 
-**Sessions should bias strongly towards being discursive** rather than a talk from a single person. Think seminar rather than lecture, more socratic than didactic.
-
-This way, we turn the conversations that happen in the hallway, in between sessions at most conferences, into the main event. You'll grow your network with passionate and clueful people, and get to jump in and join the party.
-
-_If you have an idea for a session, but are **not too comfortable with the pitching process**, come and **find a camp maker or drop us a line** at <us@ukhealthcamp.com>. We'll happily find someone who will support you making a pitch, or who could make the pitch on your behalf._
+**Have a look at our dedicated page on [Pitching and Leading a Session](/pitching) for an explanation of how this works and what help is available.**
 
 ### Examples of previous sessions
 
