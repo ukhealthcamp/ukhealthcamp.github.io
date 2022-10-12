@@ -122,7 +122,7 @@ Want to sponsor UK Health Camp 2022? Email <sponsors@ukhealthcamp.com>
 
 
 ## How can I get involved?
-UK Health Camp is run entirely by volunteers. The 2022 event is being organised by [@thatdavidmiller](https://twitter.com/thatdavidmiller), [@puntofisso](https://twitter.com/puntofisso), [@DeckOfPandas](https://twitter.com/deckofpandas), [@mattstibbs](https://twitter.com/mattstibbs), [@cholten99](https://twitter.com/cholten99), [@Rozalie_Horka](https://twitter.com/Rozalie_Horka), and [@blu3id](https://twitter.com/blu3id).
+UK Health Camp is run entirely by volunteers. The 2022 event is being organised by [@mattstibbs](https://twitter.com/mattstibbs), [@blu3id](https://twitter.com/blu3id), [@amcunningham](https://twitter.com/amcunningham), [@convanzan](https://twitter.com/convanzan), [@thatdavidmiller](https://twitter.com/thatdavidmiller), @[victoriabetton](https://twitter.com/VictoriaBetton)
 
 There are several ways to help us put on UK Health Camp:
 - Volunteer as an organiser.
