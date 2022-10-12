@@ -14,7 +14,7 @@ Hosted by Accurx (Shoreditch, London)
 [#ukhc22](https://twitter.com/search?q=%23ukhc22)**
 
 <p><tito-button class="get-tickets" event="ukhealthcamp/2022" ssl-check-disabled>
-  <span class="btn btn-success">Get Tickets</span>
+  <span class="btn btn-success">Join Waiting List</span>
 </tito-button></p>
 
 _See the **[event page](/events/2022/)** for more details about the day._
@@ -82,23 +82,7 @@ Come and join us. **Don't panic!**
 
 ### Previous sessions
 
-To give you a taste of the kinds of things that come up, examples of previous sessions at UK Health Camp include:
-
-- How do we improve patient education?
-- Clinicians trying to influence informatics
-- Code that makes space for care
-- Digitising maternity
-- Health + Social Care integration
-- Dynamic systems modelling
-- "Let's (politely) argue about personal data"
-- Project failures: lessons learnt and shared
-- Social prescribing
-- Developing the digital workforce
-- Digitising consent
-- GP Paperless Practice opportunities & challenges
-- What do we know?
-
-You can see the full list of sessions from past (2015, 2017, 2018 and 2019) UK Health Camps as a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) or formatted as the [session grid](/session-grid/#/2019) (schedule).
+You can see the full list of sessions from past UK Health Camps as a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) or formatted as the [session grid](/session-grid/#/2019) (schedule).
 
 </div>
 <div class="section orange">
@@ -113,9 +97,9 @@ You can see the full list of sessions from past (2015, 2017, 2018 and 2019) UK H
 12:20 - Session 2  
 13:00 - Lunch  
 14:00 - Session 3  
-15:00 - Session 4  
-15:50 - Session 5  
-16:45 - Wrap-up and closing address  
+14:50 - Session 4  
+15:40 - Session 5  
+16:40 - Wrap-up and closing address  
 17:00 - Close
 
 From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'd like to continue the conversation!
