@@ -101,7 +101,9 @@ To give you a taste of the kinds of things that come up, you can **see the [sess
 
 ## Accessibility
 
-The events space we are using within the [Accurx Offices](https://www.accurx.com/) is accessible including accessible toilets. 
+The events space we are using within the [Accurx Offices](https://www.accurx.com/) is accessible including accessible toilets.
+
+There is a dedicated prayer / meditation / quiet room available for attendees to use throughout the day.
 
 If you have any specific requirements please contact us: <us@ukhealthcamp.com>.
 
