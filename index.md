@@ -14,7 +14,7 @@ Hosted by Accurx (Shoreditch, London)
 [#ukhc22](https://twitter.com/search?q=%23ukhc22)**
 
 <p><tito-button class="get-tickets" event="ukhealthcamp/2022" ssl-check-disabled>
-  <span class="btn btn-success">Join Waiting List</span>
+  <span class="btn btn-success">Get Tickets</span>
 </tito-button></p>
 
 _See the **[event page](/events/2022/)** for more details about the day._
