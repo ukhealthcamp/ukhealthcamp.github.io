@@ -23,6 +23,22 @@ _The coffee bar is operated by [Coffee Geek and Friends](http://www.coffeegeekan
 
 - Water
 
+## Breakfast Snacks
+
+- **Granola (V, GF, H)**  
+  _Gluten free granola with natural greek yoghurt, homemade seasonal fruit compote & honey._  
+  Allergens: Milk
+
+- **Fruit Pot (V, VE, GF, DF, H)**  
+  _Chopped seasonal fruit pot_
+
+- **Mixed Pastries (V)**  
+  _A selection of artisan pastries. All butter croissant, pain au chocolate & pain au raisin._  
+  Allergens: Gluten, Eggs, Milk, Wheat (Gluten)
+
+_The breakfast snacks are being catered by [Route Catering](https://routecatering.co.uk/)._
+
+
 ## Lunch
 We will be providing a choice of "boxed" lunches with a selection of extra salads and deserts. We have tried to cater for most dietary requirements.
 

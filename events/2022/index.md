@@ -14,6 +14,7 @@ _If you have any questions not answered here or want to clarify anything please 
 - [On the day / Agenda](#on-the-day)
 - [In the evening](#in-the-evening)
 - [Refreshments](#refreshments)
+- [Breakfast Snacks](#breakfast-snacks)
 - [Lunch](#lunch)
 - [Camp makers](#camp-makers)
 - [Pitching and planning](#pitching-and-planning)
@@ -22,6 +23,7 @@ _If you have any questions not answered here or want to clarify anything please 
 - [Code of Conduct](#code-of-conduct)
 - [COVID-19 / Masks](#covid-19--masks)
 - [Crèche / Childcare](#cr%C3%A8che--childcare)
+- [Cloakroom](#cloakroom)
 - [Dress Code](#dress-code)
 - [Photography](#photography)
 
@@ -70,6 +72,13 @@ There will be a free staffed coffee bar for Barista made hot drinks. Water will 
 _The coffee bar is operated by [Coffee Geek and Friends](http://www.coffeegeekandfriends.co.uk/)._
 
 **For more information on available refreshments see our [catering page](/events/2022/menu).**
+
+## Breakfast Snacks
+
+Some free breakfast snacks provided by [Route Catering](https://routecatering.co.uk/) will be available in the morning. 
+
+**More detail on what is on offer can be found on the [catering page](/events/2022/menu).**
+
 
 ## Lunch
 
@@ -132,6 +141,12 @@ When registering for a ticket you may have noticed the question:
 Unfortunately, we are not going to be able to provide a crèche/childcare this year. We appreciate this may have an impact on those with caring responsibilities who would like to attend. 
 
 If this affects you and your ability to attend please email <us@ukhealthcamp.com>
+
+## Cloakroom
+
+We are planning to run a small cloakroom (free) which will be staffed at the beginning and end of the day. Belongings are left entirely at your own risk.
+
+If you need something from the cloakroom just find an organiser or camp maker and they'll help you out.
 
 ## Dress Code
 
