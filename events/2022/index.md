@@ -14,7 +14,7 @@ _If you have any questions not answered here or want to clarify anything please 
 - [On the day / Agenda](#on-the-day)
 - [In the evening](#in-the-evening)
 - [Refreshments](#refreshments)
-- [Breakfast Snacks](#breakfast-snacks)
+- [Breakfast](#breakfast)
 - [Lunch](#lunch)
 - [Camp makers](#camp-makers)
 - [Pitching and planning](#pitching-and-planning)
@@ -71,20 +71,20 @@ There will be a free staffed coffee bar for Barista made hot drinks. Water will 
 
 _The coffee bar is operated by [Coffee Geek and Friends](http://www.coffeegeekandfriends.co.uk/)._
 
-**For more information on available refreshments see our [catering page](/events/2022/menu).**
+**For more information on available refreshments see our [catering page](/events/2022/menu#refreshments).**
 
-## Breakfast Snacks
+## Breakfast
 
-Some free breakfast snacks provided by [Route Catering](https://routecatering.co.uk/) will be available in the morning. 
+Free breakfast snacks and pastries provided by [Route Catering](https://routecatering.co.uk/) will be available in the morning. 
 
-**More detail on what is on offer can be found on the [catering page](/events/2022/menu).**
+**More detail on what is on offer can be found on the [catering page](/events/2022/menu#breakfast).**
 
 
 ## Lunch
 
 Lunch is free to all ticket-holders, and is being provided by [Route Catering](https://routecatering.co.uk/). 
 
-**You can view our lunch menu on the [catering page](/events/2022/menu).**
+**You can view our lunch menu on the [catering page](/events/2022/menu#lunch).**
 
 ## Camp makers
 

@@ -23,7 +23,18 @@ _The coffee bar is operated by [Coffee Geek and Friends](http://www.coffeegeekan
 
 - Water
 
-## Breakfast Snacks
+## Breakfast
+
+_The breakfast is being catered by [Route Catering](https://routecatering.co.uk/)._
+
+### Key
+V - Vegetarian  
+VE - Vegan  
+GF - Gluten Free  
+DF - Dairy Free  
+H - Halal
+
+### Snacks & Pastries
 
 - **Granola (V, GF, H)**  
   _Gluten free granola with natural greek yoghurt, homemade seasonal fruit compote & honey._  
@@ -35,8 +46,6 @@ _The coffee bar is operated by [Coffee Geek and Friends](http://www.coffeegeekan
 - **Mixed Pastries (V)**  
   _A selection of artisan pastries. All butter croissant, pain au chocolate & pain au raisin._  
   Allergens: Gluten, Eggs, Milk, Wheat (Gluten)
-
-_The breakfast snacks are being catered by [Route Catering](https://routecatering.co.uk/)._
 
 
 ## Lunch
