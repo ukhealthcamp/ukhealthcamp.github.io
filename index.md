@@ -108,10 +108,11 @@ From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'
 ## Our supporters for UK Health Camp 2022
 {% include sponsors.html year="2022" %}
 
+<!--
 Want to sponsor UK Health Camp 2022? Email <sponsors@ukhealthcamp.com>
 
 [Sponsor Us &raquo;](/sponsorship){:class="btn btn-danger btn-sponsor"}
-
+-->
 
 </div>
 <div class="section blue">
