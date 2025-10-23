@@ -43,7 +43,7 @@ There are lots of brilliant things happening to make health and care services be
 
 **Our aim is to provide a space to connect, share ideas and make things happen.**
 
-This isn't the first Health Camp - [similar events](https://web.archive.org/web/20170303033713/https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK in 2015, 2017, 2018 and 2019.
+This isn't the first Health Camp - [similar events](https://web.archive.org/web/20170303033713/https://en.wikipedia.org/wiki/HealthCamp) have been held in other countries and in the UK in 2015, 2017, 2018, 2019, 2020, and 2022.
 
 **We are open to all**, whether you work for health and care services or not.
 
@@ -66,7 +66,7 @@ If you've never been to an [unconference](https://en.wikipedia.org/wiki/Unconfer
 
 Instead of a schedule arranged ahead of time featuring presentations and panels brought to you by the great and the good, **everyone in the room gets to help design the agenda for the day** as the first order of business.
 
-We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid](/session-grid/#/2019) (schedule). 
+We invite all attendees to propose ideas and topics that they would like to discuss, then with a brief flurry of concentration, post-its and pragmatism we arrange these into a [session grid (see 2022's grid)](/session-grid/#/2022) (schedule). 
 
 **Sessions should bias strongly towards being discursive** rather than a talk from a single person. Think seminar rather than lecture, more socratic than didactic.
 
@@ -78,7 +78,7 @@ Come and join us. **Don't panic!**
 
 ### Previous sessions
 
-You can see the full list of sessions from past UK Health Camps as a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) or formatted as the [session grid](/session-grid/#/2019) (schedule).
+You can see the full list of sessions from past UK Health Camps as a [spreadsheet](https://docs.google.com/spreadsheets/d/1oIRrU1rWakVxObhuYJhFNwe_BuKnkAtd1R_olz_Q040) or formatted as the [session grid](/session-grid/#/2022) (schedule).
 
 </div>
 <div class="section orange">
