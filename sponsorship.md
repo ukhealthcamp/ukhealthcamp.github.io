@@ -9,7 +9,7 @@ title: "UK Health Camp - Sponsorship Packages"
 
 UK Health Camp is the free unconference for people interested in digital, design, technology and data for health and care.
 
-Sponsorship money is used to fund the expenses of UK Health Camp on the day - venue hire and refreshments. If we raise enough money we may also be able to fund bursaries for travel and/or childcare to ensure everyone can attend
+Sponsorship money is used to fund the expenses of UK Health Camp on the day - venue hire and refreshments. If we raise enough money we may also be able to fund bursaries for travel and/or childcare to ensure everyone can attend.
 
 We are keen that sponsors reflect the diversity of digital in the health and care ecosystem and that there is no single dominant presence. 
 
@@ -19,7 +19,7 @@ This is your chance to network with 100+ highly committed health and care digita
 
 ### Contact
 
-<sponsors@ukhealthcamp.com>
+<us@ukhealthcamp.com> / ukhealthcamp.com
 
 ---
 
@@ -43,8 +43,8 @@ You can:
 - have a short paragraph included in some event emails prior to the event
 
 We will:
-- send at least one tweet from the organisers mentioning your sponsorship in the month before the event
-- send at least one tweet from the organisers mentioning your sponsorship on the morning of the event and towards the end
+- send at least one social from the organisers mentioning your sponsorship in the month before the event
+- send at least one social from the organisers mentioning your sponsorship on the morning of the event and towards the end
 
 
 </div>
@@ -60,8 +60,7 @@ All of the Bronze package plus;
 - have a tweet-length announcement to be included in the morning intros
 
 We will:
-- send at least two tweets from the organisers mentioning your sponsorship in the month before the event
-- send at least one tweet from the organisers mentioning your sponsorship on the morning of the event and towards the end
+- send at least two socials from the organisers mentioning your sponsorship in the month before the event
 
 
 </div>
@@ -94,4 +93,4 @@ These options will depend on us being able to raise the necessary sponsorship fo
 
 ---
 
-**For sponsorship enquiries contact us at: <sponsors@ukhealthcamp.com>**
+**For sponsorship enquiries contact us at: <us@ukhealthcamp.com>**
