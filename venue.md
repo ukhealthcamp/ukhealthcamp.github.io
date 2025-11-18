@@ -13,6 +13,10 @@ Finding a suitable and empathetic venue is the hardest first step of getting the
 
 We love partnering with organisations who are keen to reflect the diversity of digital in the health and care ecosystem and the spirit of open and honest conversation!
 
+### Please get in touch!
+
+<us@ukhealthcamp.com> / ukhealthcamp.com
+
 ### Networking and visibility
 
 This is your chance to be a primary named supporter of the event, and have 100+ highly committed health and care specialists introduced to your organisation.
@@ -47,7 +51,4 @@ We’ll need someone with authority to sign off venue use and a facilities conta
 
 You can view our detailed venue specification here: [https://ukhealthcamp.com/venue-specification]
 
-### Please get in touch!
-
-<us@ukhealthcamp.com> / ukhealthcamp.com
 
