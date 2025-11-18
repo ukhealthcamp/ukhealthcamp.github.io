@@ -9,7 +9,7 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-**We'll be back soon with news about the next UK Health Camp!**
+**We're currently planning for UK Health Camp 2026! We would love to host this in Leeds - if you think you can help with a venue, please get in touch!**
 
 <!-- p><tito-button class="get-tickets" event="ukhealthcamp/2022" ssl-check-disabled>
   <span class="btn btn-success">Get Tickets</span>
@@ -84,9 +84,9 @@ You can see the full list of sessions from past UK Health Camps as a [spreadshee
 <div class="section orange">
 
 
-## UK Health Camp 2022 Schedule
+## Sample UK Health Camp Schedule
 
-**Saturday 15th October 2022**  
+**Saturday**  
 09:00 - Doors open / registration  
 10:15 - Pitching and planning   
 11:30 - Session 1  
@@ -98,7 +98,7 @@ You can see the full list of sessions from past UK Health Camps as a [spreadshee
 16:40 - Wrap-up and closing address  
 17:00 - Close
 
-From 17:00 onwards **sponsored drinks** will be available nearby for anyone who'd like to continue the conversation!
+From 17:00 onwards **sponsored refreshments** will be available nearby for anyone who'd like to continue the conversation!
 
 
 </div>
@@ -119,7 +119,7 @@ Want to sponsor UK Health Camp 2022? Email <sponsors@ukhealthcamp.com>
 
 
 ## How can I get involved?
-UK Health Camp is run entirely by volunteers. The 2022 event is being organised by [@mattstibbs](https://twitter.com/mattstibbs), [@blu3id](https://twitter.com/blu3id), [@amcunningham](https://twitter.com/amcunningham), [@convanzan](https://twitter.com/convanzan), [@thatdavidmiller](https://twitter.com/thatdavidmiller), [@victoriabetton](https://twitter.com/VictoriaBetton)
+UK Health Camp is run entirely by volunteers. The 2022 event was organised by [@mattstibbs](https://twitter.com/mattstibbs), [@blu3id](https://twitter.com/blu3id), [@amcunningham](https://twitter.com/amcunningham), [@convanzan](https://twitter.com/convanzan), [@thatdavidmiller](https://twitter.com/thatdavidmiller), [@victoriabetton](https://twitter.com/VictoriaBetton)
 
 There are several ways to help us put on UK Health Camp:
 - Volunteer as an organiser.
