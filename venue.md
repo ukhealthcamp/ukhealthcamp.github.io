@@ -43,6 +43,10 @@ Through running several of these events previously, we know that we need to meet
 
 We’ll need someone with authority to sign off venue use and a facilities contact to help with practicalities.
 
+### Detailed Venue Specification
+
+You can view our detailed venue specification here: [https://ukhealthcamp.com/venue-specification]
+
 ### Please get in touch!
 
 <us@ukhealthcamp.com> / ukhealthcamp.com
