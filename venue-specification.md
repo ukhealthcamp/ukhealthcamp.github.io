@@ -21,7 +21,7 @@ This page outlines the main requirements we look for in a venue for **UK Health 
 - [Misc.](#misc)
 
 ## Date
-- Saturday 17th September
+- A Saturday in Spring 2026
 
 ## Capacity
 - Legal & Practical capacity for 100 – 150
