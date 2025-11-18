@@ -9,7 +9,9 @@ title: "UK Health Camp is the free ‘unconference’ for everyone interested in
 # UK Health Camp
 The free ‘unconference’ for everyone interested in digital, design, technology and data for health and care.
 
-**We're currently planning for UK Health Camp 2026! We would love to host this in Leeds - if you think you can help with a venue, please get in touch!**
+**We're currently planning for UK Health Camp 2026! **
+
+** We would love to host this in Leeds next year - if you think you can help us with a venue, [https://ukhealthcamp.com/venue](please get in touch!)**
 
 <!-- p><tito-button class="get-tickets" event="ukhealthcamp/2022" ssl-check-disabled>
   <span class="btn btn-success">Get Tickets</span>
