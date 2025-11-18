@@ -15,7 +15,7 @@ We love partnering with organisations who are keen to reflect the diversity of d
 
 ### Please get in touch!
 
-<us@ukhealthcamp.com> / ukhealthcamp.com
+<us@ukhealthcamp.com>
 
 ### Networking and visibility
 
@@ -49,6 +49,6 @@ We’ll need someone with authority to sign off venue use and a facilities conta
 
 ### Detailed Venue Specification
 
-You can view our detailed venue specification here: [https://ukhealthcamp.com/venue-specification]
+You can view our detailed venue specification here: [https://ukhealthcamp.com/venue-specification](https://ukhealthcamp.com/venue-specification)
 
 
