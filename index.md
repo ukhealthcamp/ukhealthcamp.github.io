@@ -11,7 +11,7 @@ The free ‘unconference’ for everyone interested in digital, design, technolo
 
 **We're currently planning for UK Health Camp 2026!**
 
-**We would love to host this in Leeds next year - if you think you can help us with a venue,** (https://ukhealthcamp.com/venue)[**please get in touch!**]
+**We would love to host this in Leeds next year - if you think you can help us with a venue, [please get in touch!](https://ukhealthcamp.com/venue)**
 
 <!-- p><tito-button class="get-tickets" event="ukhealthcamp/2022" ssl-check-disabled>
   <span class="btn btn-success">Get Tickets</span>
